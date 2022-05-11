@@ -21,7 +21,6 @@ protGenes <- subset(ensemblDf,Biotype=='protein_coding')$GeneName
 length(protGenes) # 19826
 
 # row index to gene name mapping table
-# NOTE: input file below not included in GitHub
 mapDf <- read.table('../data/Velmeshev2019_genes.tsv',header=F,sep='\t')
 #rownames(mapDf) # check this is default row indices
 colnames(mapDf) <- c('EnsemblID','GeneName')
