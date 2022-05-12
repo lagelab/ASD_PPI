@@ -1,0 +1,24 @@
+IGF2BP1	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+IGF2BP2	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+IGF2BP3	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+COMBINED	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+IGF2BP1	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+IGF2BP2	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+IGF2BP3	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+COMBINED	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+IGF2BP1	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+IGF2BP2	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+IGF2BP3	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+COMBINED	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+IGF2BP1	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+IGF2BP2	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+IGF2BP3	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+COMBINED	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+IGF2BP1	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+IGF2BP2	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+IGF2BP3	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+COMBINED	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+IGF2BP1	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+IGF2BP2	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+IGF2BP3	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N

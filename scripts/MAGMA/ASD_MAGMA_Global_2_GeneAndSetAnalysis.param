@@ -1,0 +1,174 @@
+ADNP	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ANK2	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ARID1B	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+CHD8	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+CTNNB1	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+DYRK1A	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+GIGYF1	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+MED13L	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+PTEN	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SCN2A	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SHANK3	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SYNGAP1	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+TLK2	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+COMBINED	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ADNP_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ANK2_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ARID1B_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+CHD8_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+CTNNB1_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+DYRK1A_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+GIGYF1_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+MED13L_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+PTEN_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SCN2A_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SHANK3_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+SYNGAP1_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+TLK2_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+COMBINED_noInWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+InWeb	ASD	Software/MAGMA/GwasData/ASD/iPSYCH-PGC_ASD_Nov2017.txt N=46351
+ADNP	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ANK2	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ARID1B	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+CHD8	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+CTNNB1	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+DYRK1A	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+GIGYF1	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+MED13L	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+PTEN	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SCN2A	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SHANK3	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SYNGAP1	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+TLK2	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+COMBINED	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ADNP_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ANK2_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ARID1B_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+CHD8_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+CTNNB1_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+DYRK1A_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+GIGYF1_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+MED13L_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+PTEN_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SCN2A_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SHANK3_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+SYNGAP1_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+TLK2_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+COMBINED_noInWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+InWeb	ADHD	Software/MAGMA/GwasData/ADHD/adhd_eur_jun2017 N=53293
+ADNP	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ANK2	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ARID1B	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+CHD8	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+CTNNB1	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+DYRK1A	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+GIGYF1	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+MED13L	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+PTEN	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SCN2A	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SHANK3	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SYNGAP1	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+TLK2	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+COMBINED	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ADNP_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ANK2_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ARID1B_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+CHD8_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+CTNNB1_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+DYRK1A_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+GIGYF1_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+MED13L_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+PTEN_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SCN2A_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SHANK3_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+SYNGAP1_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+TLK2_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+COMBINED_noInWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+InWeb	BIP	Software/MAGMA/GwasData/BIP/daner_PGC_BIP32b_mds7a_0416a_Ntot.txt ncol=Ntot
+ADNP	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ANK2	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ARID1B	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+CHD8	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+CTNNB1	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+DYRK1A	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+GIGYF1	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+MED13L	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+PTEN	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SCN2A	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SHANK3	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SYNGAP1	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+TLK2	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+COMBINED	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ADNP_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ANK2_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ARID1B_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+CHD8_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+CTNNB1_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+DYRK1A_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+GIGYF1_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+MED13L_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+PTEN_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SCN2A_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SHANK3_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+SYNGAP1_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+TLK2_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+COMBINED_noInWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+InWeb	MDD	Software/MAGMA/GwasData/MDD/PGC_UKB_depression_genome-wide.txt snp-id=MarkerName pval=P N=500199
+ADNP	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ANK2	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ARID1B	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+CHD8	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+CTNNB1	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+DYRK1A	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+GIGYF1	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+MED13L	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+PTEN	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SCN2A	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SHANK3	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SYNGAP1	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+TLK2	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+COMBINED	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ADNP_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ANK2_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ARID1B_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+CHD8_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+CTNNB1_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+DYRK1A_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+GIGYF1_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+MED13L_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+PTEN_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SCN2A_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SHANK3_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+SYNGAP1_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+TLK2_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+COMBINED_noInWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+InWeb	SCZ	Software/MAGMA/GwasData/SCZ/daner_natgen_pgc_eur_Ntot.txt ncol=Ntot
+ADNP	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ANK2	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARID1B	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+CHD8	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+CTNNB1	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+DYRK1A	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+GIGYF1	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+MED13L	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PTEN	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SCN2A	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SHANK3	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SYNGAP1	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+TLK2	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ADNP_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ANK2_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARID1B_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+CHD8_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+CTNNB1_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+DYRK1A_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+GIGYF1_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+MED13L_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PTEN_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SCN2A_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SHANK3_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+SYNGAP1_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+TLK2_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_noInWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+InWeb	height	Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
