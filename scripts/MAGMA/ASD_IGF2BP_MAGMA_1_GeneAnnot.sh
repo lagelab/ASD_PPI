@@ -1,6 +1,10 @@
-# UGER job submission script
-# run global MAGMA analysis for each IGF2BP target list
-# run gene annotation step for each list (same across all traits)
+##########################################################################################
+## UGER job submission script
+## run global MAGMA analysis for each IGF2BP target list
+## Step 1 of 2: run gene annotation step for each list (same across all traits)
+##
+## Author: Yu-Han Hsu
+##########################################################################################
 
 #$ -cwd
 #$ -N uger.magma.igf.annot

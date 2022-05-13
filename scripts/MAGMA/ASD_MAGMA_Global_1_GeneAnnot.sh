@@ -1,6 +1,10 @@
-# UGER job submission script
-# run global MAGMA analysis for each ASD network (ints vs. genomic background)
-#  run gene annotation step for each network (same across all traits)
+##########################################################################################
+## UGER job submission script
+## run global MAGMA analysis for each ASD network (ints vs. genomic background)
+## Step 1 of 2: run gene annotation step for each network (same across all traits)
+##
+## Author: Yu-Han Hsu
+##########################################################################################
 
 #$ -cwd
 #$ -N uger.magma.global.annot
@@ -41,4 +45,3 @@ filter=${magmaDir}/ReferenceData/g1000_eur/g1000_eur.noMHC.bim \
 
 # delete temp files
 rm temp/${listName}.baits.txt temp/${listName}.GLOBAL.gene.loc
-

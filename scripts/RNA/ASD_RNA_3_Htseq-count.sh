@@ -1,13 +1,17 @@
-#!/bin/bash
+##########################################################################################
+## UGER job submission script
+## bulk RNA-seq analysis for 6 samples (d0, d21, d51 of NGN2 iNs in duplicate)
+## Step 3 of 3: run htseq-count to generate gene counts for each of the 6 samples
+##
+## Author: Yu-Han Hsu, Kalliopi Tsafou
+##########################################################################################
 
-### UGER submission script to run htseq-count for each of the 6 samples
+#!/bin/bash
 
 #$ -cwd
 #$ -N uger.htseq-count
-
 #$ -l h_vmem=8g
 #$ -l h_rt=04:00:00
-
 #$ -t 1-6
 #$ -tc 6
 

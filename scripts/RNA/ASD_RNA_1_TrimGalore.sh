@@ -1,13 +1,17 @@
-#!/bin/bash
+##########################################################################################
+## UGER job submission script
+## bulk RNA-seq analysis for 6 samples (d0, d21, d51 of NGN2 iNs in duplicate)
+## Step 1 of 3: run trim_galore to trim reads for each of the 6 samples
+##
+## Author: Yu-Han Hsu, Kalliopi Tsafou
+##########################################################################################
 
-### UGER submission script to run trim_galore for each of the 6 samples
+#!/bin/bash
 
 #$ -cwd
 #$ -N uger.trim
-
 #$ -l h_vmem=4g
 #$ -l h_rt=02:00:00
-
 #$ -t 1-6
 #$ -tc 6
 
@@ -15,6 +19,7 @@
 #$ -pe smp 4
 #$ -binding linear:4
 #$ -R y
+
 
 # activate conda env with RNA-seq software installed
 source activate genoppiEnv

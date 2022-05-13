@@ -1,6 +1,10 @@
-# UGER job submission script
-# run conditional MAGMA analysis for each ASD network (ints vs. non-ints)
-# for ASD + non-ASD GWAS (ASD, ADHD, BIP, MDD, SCZ, height)
+##########################################################################################
+## UGER job submission script
+## run conditional MAGMA analysis for each ASD network (ints vs. non-ints)
+## for GWAS traits: ASD ADHD BIP MDD SCZ height
+##
+## Author: Yu-Han Hsu
+##########################################################################################
 
 #$ -cwd
 #$ -N uger.magma
@@ -9,9 +13,9 @@
 #$ -t 1-29
 #$ -tc 29
 
+
 listName=$(awk "NR==$SGE_TASK_ID {print \$1}" ASD_MAGMA_Conditional.param)
 echo $listName
-
 
 # create gene.loc and gene set files from each interactor list
 mkdir -p temp
@@ -21,8 +25,8 @@ awk -v var="$listName" '{if ($1==var) {print $3,$5,$6,$7}}' > \
 temp/${listName}.gene.loc
 
 tail -n +2 ASD_MasterInteractorTable_withInWeb.txt | \
-awk -v var="$listName" 'BEGIN{print var} {if ($1==var && $4=="TRUE") print $3}' | tr '\n' '\t' \
-> temp/${listName}.InteractorGeneSet.txt
+awk -v var="$listName" 'BEGIN{print var} {if ($1==var && $4=="TRUE") print $3}' | \
+tr '\n' '\t' > temp/${listName}.InteractorGeneSet.txt
 
 
 # directory to store MAGMA output files
@@ -40,7 +44,7 @@ filter=${magmaDir}/ReferenceData/g1000_eur/g1000_eur.noMHC.bim \
 --out magma_output/${listName}
 
 
-### ASD (fix off-by-one sample size error from previous run in: 200910_submitMagmaJobs.sh)
+### ASD
 # Gene Analysis Step (calculate gene p-values + other gene-level metrics)
 ${magmaDir}/magma_v1.09_static/magma \
 --bfile ${magmaDir}/ReferenceData/g1000_eur/g1000_eur \
@@ -132,4 +136,3 @@ ${magmaDir}/magma_v1.09_static/magma \
 
 # delete temp files
 rm temp/${listName}.gene.loc temp/${listName}.InteractorGeneSet.txt
-

@@ -1,13 +1,17 @@
-#!/bin/bash
+##########################################################################################
+## UGER job submission script
+## bulk RNA-seq analysis for 6 samples (d0, d21, d51 of NGN2 iNs in duplicate)
+## Step 2 of 3: run hisat2 to perform alignment for each of the 6 samples
+##
+## Author: Yu-Han Hsu, Kalliopi Tsafou
+##########################################################################################
 
-### UGER submission script to run hisat2 alignment for each of the 6 samples
+#!/bin/bash
 
 #$ -cwd
 #$ -N uger.hisat2
-
 #$ -l h_vmem=8g
 #$ -l h_rt=02:00:00
-
 #$ -t 1-6
 #$ -tc 6
 
@@ -15,6 +19,7 @@
 #$ -pe smp 8
 #$ -binding linear:8
 #$ -R y
+
 
 # activate conda env with RNA-seq software installed
 source activate genoppiEnv
