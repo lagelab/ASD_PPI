@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/490042485.svg)](https://zenodo.org/badge/latestdoi/490042485)
+<!-- badges: end -->
+
 # ASD_PPI
 Documentation for analysis scripts used in the ASD PPI project. A preprint version of the manuscript is available:
 
