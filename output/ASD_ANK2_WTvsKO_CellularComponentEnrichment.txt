@@ -1,0 +1,3531 @@
+Specificity	GO_CC	Population	SpecificInts	CC	Overlap	Pvalue	OverlapGenes
+WT	cytosol	232	5	133	1	0.986663873303523	RPLP2
+KO	cytosol	232	43	133	17	0.997227558040744	KRT14,BCR,HSPA1L,PPIA,TUBA1A,HSPA5,DST,SORBS1,ADD2,LIMA1,CFL1,ADD1,RNF31,TJP1,RPL24,LMO7,RPL8
+WT	plasma membrane	232	5	46	0	1	
+KO	plasma membrane	232	43	46	12	0.105958020881913	CASS4,BCR,MARK1,HSPA1L,ATP5PO,HSPA5,LIMA1,ADD1,CALM3,PALM,TJP1,BASP1
+WT	immunoglobulin complex	232	5	0	0	1	
+KO	immunoglobulin complex	232	43	0	0	1	
+WT	alpha-beta T cell receptor complex	232	5	0	0	1	
+KO	alpha-beta T cell receptor complex	232	43	0	0	1	
+WT	T cell receptor complex	232	5	0	0	1	
+KO	T cell receptor complex	232	43	0	0	1	
+WT	extracellular region	232	5	17	1	0.318835473533191	TIMP1
+KO	extracellular region	232	43	17	3	0.643553230263104	LAMC1,PPIA,TUBB
+WT	integral component of membrane	232	5	6	1	0.12380921175191	PSD2
+KO	integral component of membrane	232	43	6	2	0.308257889483348	ATP2C1,DST
+WT	cytoplasm	232	5	85	2	0.604495990654095	ARPC5L,EEF1A1P5
+KO	cytoplasm	232	43	85	21	0.0493348727093873	KRT14,CASS4,MARK1,HSPA1L,TUBB3,TUBA1A,HSPA5,TUBB2A,DST,TUBB2B,TUBB,NAV1,PHB2,CFL1,ADD1,CALM3,TJP1,BASP1,TRIOBP,RPL24,LMO7
+WT	elongin complex	232	5	0	0	1	
+KO	elongin complex	232	43	0	0	1	
+WT	condensed chromosome kinetochore	232	5	0	0	1	
+KO	condensed chromosome kinetochore	232	43	0	0	1	
+WT	condensed nuclear chromosome, centromeric region	232	5	0	0	1	
+KO	condensed nuclear chromosome, centromeric region	232	43	0	0	1	
+WT	cell	232	5	13	0	1	
+KO	cell	232	43	13	4	0.20397960470048	ATP2C1,ADD1,KIF5C,CALM3
+WT	mitochondrion	232	5	10	0	1	
+KO	mitochondrion	232	43	10	3	0.276238948851082	ATP5PO,HSPA5,PHB2
+WT	centrosome	232	5	10	0	1	
+KO	centrosome	232	43	10	2	0.583104874492112	SORBS1,CALM3
+WT	immunological synapse	232	5	1	0	1	
+KO	immunological synapse	232	43	1	0	1	
+WT	integral component of plasma membrane	232	5	1	0	1	
+KO	integral component of plasma membrane	232	43	1	0	1	
+WT	membrane	232	5	68	1	0.826661834666336	RPLP2
+KO	membrane	232	43	68	9	0.939460671584475	ATP2C1,BCR,PRPH,PPIA,HSPA5,DST,CFL1,RPL24,RPL8
+WT	nucleoplasm	232	5	64	0	1	
+KO	nucleoplasm	232	43	64	5	0.998540246298063	HSPA1L,MED30,DST,ADD1,PALM
+WT	integral component of mitochondrial outer membrane	232	5	0	0	1	
+KO	integral component of mitochondrial outer membrane	232	43	0	0	1	
+WT	extracellular space	232	5	22	2	0.0721276916127089	TIMP1,EEF1A1P5
+KO	extracellular space	232	43	22	3	0.816099514251396	LAMC1,PPIA,CFL1
+WT	keratin filament	232	5	1	0	1	
+KO	keratin filament	232	43	1	1	0.185344827586207	KRT14
+WT	MHC class II protein complex	232	5	0	0	1	
+KO	MHC class II protein complex	232	43	0	0	1	
+WT	Golgi apparatus	232	5	9	0	1	
+KO	Golgi apparatus	232	43	9	1	0.847594077068428	ATP2C1
+WT	P-body	232	5	1	0	1	
+KO	P-body	232	43	1	0	1	
+WT	intermediate filament	232	5	7	0	1	
+KO	intermediate filament	232	43	7	3	0.12066234856019	KRT14,PRPH,DST
+WT	nucleus	232	5	79	1	0.878047315875891	EEF1A1P5
+KO	nucleus	232	43	79	20	0.0432682503145713	KRT14,HSPA1L,ATP5PO,MED30,PPIA,TUBB3,TUBA1A,HSPA5,TUBB2A,DST,TUBB2B,TUBB,PHB2,SORBS1,CFL1,ADD1,CALM3,BASP1,TRIOBP,LMO7
+WT	host cell nucleus	232	5	1	0	1	
+KO	host cell nucleus	232	43	1	0	1	
+WT	cell junction	232	5	10	0	1	
+KO	cell junction	232	43	10	2	0.583104874492112	TJP1,BASP1
+WT	ciliary basal body	232	5	0	0	1	
+KO	ciliary basal body	232	43	0	0	1	
+WT	late endosome membrane	232	5	0	0	1	
+KO	late endosome membrane	232	43	0	0	1	
+WT	integral component of lysosomal membrane	232	5	0	0	1	
+KO	integral component of lysosomal membrane	232	43	0	0	1	
+WT	lysosomal proton-transporting V-type ATPase complex	232	5	0	0	1	
+KO	lysosomal proton-transporting V-type ATPase complex	232	43	0	0	1	
+WT	axon	232	5	12	0	1	
+KO	axon	232	43	12	6	0.0112011831720585	BCR,MAP6,NEFM,TUBB3,PHB2,PALM
+WT	nuclear chromatin	232	5	4	0	1	
+KO	nuclear chromatin	232	43	4	0	1	
+WT	postsynaptic membrane	232	5	3	0	1	
+KO	postsynaptic membrane	232	43	3	0	1	
+WT	ribosome	232	5	14	0	1	
+KO	ribosome	232	43	14	0	1	
+WT	nucleosome	232	5	4	0	1	
+KO	nucleosome	232	43	4	0	1	
+WT	Golgi membrane	232	5	4	0	1	
+KO	Golgi membrane	232	43	4	1	0.562164550912317	ATP2C1
+WT	mRNA cap binding complex	232	5	0	0	1	
+KO	mRNA cap binding complex	232	43	0	0	1	
+WT	cilium	232	5	1	0	1	
+KO	cilium	232	43	1	0	1	
+WT	intraciliary transport particle B	232	5	0	0	1	
+KO	intraciliary transport particle B	232	43	0	0	1	
+WT	ciliary tip	232	5	1	0	1	
+KO	ciliary tip	232	43	1	0	1	
+WT	endoplasmic reticulum	232	5	17	0	1	
+KO	endoplasmic reticulum	232	43	17	3	0.643553230263104	HSPA5,RCN2,RPL24
+WT	endoplasmic reticulum membrane	232	5	4	0	1	
+KO	endoplasmic reticulum membrane	232	43	4	2	0.157284458207577	HSPA5,DST
+WT	nucleolus	232	5	36	0	1	
+KO	nucleolus	232	43	36	1	0.999689742426704	RCN2
+WT	intrinsic component of endoplasmic reticulum membrane	232	5	0	0	1	
+KO	intrinsic component of endoplasmic reticulum membrane	232	43	0	0	1	
+WT	extrinsic component of cytoplasmic side of plasma membrane	232	5	1	0	1	
+KO	extrinsic component of cytoplasmic side of plasma membrane	232	43	1	0	1	
+WT	organelle membrane contact site	232	5	0	0	1	
+KO	organelle membrane contact site	232	43	0	0	1	
+WT	endoplasmic reticulum-plasma membrane contact site	232	5	0	0	1	
+KO	endoplasmic reticulum-plasma membrane contact site	232	43	0	0	1	
+WT	early endosome	232	5	2	0	1	
+KO	early endosome	232	43	2	0	1	
+WT	microtubule	232	5	17	0	1	
+KO	microtubule	232	43	17	8	0.00493022475587911	MAP6,TUBB3,TUBA1A,TUBB2A,TUBB2B,TUBB,NAV1,KIF5C
+WT	microtubule associated complex	232	5	3	0	1	
+KO	microtubule associated complex	232	43	3	0	1	
+WT	microtubule cytoskeleton	232	5	9	0	1	
+KO	microtubule cytoskeleton	232	43	9	5	0.0124127734645301	MARK1,TUBA1A,DST,TUBB2B,NAV1
+WT	lamellipodium	232	5	15	0	1	
+KO	lamellipodium	232	43	15	2	0.805699566403605	TUBB3,CFL1
+WT	filopodium	232	5	8	0	1	
+KO	filopodium	232	43	8	1	0.811387145101258	TUBB3
+WT	growth cone	232	5	12	0	1	
+KO	growth cone	232	43	12	4	0.162721114822691	TMOD2,TUBB3,CALM3,BASP1
+WT	cell leading edge	232	5	2	0	1	
+KO	cell leading edge	232	43	2	1	0.336990595611285	DST
+WT	perikaryon	232	5	4	0	1	
+KO	perikaryon	232	43	4	0	1	
+WT	axonal growth cone	232	5	1	0	1	
+KO	axonal growth cone	232	43	1	1	0.185344827586207	KIF5C
+WT	perinuclear region of cytoplasm	232	5	10	0	1	
+KO	perinuclear region of cytoplasm	232	43	10	1	0.876981766243574	MAP6
+WT	extracellular exosome	232	5	88	4	0.069916104101149	TIMP1,ARPC5L,RPLP2,EEF1A1P5
+KO	extracellular exosome	232	43	88	13	0.909110210552611	KRT14,LAMC1,BCR,PRPH,PPIA,TUBB3,TUBA1A,HSPA5,TUBB2A,TUBB,CFL1,BASP1,RPL24
+WT	cellular_component	232	5	2	0	1	
+KO	cellular_component	232	43	2	0	1	
+WT	nuclear inner membrane	232	5	0	0	1	
+KO	nuclear inner membrane	232	43	0	0	1	
+WT	autophagosome membrane	232	5	0	0	1	
+KO	autophagosome membrane	232	43	0	0	1	
+WT	phagocytic cup	232	5	0	0	1	
+KO	phagocytic cup	232	43	0	0	1	
+WT	phagocytic vesicle membrane	232	5	0	0	1	
+KO	phagocytic vesicle membrane	232	43	0	0	1	
+WT	cell projection	232	5	3	0	1	
+KO	cell projection	232	43	3	1	0.460944527736132	TJP1
+WT	cell periphery	232	5	5	0	1	
+KO	cell periphery	232	43	5	2	0.231867633179503	KRT14,PHB2
+WT	mitotic spindle	232	5	3	0	1	
+KO	mitotic spindle	232	43	3	0	1	
+WT	supramolecular fiber	232	5	0	0	1	
+KO	supramolecular fiber	232	43	0	0	1	
+WT	central element	232	5	0	0	1	
+KO	central element	232	43	0	0	1	
+WT	chromosome	232	5	2	0	1	
+KO	chromosome	232	43	2	0	1	
+WT	collagen-containing extracellular matrix	232	5	5	0	1	
+KO	collagen-containing extracellular matrix	232	43	5	1	0.64473878034552	LAMC1
+WT	sarcoplasmic reticulum	232	5	0	0	1	
+KO	sarcoplasmic reticulum	232	43	0	0	1	
+WT	podosome	232	5	5	0	1	
+KO	podosome	232	43	5	1	0.64473878034552	TJP1
+WT	mitochondrial inner membrane	232	5	4	0	1	
+KO	mitochondrial inner membrane	232	43	4	2	0.157284458207577	ATP5PO,PHB2
+WT	centriole	232	5	1	0	1	
+KO	centriole	232	43	1	0	1	
+WT	ciliary transition zone	232	5	0	0	1	
+KO	ciliary transition zone	232	43	0	0	1	
+WT	ciliary base	232	5	0	0	1	
+KO	ciliary base	232	43	0	0	1	
+WT	cytoplasmic ribonucleoprotein granule	232	5	6	0	1	
+KO	cytoplasmic ribonucleoprotein granule	232	43	6	2	0.308257889483348	TUBA1A,TUBB
+WT	intracellular membrane-bounded organelle	232	5	7	0	1	
+KO	intracellular membrane-bounded organelle	232	43	7	1	0.766824767295512	HSPA5
+WT	sarcolemma	232	5	1	0	1	
+KO	sarcolemma	232	43	1	0	1	
+WT	deuterosome	232	5	0	0	1	
+KO	deuterosome	232	43	0	0	1	
+WT	Dsl1/NZR complex	232	5	0	0	1	
+KO	Dsl1/NZR complex	232	43	0	0	1	
+WT	COP9 signalosome	232	5	5	0	1	
+KO	COP9 signalosome	232	43	5	3	0.0454096957496889	HSPA1L,HSPA5,BASP1
+WT	mitochondrial matrix	232	5	4	0	1	
+KO	mitochondrial matrix	232	43	4	1	0.562164550912317	HSPA1L
+WT	cytoskeleton	232	5	29	0	1	
+KO	cytoskeleton	232	43	29	7	0.273869435858418	TMOD2,CASS4,MARK1,TUBB,ADD2,ADD1,BASP1
+WT	postsynaptic Golgi apparatus	232	5	1	0	1	
+KO	postsynaptic Golgi apparatus	232	43	1	0	1	
+WT	photoreceptor outer segment	232	5	2	0	1	
+KO	photoreceptor outer segment	232	43	2	0	1	
+WT	photoreceptor inner segment	232	5	1	0	1	
+KO	photoreceptor inner segment	232	43	1	0	1	
+WT	centriolar satellite	232	5	2	0	1	
+KO	centriolar satellite	232	43	2	0	1	
+WT	Flemming body	232	5	0	0	1	
+KO	Flemming body	232	43	0	0	1	
+WT	myofilament	232	5	0	0	1	
+KO	myofilament	232	43	0	0	1	
+WT	peroxisome	232	5	1	0	1	
+KO	peroxisome	232	43	1	0	1	
+WT	trans-Golgi network	232	5	2	0	1	
+KO	trans-Golgi network	232	43	2	1	0.336990595611285	ATP2C1
+WT	extrinsic component of endosome membrane	232	5	0	0	1	
+KO	extrinsic component of endosome membrane	232	43	0	0	1	
+WT	early endosome membrane	232	5	0	0	1	
+KO	early endosome membrane	232	43	0	0	1	
+WT	acrosomal vesicle	232	5	1	0	1	
+KO	acrosomal vesicle	232	43	1	0	1	
+WT	Z disc	232	5	6	0	1	
+KO	Z disc	232	43	6	1	0.712034958517955	DST
+WT	stress fiber	232	5	13	0	1	
+KO	stress fiber	232	43	13	2	0.732728650810554	SORBS1,LIMA1
+WT	focal adhesion	232	5	57	2	0.358009562110568	ARPC5L,RPLP2
+KO	focal adhesion	232	43	57	11	0.501615083995099	CASS4,PPIA,HSPA5,DST,SORBS1,LIMA1,CFL1,ADD1,TRIOBP,LMO7,RPL8
+WT	cell cortex	232	5	7	0	1	
+KO	cell cortex	232	43	7	1	0.766824767295512	DST
+WT	blood microparticle	232	5	4	0	1	
+KO	blood microparticle	232	43	4	1	0.562164550912317	HSPA1L
+WT	endosome	232	5	0	0	1	
+KO	endosome	232	43	0	0	1	
+WT	ESCRT I complex	232	5	0	0	1	
+KO	ESCRT I complex	232	43	0	0	1	
+WT	endosome membrane	232	5	4	0	1	
+KO	endosome membrane	232	43	4	1	0.562164550912317	WDR83
+WT	host cell	232	5	1	0	1	
+KO	host cell	232	43	1	0	1	
+WT	axoneme	232	5	2	0	1	
+KO	axoneme	232	43	2	0	1	
+WT	sperm midpiece	232	5	0	0	1	
+KO	sperm midpiece	232	43	0	0	1	
+WT	non-motile cilium	232	5	0	0	1	
+KO	non-motile cilium	232	43	0	0	1	
+WT	proteasome core complex, beta-subunit complex	232	5	0	0	1	
+KO	proteasome core complex, beta-subunit complex	232	43	0	0	1	
+WT	cleavage furrow	232	5	5	1	0.104075184989566	PSD2
+KO	cleavage furrow	232	43	5	1	0.64473878034552	LIMA1
+WT	ruffle membrane	232	5	8	1	0.162234097844206	PSD2
+KO	ruffle membrane	232	43	8	1	0.811387145101258	CFL1
+WT	dendritic spine	232	5	6	0	1	
+KO	dendritic spine	232	43	6	1	0.712034958517955	BCR
+WT	extrinsic component of postsynaptic endosome membrane	232	5	0	0	1	
+KO	extrinsic component of postsynaptic endosome membrane	232	43	0	0	1	
+WT	postsynaptic density, intracellular component	232	5	2	0	1	
+KO	postsynaptic density, intracellular component	232	43	2	1	0.336990595611285	BCR
+WT	CCR4-NOT complex	232	5	0	0	1	
+KO	CCR4-NOT complex	232	43	0	0	1	
+WT	basolateral plasma membrane	232	5	4	0	1	
+KO	basolateral plasma membrane	232	43	4	2	0.157284458207577	PALM,TJP1
+WT	endomembrane system	232	5	0	0	1	
+KO	endomembrane system	232	43	0	0	1	
+WT	cytoplasmic vesicle	232	5	3	0	1	
+KO	cytoplasmic vesicle	232	43	3	3	0.00600722366089682	DST,ADD2,PALM
+WT	cell surface	232	5	6	0	1	
+KO	cell surface	232	43	6	3	0.079087120571814	HSPA5,PHB2,LMO7
+WT	integral component of organelle membrane	232	5	0	0	1	
+KO	integral component of organelle membrane	232	43	0	0	1	
+WT	transcription factor complex	232	5	2	0	1	
+KO	transcription factor complex	232	43	2	0	1	
+WT	microvillus	232	5	2	0	1	
+KO	microvillus	232	43	2	0	1	
+WT	stereocilium shaft	232	5	0	0	1	
+KO	stereocilium shaft	232	43	0	0	1	
+WT	stereocilium base	232	5	0	0	1	
+KO	stereocilium base	232	43	0	0	1	
+WT	motile cilium	232	5	0	0	1	
+KO	motile cilium	232	43	0	0	1	
+WT	axonemal outer doublet	232	5	0	0	1	
+KO	axonemal outer doublet	232	43	0	0	1	
+WT	protein-containing complex	232	5	20	0	1	
+KO	protein-containing complex	232	43	20	8	0.0161890329974039	BCR,HSPA1L,PPIA,HSPA5,TUBB,PHB2,CALM3,TJP1
+WT	collagen trimer	232	5	0	0	1	
+KO	collagen trimer	232	43	0	0	1	
+WT	fibrillar center	232	5	4	0	1	
+KO	fibrillar center	232	43	4	0	1	
+WT	ESC/E(Z) complex	232	5	0	0	1	
+KO	ESC/E(Z) complex	232	43	0	0	1	
+WT	Barr body	232	5	0	0	1	
+KO	Barr body	232	43	0	0	1	
+WT	site of double-strand break	232	5	2	0	1	
+KO	site of double-strand break	232	43	2	0	1	
+WT	nuclear chromosome, telomeric region	232	5	2	0	1	
+KO	nuclear chromosome, telomeric region	232	43	2	0	1	
+WT	GATOR2 complex	232	5	0	0	1	
+KO	GATOR2 complex	232	43	0	0	1	
+WT	integral component of Golgi membrane	232	5	0	0	1	
+KO	integral component of Golgi membrane	232	43	0	0	1	
+WT	midbody	232	5	4	0	1	
+KO	midbody	232	43	4	2	0.157284458207577	HSPA5,TRIOBP
+WT	spindle midzone	232	5	0	0	1	
+KO	spindle midzone	232	43	0	0	1	
+WT	synapse	232	5	13	0	1	
+KO	synapse	232	43	13	1	0.935724145643299	TMOD2
+WT	spindle pole	232	5	2	0	1	
+KO	spindle pole	232	43	2	1	0.336990595611285	CALM3
+WT	microtubule organizing center	232	5	3	0	1	
+KO	microtubule organizing center	232	43	3	1	0.460944527736132	TRIOBP
+WT	adherens junction	232	5	10	0	1	
+KO	adherens junction	232	43	10	3	0.276238948851082	SORBS1,ADD1,TJP1
+WT	bicellular tight junction	232	5	2	0	1	
+KO	bicellular tight junction	232	43	2	1	0.336990595611285	TJP1
+WT	apical junction complex	232	5	2	0	1	
+KO	apical junction complex	232	43	2	1	0.336990595611285	TJP1
+WT	membrane raft	232	5	4	0	1	
+KO	membrane raft	232	43	4	3	0.0208810045156064	TUBA1A,TUBB,SORBS1
+WT	postsynaptic density	232	5	27	0	1	
+KO	postsynaptic density	232	43	27	6	0.381866741645367	BCR,PHB2,ADD2,ADD1,PALM,RPL8
+WT	postsynaptic density membrane	232	5	0	0	1	
+KO	postsynaptic density membrane	232	43	0	0	1	
+WT	asymmetric, glutamatergic, excitatory synapse	232	5	0	0	1	
+KO	asymmetric, glutamatergic, excitatory synapse	232	43	0	0	1	
+WT	integral component of postsynaptic specialization membrane	232	5	0	0	1	
+KO	integral component of postsynaptic specialization membrane	232	43	0	0	1	
+WT	AMPA glutamate receptor complex	232	5	0	0	1	
+KO	AMPA glutamate receptor complex	232	43	0	0	1	
+WT	glutamatergic synapse	232	5	15	2	0.0349271990694442	PSD2,ARPC5L
+KO	glutamatergic synapse	232	43	15	2	0.805699566403605	BCR,PHB2
+WT	outer acrosomal membrane	232	5	0	0	1	
+KO	outer acrosomal membrane	232	43	0	0	1	
+WT	basement membrane	232	5	4	1	0.0839871846530089	TIMP1
+KO	basement membrane	232	43	4	2	0.157284458207577	LAMC1,DST
+WT	melanosome	232	5	5	0	1	
+KO	melanosome	232	43	5	1	0.64473878034552	HSPA5
+WT	extracellular matrix	232	5	2	1	0.0427302582474995	TIMP1
+KO	extracellular matrix	232	43	2	0	1	
+WT	connexin complex	232	5	0	0	1	
+KO	connexin complex	232	43	0	0	1	
+WT	cytoplasmic vesicle membrane	232	5	1	0	1	
+KO	cytoplasmic vesicle membrane	232	43	1	0	1	
+WT	longitudinal sarcoplasmic reticulum	232	5	0	0	1	
+KO	longitudinal sarcoplasmic reticulum	232	43	0	0	1	
+WT	phosphopyruvate hydratase complex	232	5	0	0	1	
+KO	phosphopyruvate hydratase complex	232	43	0	0	1	
+WT	myosin complex	232	5	5	0	1	
+KO	myosin complex	232	43	5	0	1	
+WT	myosin filament	232	5	0	0	1	
+KO	myosin filament	232	43	0	0	1	
+WT	nuclear envelope	232	5	2	0	1	
+KO	nuclear envelope	232	43	2	2	0.0336990595611285	DST,LMO7
+WT	nuclear membrane	232	5	1	0	1	
+KO	nuclear membrane	232	43	1	0	1	
+WT	late endosome	232	5	2	0	1	
+KO	late endosome	232	43	2	0	1	
+WT	autophagosome	232	5	1	0	1	
+KO	autophagosome	232	43	1	0	1	
+WT	recycling endosome	232	5	2	0	1	
+KO	recycling endosome	232	43	2	1	0.336990595611285	TUBA1A
+WT	recycling endosome membrane	232	5	0	0	1	
+KO	recycling endosome membrane	232	43	0	0	1	
+WT	WASH complex	232	5	2	0	1	
+KO	WASH complex	232	43	2	0	1	
+WT	invadopodium	232	5	2	0	1	
+KO	invadopodium	232	43	2	0	1	
+WT	exocyst	232	5	0	0	1	
+KO	exocyst	232	43	0	0	1	
+WT	zymogen granule membrane	232	5	0	0	1	
+KO	zymogen granule membrane	232	43	0	0	1	
+WT	extrinsic component of membrane	232	5	0	0	1	
+KO	extrinsic component of membrane	232	43	0	0	1	
+WT	ciliary membrane	232	5	0	0	1	
+KO	ciliary membrane	232	43	0	0	1	
+WT	plasma membrane protein complex	232	5	0	0	1	
+KO	plasma membrane protein complex	232	43	0	0	1	
+WT	chloride channel complex	232	5	0	0	1	
+KO	chloride channel complex	232	43	0	0	1	
+WT	intermediate filament cytoskeleton	232	5	3	0	1	
+KO	intermediate filament cytoskeleton	232	43	3	1	0.460944527736132	NEFM
+WT	Fanconi anaemia nuclear complex	232	5	0	0	1	
+KO	Fanconi anaemia nuclear complex	232	43	0	0	1	
+WT	FANCM-MHF complex	232	5	0	0	1	
+KO	FANCM-MHF complex	232	43	0	0	1	
+WT	apical plasma membrane	232	5	4	0	1	
+KO	apical plasma membrane	232	43	4	1	0.562164550912317	LMO7
+WT	mitochondrial membrane	232	5	1	0	1	
+KO	mitochondrial membrane	232	43	1	1	0.185344827586207	CALM3
+WT	BBSome	232	5	0	0	1	
+KO	BBSome	232	43	0	0	1	
+WT	contractile fiber	232	5	1	0	1	
+KO	contractile fiber	232	43	1	0	1	
+WT	spindle	232	5	3	0	1	
+KO	spindle	232	43	3	0	1	
+WT	lateral element	232	5	0	0	1	
+KO	lateral element	232	43	0	0	1	
+WT	stereocilium	232	5	0	0	1	
+KO	stereocilium	232	43	0	0	1	
+WT	kinocilium	232	5	0	0	1	
+KO	kinocilium	232	43	0	0	1	
+WT	dendrite	232	5	16	1	0.302694134043456	PSD2
+KO	dendrite	232	43	16	3	0.598634312818776	MAP6,MARK1,TUBB3
+WT	peroxisomal matrix	232	5	0	0	1	
+KO	peroxisomal matrix	232	43	0	0	1	
+WT	sperm flagellum	232	5	0	0	1	
+KO	sperm flagellum	232	43	0	0	1	
+WT	sperm principal piece	232	5	0	0	1	
+KO	sperm principal piece	232	43	0	0	1	
+WT	cornified envelope	232	5	1	0	1	
+KO	cornified envelope	232	43	1	0	1	
+WT	leading edge membrane	232	5	0	0	1	
+KO	leading edge membrane	232	43	0	0	1	
+WT	brush border	232	5	8	0	1	
+KO	brush border	232	43	8	0	1	
+WT	filamentous actin	232	5	2	0	1	
+KO	filamentous actin	232	43	2	0	1	
+WT	stereocilium tip	232	5	0	0	1	
+KO	stereocilium tip	232	43	0	0	1	
+WT	unconventional myosin complex	232	5	3	0	1	
+KO	unconventional myosin complex	232	43	3	0	1	
+WT	axon initial segment	232	5	2	0	1	
+KO	axon initial segment	232	43	2	1	0.336990595611285	NAV1
+WT	apicolateral plasma membrane	232	5	1	0	1	
+KO	apicolateral plasma membrane	232	43	1	1	0.185344827586207	PALM
+WT	ionotropic glutamate receptor complex	232	5	0	0	1	
+KO	ionotropic glutamate receptor complex	232	43	0	0	1	
+WT	dendritic spine membrane	232	5	1	0	1	
+KO	dendritic spine membrane	232	43	1	1	0.185344827586207	PALM
+WT	integral component of postsynaptic density membrane	232	5	0	0	1	
+KO	integral component of postsynaptic density membrane	232	43	0	0	1	
+WT	eukaryotic 43S preinitiation complex	232	5	0	0	1	
+KO	eukaryotic 43S preinitiation complex	232	43	0	0	1	
+WT	eukaryotic 48S preinitiation complex	232	5	0	0	1	
+KO	eukaryotic 48S preinitiation complex	232	43	0	0	1	
+WT	specific granule membrane	232	5	0	0	1	
+KO	specific granule membrane	232	43	0	0	1	
+WT	tertiary granule membrane	232	5	0	0	1	
+KO	tertiary granule membrane	232	43	0	0	1	
+WT	Golgi-associated vesicle membrane	232	5	0	0	1	
+KO	Golgi-associated vesicle membrane	232	43	0	0	1	
+WT	Golgi cisterna membrane	232	5	0	0	1	
+KO	Golgi cisterna membrane	232	43	0	0	1	
+WT	lysosomal membrane	232	5	2	0	1	
+KO	lysosomal membrane	232	43	2	0	1	
+WT	tight junction	232	5	2	0	1	
+KO	tight junction	232	43	2	1	0.336990595611285	TJP1
+WT	ribonucleoprotein complex	232	5	16	0	1	
+KO	ribonucleoprotein complex	232	43	16	0	1	
+WT	cytoplasmic stress granule	232	5	0	0	1	
+KO	cytoplasmic stress granule	232	43	0	0	1	
+WT	nuclear body	232	5	4	0	1	
+KO	nuclear body	232	43	4	1	0.562164550912317	ADD1
+WT	mitochondrial outer membrane	232	5	2	0	1	
+KO	mitochondrial outer membrane	232	43	2	1	0.336990595611285	PHB2
+WT	mitochondrial intermembrane space	232	5	0	0	1	
+KO	mitochondrial intermembrane space	232	43	0	0	1	
+WT	nascent polypeptide-associated complex	232	5	0	0	1	
+KO	nascent polypeptide-associated complex	232	43	0	0	1	
+WT	anchored component of membrane	232	5	1	0	1	
+KO	anchored component of membrane	232	43	1	0	1	
+WT	lysosome	232	5	3	0	1	
+KO	lysosome	232	43	3	1	0.460944527736132	GALC
+WT	peroxisomal membrane	232	5	0	0	1	
+KO	peroxisomal membrane	232	43	0	0	1	
+WT	integral component of endoplasmic reticulum membrane	232	5	1	0	1	
+KO	integral component of endoplasmic reticulum membrane	232	43	1	1	0.185344827586207	HSPA5
+WT	centriolar subdistal appendage	232	5	1	0	1	
+KO	centriolar subdistal appendage	232	43	1	0	1	
+WT	spindle microtubule	232	5	1	0	1	
+KO	spindle microtubule	232	43	1	1	0.185344827586207	CALM3
+WT	nuclear speck	232	5	12	0	1	
+KO	nuclear speck	232	43	12	1	0.920109107579242	BASP1
+WT	filopodium membrane	232	5	2	0	1	
+KO	filopodium membrane	232	43	2	1	0.336990595611285	PALM
+WT	postsynapse	232	5	5	1	0.104075184989566	PSD2
+KO	postsynapse	232	43	5	1	0.64473878034552	RPL8
+WT	nuclear pore	232	5	0	0	1	
+KO	nuclear pore	232	43	0	0	1	
+WT	basal plasma membrane	232	5	1	0	1	
+KO	basal plasma membrane	232	43	1	1	0.185344827586207	DST
+WT	lateral plasma membrane	232	5	2	0	1	
+KO	lateral plasma membrane	232	43	2	0	1	
+WT	phagocytic vesicle	232	5	0	0	1	
+KO	phagocytic vesicle	232	43	0	0	1	
+WT	stereocilium membrane	232	5	1	0	1	
+KO	stereocilium membrane	232	43	1	0	1	
+WT	SNARE complex	232	5	0	0	1	
+KO	SNARE complex	232	43	0	0	1	
+WT	specific granule	232	5	0	0	1	
+KO	specific granule	232	43	0	0	1	
+WT	azurophil granule	232	5	0	0	1	
+KO	azurophil granule	232	43	0	0	1	
+WT	mast cell granule	232	5	0	0	1	
+KO	mast cell granule	232	43	0	0	1	
+WT	neuron projection	232	5	5	0	1	
+KO	neuron projection	232	43	5	0	1	
+WT	presynapse	232	5	6	0	1	
+KO	presynapse	232	43	6	0	1	
+WT	actin cytoskeleton	232	5	32	0	1	
+KO	actin cytoskeleton	232	43	32	2	0.992001132870969	LIMA1,TRIOBP
+WT	sodium:potassium-exchanging ATPase complex	232	5	0	0	1	
+KO	sodium:potassium-exchanging ATPase complex	232	43	0	0	1	
+WT	caveola	232	5	0	0	1	
+KO	caveola	232	43	0	0	1	
+WT	intercalated disc	232	5	2	0	1	
+KO	intercalated disc	232	43	2	0	1	
+WT	T-tubule	232	5	0	0	1	
+KO	T-tubule	232	43	0	0	1	
+WT	aryl hydrocarbon receptor complex	232	5	0	0	1	
+KO	aryl hydrocarbon receptor complex	232	43	0	0	1	
+WT	cytoplasmic exosome (RNase complex)	232	5	0	0	1	
+KO	cytoplasmic exosome (RNase complex)	232	43	0	0	1	
+WT	voltage-gated potassium channel complex	232	5	2	0	1	
+KO	voltage-gated potassium channel complex	232	43	2	1	0.336990595611285	CALM3
+WT	brush border membrane	232	5	2	0	1	
+KO	brush border membrane	232	43	2	1	0.336990595611285	LIMA1
+WT	potassium channel complex	232	5	0	0	1	
+KO	potassium channel complex	232	43	0	0	1	
+WT	synaptic membrane	232	5	0	0	1	
+KO	synaptic membrane	232	43	0	0	1	
+WT	inward rectifier potassium channel complex	232	5	0	0	1	
+KO	inward rectifier potassium channel complex	232	43	0	0	1	
+WT	platelet alpha granule	232	5	0	0	1	
+KO	platelet alpha granule	232	43	0	0	1	
+WT	tertiary granule	232	5	0	0	1	
+KO	tertiary granule	232	43	0	0	1	
+WT	AP-4 adaptor complex	232	5	0	0	1	
+KO	AP-4 adaptor complex	232	43	0	0	1	
+WT	clathrin adaptor complex	232	5	0	0	1	
+KO	clathrin adaptor complex	232	43	0	0	1	
+WT	endosome lumen	232	5	0	0	1	
+KO	endosome lumen	232	43	0	0	1	
+WT	trans-Golgi network membrane	232	5	1	0	1	
+KO	trans-Golgi network membrane	232	43	1	0	1	
+WT	intracellular	232	5	0	0	1	
+KO	intracellular	232	43	0	0	1	
+WT	Golgi stack	232	5	1	0	1	
+KO	Golgi stack	232	43	1	0	1	
+WT	trans-Golgi network transport vesicle	232	5	0	0	1	
+KO	trans-Golgi network transport vesicle	232	43	0	0	1	
+WT	platelet dense granule membrane	232	5	0	0	1	
+KO	platelet dense granule membrane	232	43	0	0	1	
+WT	multivesicular body membrane	232	5	0	0	1	
+KO	multivesicular body membrane	232	43	0	0	1	
+WT	anchored component of synaptic vesicle membrane	232	5	0	0	1	
+KO	anchored component of synaptic vesicle membrane	232	43	0	0	1	
+WT	axon cytoplasm	232	5	4	0	1	
+KO	axon cytoplasm	232	43	4	2	0.157284458207577	DST,KIF5C
+WT	AP-3 adaptor complex	232	5	0	0	1	
+KO	AP-3 adaptor complex	232	43	0	0	1	
+WT	clathrin-coated vesicle membrane	232	5	0	0	1	
+KO	clathrin-coated vesicle membrane	232	43	0	0	1	
+WT	ruffle	232	5	5	0	1	
+KO	ruffle	232	43	5	1	0.64473878034552	LIMA1
+WT	external side of plasma membrane	232	5	0	0	1	
+KO	external side of plasma membrane	232	43	0	0	1	
+WT	intrinsic component of plasma membrane	232	5	0	0	1	
+KO	intrinsic component of plasma membrane	232	43	0	0	1	
+WT	receptor complex	232	5	1	0	1	
+KO	receptor complex	232	43	1	0	1	
+WT	lipopolysaccharide receptor complex	232	5	0	0	1	
+KO	lipopolysaccharide receptor complex	232	43	0	0	1	
+WT	presynaptic membrane	232	5	1	0	1	
+KO	presynaptic membrane	232	43	1	0	1	
+WT	neuronal cell body	232	5	12	1	0.235040144832203	PSD2
+KO	neuronal cell body	232	43	12	1	0.920109107579242	KIF5C
+WT	main axon	232	5	1	0	1	
+KO	main axon	232	43	1	0	1	
+WT	growth cone lamellipodium	232	5	1	0	1	
+KO	growth cone lamellipodium	232	43	1	0	1	
+WT	growth cone filopodium	232	5	0	0	1	
+KO	growth cone filopodium	232	43	0	0	1	
+WT	mitochondrial respiratory chain complex I	232	5	0	0	1	
+KO	mitochondrial respiratory chain complex I	232	43	0	0	1	
+WT	hyaluranon cable	232	5	0	0	1	
+KO	hyaluranon cable	232	43	0	0	1	
+WT	proteasome complex	232	5	0	0	1	
+KO	proteasome complex	232	43	0	0	1	
+WT	proteasome accessory complex	232	5	0	0	1	
+KO	proteasome accessory complex	232	43	0	0	1	
+WT	secretory granule lumen	232	5	3	0	1	
+KO	secretory granule lumen	232	43	3	1	0.460944527736132	PPIA
+WT	ficolin-1-rich granule lumen	232	5	4	0	1	
+KO	ficolin-1-rich granule lumen	232	43	4	1	0.562164550912317	PPIA
+WT	proteasome regulatory particle	232	5	0	0	1	
+KO	proteasome regulatory particle	232	43	0	0	1	
+WT	proteasome regulatory particle, base subcomplex	232	5	0	0	1	
+KO	proteasome regulatory particle, base subcomplex	232	43	0	0	1	
+WT	endoplasmic reticulum quality control compartment	232	5	0	0	1	
+KO	endoplasmic reticulum quality control compartment	232	43	0	0	1	
+WT	HFE-transferrin receptor complex	232	5	0	0	1	
+KO	HFE-transferrin receptor complex	232	43	0	0	1	
+WT	secretory granule membrane	232	5	0	0	1	
+KO	secretory granule membrane	232	43	0	0	1	
+WT	Golgi lumen	232	5	0	0	1	
+KO	Golgi lumen	232	43	0	0	1	
+WT	chromatin	232	5	1	0	1	
+KO	chromatin	232	43	1	1	0.185344827586207	BASP1
+WT	endoplasmic reticulum lumen	232	5	7	1	0.143193963704302	TIMP1
+KO	endoplasmic reticulum lumen	232	43	7	3	0.12066234856019	LAMC1,HSPA5,RCN2
+WT	nuclear matrix	232	5	6	0	1	
+KO	nuclear matrix	232	43	6	4	0.0117322709275639	PHB2,SORBS1,CFL1,BASP1
+WT	histone methyltransferase complex	232	5	0	0	1	
+KO	histone methyltransferase complex	232	43	0	0	1	
+WT	PcG protein complex	232	5	0	0	1	
+KO	PcG protein complex	232	43	0	0	1	
+WT	PRC1 complex	232	5	0	0	1	
+KO	PRC1 complex	232	43	0	0	1	
+WT	smooth endoplasmic reticulum membrane	232	5	0	0	1	
+KO	smooth endoplasmic reticulum membrane	232	43	0	0	1	
+WT	cell body	232	5	5	0	1	
+KO	cell body	232	43	5	2	0.231867633179503	HSPA1L,TUBB
+WT	DSIF complex	232	5	0	0	1	
+KO	DSIF complex	232	43	0	0	1	
+WT	transcription factor TFIID complex	232	5	0	0	1	
+KO	transcription factor TFIID complex	232	43	0	0	1	
+WT	transcription factor TFTC complex	232	5	0	0	1	
+KO	transcription factor TFTC complex	232	43	0	0	1	
+WT	MLL1 complex	232	5	0	0	1	
+KO	MLL1 complex	232	43	0	0	1	
+WT	clathrin-coated vesicle	232	5	0	0	1	
+KO	clathrin-coated vesicle	232	43	0	0	1	
+WT	extrinsic component of presynaptic membrane	232	5	0	0	1	
+KO	extrinsic component of presynaptic membrane	232	43	0	0	1	
+WT	platelet alpha granule lumen	232	5	2	1	0.0427302582474995	TIMP1
+KO	platelet alpha granule lumen	232	43	2	0	1	
+WT	axon terminus	232	5	0	0	1	
+KO	axon terminus	232	43	0	0	1	
+WT	vesicle	232	5	11	0	1	
+KO	vesicle	232	43	11	4	0.125109784271115	PPIA,CFL1,CALM3,BASP1
+WT	eukaryotic translation initiation factor 3 complex	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 3 complex	232	43	0	0	1	
+WT	voltage-gated calcium channel complex	232	5	0	0	1	
+KO	voltage-gated calcium channel complex	232	43	0	0	1	
+WT	cytoplasmic side of plasma membrane	232	5	2	0	1	
+KO	cytoplasmic side of plasma membrane	232	43	2	1	0.336990595611285	RNF31
+WT	ubiquitin ligase complex	232	5	2	0	1	
+KO	ubiquitin ligase complex	232	43	2	2	0.0336990595611285	MED30,LMO7
+WT	intercellular bridge	232	5	1	0	1	
+KO	intercellular bridge	232	43	1	0	1	
+WT	apical plasma membrane urothelial plaque	232	5	0	0	1	
+KO	apical plasma membrane urothelial plaque	232	43	0	0	1	
+WT	PML body	232	5	1	0	1	
+KO	PML body	232	43	1	1	0.185344827586207	BASP1
+WT	chromatoid body	232	5	0	0	1	
+KO	chromatoid body	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex	232	43	0	0	1	
+WT	pyruvate dehydrogenase complex	232	5	0	0	1	
+KO	pyruvate dehydrogenase complex	232	43	0	0	1	
+WT	specific granule lumen	232	5	1	0	1	
+KO	specific granule lumen	232	43	1	0	1	
+WT	tertiary granule lumen	232	5	1	0	1	
+KO	tertiary granule lumen	232	43	1	0	1	
+WT	dynactin complex	232	5	0	0	1	
+KO	dynactin complex	232	43	0	0	1	
+WT	actin cap	232	5	0	0	1	
+KO	actin cap	232	43	0	0	1	
+WT	endocytic vesicle membrane	232	5	2	0	1	
+KO	endocytic vesicle membrane	232	43	2	0	1	
+WT	mitochondrial nucleoid	232	5	1	0	1	
+KO	mitochondrial nucleoid	232	43	1	0	1	
+WT	histone deacetylase complex	232	5	0	0	1	
+KO	histone deacetylase complex	232	43	0	0	1	
+WT	ASAP complex	232	5	0	0	1	
+KO	ASAP complex	232	43	0	0	1	
+WT	exon-exon junction complex	232	5	0	0	1	
+KO	exon-exon junction complex	232	43	0	0	1	
+WT	mitotic spindle pole	232	5	0	0	1	
+KO	mitotic spindle pole	232	43	0	0	1	
+WT	mitotic spindle midzone	232	5	1	0	1	
+KO	mitotic spindle midzone	232	43	1	0	1	
+WT	clathrin-coated pit	232	5	2	0	1	
+KO	clathrin-coated pit	232	43	2	0	1	
+WT	synaptic vesicle membrane	232	5	1	0	1	
+KO	synaptic vesicle membrane	232	43	1	1	0.185344827586207	CALM3
+WT	presynaptic endocytic zone membrane	232	5	0	0	1	
+KO	presynaptic endocytic zone membrane	232	43	0	0	1	
+WT	mitochondrion-derived vesicle	232	5	0	0	1	
+KO	mitochondrion-derived vesicle	232	43	0	0	1	
+WT	XY body	232	5	0	0	1	
+KO	XY body	232	43	0	0	1	
+WT	integral component of neuronal dense core vesicle membrane	232	5	0	0	1	
+KO	integral component of neuronal dense core vesicle membrane	232	43	0	0	1	
+WT	proximal neuron projection	232	5	1	0	1	
+KO	proximal neuron projection	232	43	1	0	1	
+WT	cis-Golgi network	232	5	1	0	1	
+KO	cis-Golgi network	232	43	1	1	0.185344827586207	MAP6
+WT	transport vesicle	232	5	1	0	1	
+KO	transport vesicle	232	43	1	0	1	
+WT	endocytic vesicle	232	5	0	0	1	
+KO	endocytic vesicle	232	43	0	0	1	
+WT	azurophil granule membrane	232	5	0	0	1	
+KO	azurophil granule membrane	232	43	0	0	1	
+WT	lysosomal lumen	232	5	3	0	1	
+KO	lysosomal lumen	232	43	3	1	0.460944527736132	GALC
+WT	CD40 receptor complex	232	5	1	0	1	
+KO	CD40 receptor complex	232	43	1	1	0.185344827586207	RNF31
+WT	rough endoplasmic reticulum membrane	232	5	0	0	1	
+KO	rough endoplasmic reticulum membrane	232	43	0	0	1	
+WT	transcription elongation factor complex	232	5	0	0	1	
+KO	transcription elongation factor complex	232	43	0	0	1	
+WT	RNA polymerase II transcription factor complex	232	5	0	0	1	
+KO	RNA polymerase II transcription factor complex	232	43	0	0	1	
+WT	mitochondrial respiratory chain complex IV	232	5	0	0	1	
+KO	mitochondrial respiratory chain complex IV	232	43	0	0	1	
+WT	proteasome regulatory particle, lid subcomplex	232	5	0	0	1	
+KO	proteasome regulatory particle, lid subcomplex	232	43	0	0	1	
+WT	cytosolic proteasome complex	232	5	0	0	1	
+KO	cytosolic proteasome complex	232	43	0	0	1	
+WT	I band	232	5	1	0	1	
+KO	I band	232	43	1	0	1	
+WT	node of Ranvier	232	5	0	0	1	
+KO	node of Ranvier	232	43	0	0	1	
+WT	lipid tube	232	5	0	0	1	
+KO	lipid tube	232	43	0	0	1	
+WT	cell-cell junction	232	5	7	0	1	
+KO	cell-cell junction	232	43	7	1	0.766824767295512	CFL1
+WT	cortical actin cytoskeleton	232	5	5	0	1	
+KO	cortical actin cytoskeleton	232	43	5	1	0.64473878034552	CFL1
+WT	beta-catenin-TCF complex	232	5	1	0	1	
+KO	beta-catenin-TCF complex	232	43	1	0	1	
+WT	organelle membrane	232	5	0	0	1	
+KO	organelle membrane	232	43	0	0	1	
+WT	apical part of cell	232	5	5	0	1	
+KO	apical part of cell	232	43	5	1	0.64473878034552	TJP1
+WT	condensed chromosome	232	5	0	0	1	
+KO	condensed chromosome	232	43	0	0	1	
+WT	preribosome, large subunit precursor	232	5	1	0	1	
+KO	preribosome, large subunit precursor	232	43	1	0	1	
+WT	PeBoW complex	232	5	0	0	1	
+KO	PeBoW complex	232	43	0	0	1	
+WT	interleukin-5 receptor complex	232	5	0	0	1	
+KO	interleukin-5 receptor complex	232	43	0	0	1	
+WT	azurophil granule lumen	232	5	3	0	1	
+KO	azurophil granule lumen	232	43	3	1	0.460944527736132	TUBB
+WT	extracellular vesicle	232	5	5	0	1	
+KO	extracellular vesicle	232	43	5	1	0.64473878034552	TUBB2A
+WT	lipid droplet	232	5	1	0	1	
+KO	lipid droplet	232	43	1	0	1	
+WT	small nucleolar ribonucleoprotein complex	232	5	0	0	1	
+KO	small nucleolar ribonucleoprotein complex	232	43	0	0	1	
+WT	box C/D snoRNP complex	232	5	0	0	1	
+KO	box C/D snoRNP complex	232	43	0	0	1	
+WT	pre-snoRNP complex	232	5	0	0	1	
+KO	pre-snoRNP complex	232	43	0	0	1	
+WT	NLRP3 inflammasome complex	232	5	0	0	1	
+KO	NLRP3 inflammasome complex	232	43	0	0	1	
+WT	cytosolic small ribosomal subunit	232	5	25	0	1	
+KO	cytosolic small ribosomal subunit	232	43	25	0	1	
+WT	actin filament	232	5	11	0	1	
+KO	actin filament	232	43	11	0	1	
+WT	microvillus membrane	232	5	2	0	1	
+KO	microvillus membrane	232	43	2	0	1	
+WT	slit diaphragm	232	5	0	0	1	
+KO	slit diaphragm	232	43	0	0	1	
+WT	extrinsic component of external side of plasma membrane	232	5	0	0	1	
+KO	extrinsic component of external side of plasma membrane	232	43	0	0	1	
+WT	integral component of peroxisomal membrane	232	5	0	0	1	
+KO	integral component of peroxisomal membrane	232	43	0	0	1	
+WT	sarcoplasmic reticulum membrane	232	5	1	0	1	
+KO	sarcoplasmic reticulum membrane	232	43	1	0	1	
+WT	cerebellar mossy fiber	232	5	0	0	1	
+KO	cerebellar mossy fiber	232	43	0	0	1	
+WT	Schaffer collateral - CA1 synapse	232	5	7	0	1	
+KO	Schaffer collateral - CA1 synapse	232	43	7	2	0.383296105852611	BCR,TUBB2B
+WT	anaphase-promoting complex	232	5	0	0	1	
+KO	anaphase-promoting complex	232	43	0	0	1	
+WT	endoplasmic reticulum-Golgi intermediate compartment membrane	232	5	0	0	1	
+KO	endoplasmic reticulum-Golgi intermediate compartment membrane	232	43	0	0	1	
+WT	endoplasmic reticulum exit site	232	5	0	0	1	
+KO	endoplasmic reticulum exit site	232	43	0	0	1	
+WT	SWI/SNF complex	232	5	1	0	1	
+KO	SWI/SNF complex	232	43	1	0	1	
+WT	brahma complex	232	5	0	0	1	
+KO	brahma complex	232	43	0	0	1	
+WT	npBAF complex	232	5	0	0	1	
+KO	npBAF complex	232	43	0	0	1	
+WT	nBAF complex	232	5	0	0	1	
+KO	nBAF complex	232	43	0	0	1	
+WT	mitochondrial envelope	232	5	0	0	1	
+KO	mitochondrial envelope	232	43	0	0	1	
+WT	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	232	5	0	0	1	
+KO	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	232	43	0	0	1	
+WT	cortical endoplasmic reticulum	232	5	0	0	1	
+KO	cortical endoplasmic reticulum	232	43	0	0	1	
+WT	cytoplasmic side of apical plasma membrane	232	5	0	0	1	
+KO	cytoplasmic side of apical plasma membrane	232	43	0	0	1	
+WT	mitochondrial large ribosomal subunit	232	5	0	0	1	
+KO	mitochondrial large ribosomal subunit	232	43	0	0	1	
+WT	kinetochore	232	5	1	0	1	
+KO	kinetochore	232	43	1	0	1	
+WT	cytoplasmic dynein complex	232	5	1	0	1	
+KO	cytoplasmic dynein complex	232	43	1	0	1	
+WT	COPI vesicle coat	232	5	0	0	1	
+KO	COPI vesicle coat	232	43	0	0	1	
+WT	heterotrimeric G-protein complex	232	5	1	0	1	
+KO	heterotrimeric G-protein complex	232	43	1	0	1	
+WT	Wnt signalosome	232	5	1	0	1	
+KO	Wnt signalosome	232	43	1	0	1	
+WT	aggresome	232	5	0	0	1	
+KO	aggresome	232	43	0	0	1	
+WT	clathrin-coated endocytic vesicle	232	5	0	0	1	
+KO	clathrin-coated endocytic vesicle	232	43	0	0	1	
+WT	dynein complex	232	5	1	0	1	
+KO	dynein complex	232	43	1	0	1	
+WT	9+2 motile cilium	232	5	0	0	1	
+KO	9+2 motile cilium	232	43	0	0	1	
+WT	ER to Golgi transport vesicle membrane	232	5	1	0	1	
+KO	ER to Golgi transport vesicle membrane	232	43	1	0	1	
+WT	synaptic vesicle	232	5	0	0	1	
+KO	synaptic vesicle	232	43	0	0	1	
+WT	secretory granule	232	5	1	0	1	
+KO	secretory granule	232	43	1	0	1	
+WT	extrinsic component of endoplasmic reticulum membrane	232	5	0	0	1	
+KO	extrinsic component of endoplasmic reticulum membrane	232	43	0	0	1	
+WT	integral component of synaptic vesicle membrane	232	5	0	0	1	
+KO	integral component of synaptic vesicle membrane	232	43	0	0	1	
+WT	Golgi cisterna	232	5	0	0	1	
+KO	Golgi cisterna	232	43	0	0	1	
+WT	Golgi-associated vesicle	232	5	1	0	1	
+KO	Golgi-associated vesicle	232	43	1	1	0.185344827586207	MAP6
+WT	pore complex	232	5	0	0	1	
+KO	pore complex	232	43	0	0	1	
+WT	perinuclear endoplasmic reticulum	232	5	0	0	1	
+KO	perinuclear endoplasmic reticulum	232	43	0	0	1	
+WT	tetraspanin-enriched microdomain	232	5	0	0	1	
+KO	tetraspanin-enriched microdomain	232	43	0	0	1	
+WT	ATP-binding cassette (ABC) transporter complex	232	5	0	0	1	
+KO	ATP-binding cassette (ABC) transporter complex	232	43	0	0	1	
+WT	Cul3-RING ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul3-RING ubiquitin ligase complex	232	43	0	0	1	
+WT	nuclear envelope lumen	232	5	1	0	1	
+KO	nuclear envelope lumen	232	43	1	1	0.185344827586207	TUBB
+WT	MLL3/4 complex	232	5	0	0	1	
+KO	MLL3/4 complex	232	43	0	0	1	
+WT	apoptosome	232	5	0	0	1	
+KO	apoptosome	232	43	0	0	1	
+WT	preribosome, small subunit precursor	232	5	0	0	1	
+KO	preribosome, small subunit precursor	232	43	0	0	1	
+WT	methylosome	232	5	0	0	1	
+KO	methylosome	232	43	0	0	1	
+WT	telomerase catalytic core complex	232	5	0	0	1	
+KO	telomerase catalytic core complex	232	43	0	0	1	
+WT	chromosome, telomeric region	232	5	0	0	1	
+KO	chromosome, telomeric region	232	43	0	0	1	
+WT	nuclear telomere cap complex	232	5	0	0	1	
+KO	nuclear telomere cap complex	232	43	0	0	1	
+WT	telomerase holoenzyme complex	232	5	0	0	1	
+KO	telomerase holoenzyme complex	232	43	0	0	1	
+WT	RNA-directed RNA polymerase complex	232	5	0	0	1	
+KO	RNA-directed RNA polymerase complex	232	43	0	0	1	
+WT	TERT-RMRP complex	232	5	0	0	1	
+KO	TERT-RMRP complex	232	43	0	0	1	
+WT	condensed nuclear chromosome	232	5	1	0	1	
+KO	condensed nuclear chromosome	232	43	1	0	1	
+WT	GABA-ergic synapse	232	5	2	0	1	
+KO	GABA-ergic synapse	232	43	2	1	0.336990595611285	PHB2
+WT	integral component of postsynaptic membrane	232	5	0	0	1	
+KO	integral component of postsynaptic membrane	232	43	0	0	1	
+WT	GTPase activator complex	232	5	0	0	1	
+KO	GTPase activator complex	232	43	0	0	1	
+WT	chromosome, centromeric region	232	5	0	0	1	
+KO	chromosome, centromeric region	232	43	0	0	1	
+WT	condensed nuclear chromosome outer kinetochore	232	5	0	0	1	
+KO	condensed nuclear chromosome outer kinetochore	232	43	0	0	1	
+WT	Ndc80 complex	232	5	0	0	1	
+KO	Ndc80 complex	232	43	0	0	1	
+WT	semaphorin receptor complex	232	5	0	0	1	
+KO	semaphorin receptor complex	232	43	0	0	1	
+WT	neurofilament	232	5	4	0	1	
+KO	neurofilament	232	43	4	1	0.562164550912317	NEFM
+WT	sorting endosome	232	5	0	0	1	
+KO	sorting endosome	232	43	0	0	1	
+WT	intrinsic component of membrane	232	5	0	0	1	
+KO	intrinsic component of membrane	232	43	0	0	1	
+WT	very-low-density lipoprotein particle	232	5	0	0	1	
+KO	very-low-density lipoprotein particle	232	43	0	0	1	
+WT	high-density lipoprotein particle	232	5	0	0	1	
+KO	high-density lipoprotein particle	232	43	0	0	1	
+WT	early phagosome	232	5	0	0	1	
+KO	early phagosome	232	43	0	0	1	
+WT	terminal bouton	232	5	1	0	1	
+KO	terminal bouton	232	43	1	0	1	
+WT	calyx of Held	232	5	1	0	1	
+KO	calyx of Held	232	43	1	0	1	
+WT	presynaptic active zone	232	5	1	0	1	
+KO	presynaptic active zone	232	43	1	1	0.185344827586207	PHB2
+WT	ribbon synapse	232	5	0	0	1	
+KO	ribbon synapse	232	43	0	0	1	
+WT	hippocampal mossy fiber to CA3 synapse	232	5	0	0	1	
+KO	hippocampal mossy fiber to CA3 synapse	232	43	0	0	1	
+WT	RNA polymerase III complex	232	5	0	0	1	
+KO	RNA polymerase III complex	232	43	0	0	1	
+WT	synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex	232	5	0	0	1	
+KO	synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex	232	43	0	0	1	
+WT	synaptobrevin 2-SNAP-25-syntaxin-3-complexin complex	232	5	0	0	1	
+KO	synaptobrevin 2-SNAP-25-syntaxin-3-complexin complex	232	43	0	0	1	
+WT	proteasome core complex	232	5	0	0	1	
+KO	proteasome core complex	232	43	0	0	1	
+WT	proteasome core complex, alpha-subunit complex	232	5	0	0	1	
+KO	proteasome core complex, alpha-subunit complex	232	43	0	0	1	
+WT	AIM2 inflammasome complex	232	5	0	0	1	
+KO	AIM2 inflammasome complex	232	43	0	0	1	
+WT	mitochondrial alpha-ketoglutarate dehydrogenase complex	232	5	0	0	1	
+KO	mitochondrial alpha-ketoglutarate dehydrogenase complex	232	43	0	0	1	
+WT	spliceosomal complex	232	5	6	0	1	
+KO	spliceosomal complex	232	43	6	1	0.712034958517955	WDR83
+WT	SMN complex	232	5	0	0	1	
+KO	SMN complex	232	43	0	0	1	
+WT	SMN-Sm protein complex	232	5	0	0	1	
+KO	SMN-Sm protein complex	232	43	0	0	1	
+WT	Gemini of coiled bodies	232	5	0	0	1	
+KO	Gemini of coiled bodies	232	43	0	0	1	
+WT	vesicle membrane	232	5	0	0	1	
+KO	vesicle membrane	232	43	0	0	1	
+WT	dendritic shaft	232	5	1	0	1	
+KO	dendritic shaft	232	43	1	0	1	
+WT	integral component of presynaptic membrane	232	5	0	0	1	
+KO	integral component of presynaptic membrane	232	43	0	0	1	
+WT	IkappaB kinase complex	232	5	0	0	1	
+KO	IkappaB kinase complex	232	43	0	0	1	
+WT	TIM23 mitochondrial import inner membrane translocase complex	232	5	0	0	1	
+KO	TIM23 mitochondrial import inner membrane translocase complex	232	43	0	0	1	
+WT	integral component of mitochondrial inner membrane	232	5	0	0	1	
+KO	integral component of mitochondrial inner membrane	232	43	0	0	1	
+WT	nuclear lamina	232	5	0	0	1	
+KO	nuclear lamina	232	43	0	0	1	
+WT	myosin II complex	232	5	3	0	1	
+KO	myosin II complex	232	43	3	0	1	
+WT	cell cortex region	232	5	2	0	1	
+KO	cell cortex region	232	43	2	0	1	
+WT	respirasome	232	5	0	0	1	
+KO	respirasome	232	43	0	0	1	
+WT	junctional sarcoplasmic reticulum membrane	232	5	0	0	1	
+KO	junctional sarcoplasmic reticulum membrane	232	43	0	0	1	
+WT	junctional membrane complex	232	5	0	0	1	
+KO	junctional membrane complex	232	43	0	0	1	
+WT	sarcoplasmic reticulum lumen	232	5	0	0	1	
+KO	sarcoplasmic reticulum lumen	232	43	0	0	1	
+WT	calcium channel complex	232	5	1	0	1	
+KO	calcium channel complex	232	43	1	1	0.185344827586207	CALM3
+WT	ESCRT-0 complex	232	5	0	0	1	
+KO	ESCRT-0 complex	232	43	0	0	1	
+WT	spindle pole centrosome	232	5	1	0	1	
+KO	spindle pole centrosome	232	43	1	0	1	
+WT	germinal vesicle	232	5	0	0	1	
+KO	germinal vesicle	232	43	0	0	1	
+WT	axon hillock	232	5	1	0	1	
+KO	axon hillock	232	43	1	0	1	
+WT	pronucleus	232	5	0	0	1	
+KO	pronucleus	232	43	0	0	1	
+WT	meiotic spindle	232	5	0	0	1	
+KO	meiotic spindle	232	43	0	0	1	
+WT	vacuole	232	5	1	0	1	
+KO	vacuole	232	43	1	0	1	
+WT	symbiont-containing vacuole	232	5	0	0	1	
+KO	symbiont-containing vacuole	232	43	0	0	1	
+WT	intracellular vesicle	232	5	0	0	1	
+KO	intracellular vesicle	232	43	0	0	1	
+WT	A band	232	5	1	0	1	
+KO	A band	232	43	1	0	1	
+WT	PTW/PP1 phosphatase complex	232	5	3	0	1	
+KO	PTW/PP1 phosphatase complex	232	43	3	0	1	
+WT	annulate lamellae	232	5	0	0	1	
+KO	annulate lamellae	232	43	0	0	1	
+WT	Cajal body	232	5	1	0	1	
+KO	Cajal body	232	43	1	0	1	
+WT	platelet dense tubular network membrane	232	5	0	0	1	
+KO	platelet dense tubular network membrane	232	43	0	0	1	
+WT	uropod	232	5	1	0	1	
+KO	uropod	232	43	1	0	1	
+WT	integrator complex	232	5	0	0	1	
+KO	integrator complex	232	43	0	0	1	
+WT	spectrin	232	5	3	0	1	
+KO	spectrin	232	43	3	0	1	
+WT	parallel fiber to Purkinje cell synapse	232	5	1	0	1	
+KO	parallel fiber to Purkinje cell synapse	232	43	1	0	1	
+WT	postsynaptic spectrin-associated cytoskeleton	232	5	1	0	1	
+KO	postsynaptic spectrin-associated cytoskeleton	232	43	1	0	1	
+WT	Set1C/COMPASS complex	232	5	0	0	1	
+KO	Set1C/COMPASS complex	232	43	0	0	1	
+WT	costamere	232	5	1	0	1	
+KO	costamere	232	43	1	0	1	
+WT	neurofilament cytoskeleton	232	5	0	0	1	
+KO	neurofilament cytoskeleton	232	43	0	0	1	
+WT	plus-end kinesin complex	232	5	0	0	1	
+KO	plus-end kinesin complex	232	43	0	0	1	
+WT	kinesin II complex	232	5	0	0	1	
+KO	kinesin II complex	232	43	0	0	1	
+WT	photoreceptor connecting cilium	232	5	0	0	1	
+KO	photoreceptor connecting cilium	232	43	0	0	1	
+WT	MKS complex	232	5	0	0	1	
+KO	MKS complex	232	43	0	0	1	
+WT	gamma-tubulin complex	232	5	0	0	1	
+KO	gamma-tubulin complex	232	43	0	0	1	
+WT	cytoplasmic microtubule	232	5	1	0	1	
+KO	cytoplasmic microtubule	232	43	1	1	0.185344827586207	TUBA1A
+WT	presynaptic active zone cytoplasmic component	232	5	1	0	1	
+KO	presynaptic active zone cytoplasmic component	232	43	1	0	1	
+WT	mitochondrial ribonuclease P complex	232	5	0	0	1	
+KO	mitochondrial ribonuclease P complex	232	43	0	0	1	
+WT	catenin complex	232	5	2	0	1	
+KO	catenin complex	232	43	2	0	1	
+WT	messenger ribonucleoprotein complex	232	5	0	0	1	
+KO	messenger ribonucleoprotein complex	232	43	0	0	1	
+WT	Arp2/3 protein complex	232	5	3	1	0.0635404700247278	ARPC5L
+KO	Arp2/3 protein complex	232	43	3	0	1	
+WT	tubulobulbar complex	232	5	0	0	1	
+KO	tubulobulbar complex	232	43	0	0	1	
+WT	muscle cell projection membrane	232	5	1	0	1	
+KO	muscle cell projection membrane	232	43	1	0	1	
+WT	growth cone leading edge	232	5	1	0	1	
+KO	growth cone leading edge	232	43	1	0	1	
+WT	neuromuscular junction	232	5	5	0	1	
+KO	neuromuscular junction	232	43	5	1	0.64473878034552	TUBA1A
+WT	nuclear euchromatin	232	5	1	0	1	
+KO	nuclear euchromatin	232	43	1	0	1	
+WT	perichromatin fibrils	232	5	0	0	1	
+KO	perichromatin fibrils	232	43	0	0	1	
+WT	beta-catenin destruction complex	232	5	1	0	1	
+KO	beta-catenin destruction complex	232	43	1	0	1	
+WT	nuclear pore nuclear basket	232	5	0	0	1	
+KO	nuclear pore nuclear basket	232	43	0	0	1	
+WT	transcription export complex 2	232	5	0	0	1	
+KO	transcription export complex 2	232	43	0	0	1	
+WT	SMAD protein complex	232	5	0	0	1	
+KO	SMAD protein complex	232	43	0	0	1	
+WT	prefoldin complex	232	5	0	0	1	
+KO	prefoldin complex	232	43	0	0	1	
+WT	synaptic cleft	232	5	0	0	1	
+KO	synaptic cleft	232	43	0	0	1	
+WT	laminin-10 complex	232	5	2	0	1	
+KO	laminin-10 complex	232	43	2	1	0.336990595611285	LAMC1
+WT	laminin-11 complex	232	5	1	0	1	
+KO	laminin-11 complex	232	43	1	1	0.185344827586207	LAMC1
+WT	U2-type catalytic step 1 spliceosome	232	5	1	0	1	
+KO	U2-type catalytic step 1 spliceosome	232	43	1	0	1	
+WT	mitochondrial ribosome	232	5	0	0	1	
+KO	mitochondrial ribosome	232	43	0	0	1	
+WT	mitochondrial small ribosomal subunit	232	5	0	0	1	
+KO	mitochondrial small ribosomal subunit	232	43	0	0	1	
+WT	endoplasmic reticulum-Golgi intermediate compartment	232	5	2	0	1	
+KO	endoplasmic reticulum-Golgi intermediate compartment	232	43	2	1	0.336990595611285	HSPA5
+WT	serine C-palmitoyltransferase complex	232	5	0	0	1	
+KO	serine C-palmitoyltransferase complex	232	43	0	0	1	
+WT	SPOTS complex	232	5	0	0	1	
+KO	SPOTS complex	232	43	0	0	1	
+WT	histone acetyltransferase complex	232	5	0	0	1	
+KO	histone acetyltransferase complex	232	43	0	0	1	
+WT	protein N-acetylglucosaminyltransferase complex	232	5	0	0	1	
+KO	protein N-acetylglucosaminyltransferase complex	232	43	0	0	1	
+WT	new growing cell tip	232	5	0	0	1	
+KO	new growing cell tip	232	43	0	0	1	
+WT	replication fork	232	5	0	0	1	
+KO	replication fork	232	43	0	0	1	
+WT	Rad51B-Rad51C-Rad51D-XRCC2 complex	232	5	0	0	1	
+KO	Rad51B-Rad51C-Rad51D-XRCC2 complex	232	43	0	0	1	
+WT	proton-transporting V-type ATPase, V0 domain	232	5	0	0	1	
+KO	proton-transporting V-type ATPase, V0 domain	232	43	0	0	1	
+WT	protein-DNA complex	232	5	3	0	1	
+KO	protein-DNA complex	232	43	3	0	1	
+WT	eukaryotic translation initiation factor 3 complex, eIF3m	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 3 complex, eIF3m	232	43	0	0	1	
+WT	transcriptional repressor complex	232	5	1	0	1	
+KO	transcriptional repressor complex	232	43	1	0	1	
+WT	nuclear exosome (RNase complex)	232	5	0	0	1	
+KO	nuclear exosome (RNase complex)	232	43	0	0	1	
+WT	ficolin-1-rich granule membrane	232	5	0	0	1	
+KO	ficolin-1-rich granule membrane	232	43	0	0	1	
+WT	nuclear chromosome	232	5	1	0	1	
+KO	nuclear chromosome	232	43	1	0	1	
+WT	chromosome passenger complex	232	5	0	0	1	
+KO	chromosome passenger complex	232	43	0	0	1	
+WT	NMDA selective glutamate receptor complex	232	5	0	0	1	
+KO	NMDA selective glutamate receptor complex	232	43	0	0	1	
+WT	external side of apical plasma membrane	232	5	0	0	1	
+KO	external side of apical plasma membrane	232	43	0	0	1	
+WT	RNA polymerase I transcription factor complex	232	5	0	0	1	
+KO	RNA polymerase I transcription factor complex	232	43	0	0	1	
+WT	endolysosome membrane	232	5	0	0	1	
+KO	endolysosome membrane	232	43	0	0	1	
+WT	recombination nodule	232	5	0	0	1	
+KO	recombination nodule	232	43	0	0	1	
+WT	apical dendrite	232	5	1	0	1	
+KO	apical dendrite	232	43	1	0	1	
+WT	basal dendrite	232	5	2	0	1	
+KO	basal dendrite	232	43	2	0	1	
+WT	SREBP-SCAP-Insig complex	232	5	0	0	1	
+KO	SREBP-SCAP-Insig complex	232	43	0	0	1	
+WT	RNA polymerase II, core complex	232	5	0	0	1	
+KO	RNA polymerase II, core complex	232	43	0	0	1	
+WT	death-inducing signaling complex	232	5	0	0	1	
+KO	death-inducing signaling complex	232	43	0	0	1	
+WT	CD95 death-inducing signaling complex	232	5	0	0	1	
+KO	CD95 death-inducing signaling complex	232	43	0	0	1	
+WT	ripoptosome	232	5	0	0	1	
+KO	ripoptosome	232	43	0	0	1	
+WT	MHC class I peptide loading complex	232	5	0	0	1	
+KO	MHC class I peptide loading complex	232	43	0	0	1	
+WT	integral component of lumenal side of endoplasmic reticulum membrane	232	5	0	0	1	
+KO	integral component of lumenal side of endoplasmic reticulum membrane	232	43	0	0	1	
+WT	extrinsic component of plasma membrane	232	5	0	0	1	
+KO	extrinsic component of plasma membrane	232	43	0	0	1	
+WT	neuron to neuron synapse	232	5	0	0	1	
+KO	neuron to neuron synapse	232	43	0	0	1	
+WT	U2-type precatalytic spliceosome	232	5	3	0	1	
+KO	U2-type precatalytic spliceosome	232	43	3	0	1	
+WT	U12-type spliceosomal complex	232	5	0	0	1	
+KO	U12-type spliceosomal complex	232	43	0	0	1	
+WT	U2-type post-mRNA release spliceosomal complex	232	5	0	0	1	
+KO	U2-type post-mRNA release spliceosomal complex	232	43	0	0	1	
+WT	mRNA cap methyltransferase complex	232	5	0	0	1	
+KO	mRNA cap methyltransferase complex	232	43	0	0	1	
+WT	female pronucleus	232	5	0	0	1	
+KO	female pronucleus	232	43	0	0	1	
+WT	male pronucleus	232	5	0	0	1	
+KO	male pronucleus	232	43	0	0	1	
+WT	TORC1 complex	232	5	0	0	1	
+KO	TORC1 complex	232	43	0	0	1	
+WT	TORC2 complex	232	5	0	0	1	
+KO	TORC2 complex	232	43	0	0	1	
+WT	chromatin silencing complex	232	5	0	0	1	
+KO	chromatin silencing complex	232	43	0	0	1	
+WT	rDNA heterochromatin	232	5	0	0	1	
+KO	rDNA heterochromatin	232	43	0	0	1	
+WT	U4/U6 x U5 tri-snRNP complex	232	5	1	0	1	
+KO	U4/U6 x U5 tri-snRNP complex	232	43	1	0	1	
+WT	U4/U6 snRNP	232	5	0	0	1	
+KO	U4/U6 snRNP	232	43	0	0	1	
+WT	spliceosomal snRNP complex	232	5	0	0	1	
+KO	spliceosomal snRNP complex	232	43	0	0	1	
+WT	septin complex	232	5	0	0	1	
+KO	septin complex	232	43	0	0	1	
+WT	sperm annulus	232	5	0	0	1	
+KO	sperm annulus	232	43	0	0	1	
+WT	kinetochore microtubule	232	5	0	0	1	
+KO	kinetochore microtubule	232	43	0	0	1	
+WT	RZZ complex	232	5	0	0	1	
+KO	RZZ complex	232	43	0	0	1	
+WT	anchored component of plasma membrane	232	5	0	0	1	
+KO	anchored component of plasma membrane	232	43	0	0	1	
+WT	catalytic step 2 spliceosome	232	5	9	0	1	
+KO	catalytic step 2 spliceosome	232	43	9	1	0.847594077068428	WDR83
+WT	GPI-anchor transamidase complex	232	5	0	0	1	
+KO	GPI-anchor transamidase complex	232	43	0	0	1	
+WT	AP-type membrane coat adaptor complex	232	5	0	0	1	
+KO	AP-type membrane coat adaptor complex	232	43	0	0	1	
+WT	AP-5 adaptor complex	232	5	0	0	1	
+KO	AP-5 adaptor complex	232	43	0	0	1	
+WT	excitatory synapse	232	5	0	0	1	
+KO	excitatory synapse	232	43	0	0	1	
+WT	Ada2/Gcn5/Ada3 transcription activator complex	232	5	0	0	1	
+KO	Ada2/Gcn5/Ada3 transcription activator complex	232	43	0	0	1	
+WT	aminoacyl-tRNA synthetase multienzyme complex	232	5	0	0	1	
+KO	aminoacyl-tRNA synthetase multienzyme complex	232	43	0	0	1	
+WT	ER membrane protein complex	232	5	0	0	1	
+KO	ER membrane protein complex	232	43	0	0	1	
+WT	membrane coat	232	5	0	0	1	
+KO	membrane coat	232	43	0	0	1	
+WT	clathrin coat of coated pit	232	5	0	0	1	
+KO	clathrin coat of coated pit	232	43	0	0	1	
+WT	heterochromatin	232	5	0	0	1	
+KO	heterochromatin	232	43	0	0	1	
+WT	serine-type endopeptidase complex	232	5	0	0	1	
+KO	serine-type endopeptidase complex	232	43	0	0	1	
+WT	nuclear transcription factor complex	232	5	0	0	1	
+KO	nuclear transcription factor complex	232	43	0	0	1	
+WT	chromocenter	232	5	0	0	1	
+KO	chromocenter	232	43	0	0	1	
+WT	photoreceptor outer segment membrane	232	5	0	0	1	
+KO	photoreceptor outer segment membrane	232	43	0	0	1	
+WT	Rad51C-XRCC3 complex	232	5	0	0	1	
+KO	Rad51C-XRCC3 complex	232	43	0	0	1	
+WT	Holliday junction resolvase complex	232	5	0	0	1	
+KO	Holliday junction resolvase complex	232	43	0	0	1	
+WT	Ragulator complex	232	5	0	0	1	
+KO	Ragulator complex	232	43	0	0	1	
+WT	Bcl-2 family protein complex	232	5	0	0	1	
+KO	Bcl-2 family protein complex	232	43	0	0	1	
+WT	dystrophin-associated glycoprotein complex	232	5	0	0	1	
+KO	dystrophin-associated glycoprotein complex	232	43	0	0	1	
+WT	dendrite membrane	232	5	0	0	1	
+KO	dendrite membrane	232	43	0	0	1	
+WT	dense core granule	232	5	0	0	1	
+KO	dense core granule	232	43	0	0	1	
+WT	microtubule end	232	5	0	0	1	
+KO	microtubule end	232	43	0	0	1	
+WT	9+0 non-motile cilium	232	5	0	0	1	
+KO	9+0 non-motile cilium	232	43	0	0	1	
+WT	rough endoplasmic reticulum	232	5	1	0	1	
+KO	rough endoplasmic reticulum	232	43	1	0	1	
+WT	TRAPP complex	232	5	0	0	1	
+KO	TRAPP complex	232	43	0	0	1	
+WT	ESCRT III complex	232	5	0	0	1	
+KO	ESCRT III complex	232	43	0	0	1	
+WT	U2-type catalytic step 2 spliceosome	232	5	2	0	1	
+KO	U2-type catalytic step 2 spliceosome	232	43	2	0	1	
+WT	DNA replication factor A complex	232	5	0	0	1	
+KO	DNA replication factor A complex	232	43	0	0	1	
+WT	contractile ring	232	5	0	0	1	
+KO	contractile ring	232	43	0	0	1	
+WT	spindle matrix	232	5	0	0	1	
+KO	spindle matrix	232	43	0	0	1	
+WT	cortical cytoskeleton	232	5	7	0	1	
+KO	cortical cytoskeleton	232	43	7	0	1	
+WT	pseudopodium	232	5	1	0	1	
+KO	pseudopodium	232	43	1	0	1	
+WT	glutamyl-tRNA(Gln) amidotransferase complex	232	5	0	0	1	
+KO	glutamyl-tRNA(Gln) amidotransferase complex	232	43	0	0	1	
+WT	COPI-coated vesicle membrane	232	5	0	0	1	
+KO	COPI-coated vesicle membrane	232	43	0	0	1	
+WT	nucleotide-activated protein kinase complex	232	5	0	0	1	
+KO	nucleotide-activated protein kinase complex	232	43	0	0	1	
+WT	AP-1 adaptor complex	232	5	0	0	1	
+KO	AP-1 adaptor complex	232	43	0	0	1	
+WT	extrinsic component of synaptic vesicle membrane	232	5	0	0	1	
+KO	extrinsic component of synaptic vesicle membrane	232	43	0	0	1	
+WT	pericentriolar material	232	5	0	0	1	
+KO	pericentriolar material	232	43	0	0	1	
+WT	mRNA cleavage and polyadenylation specificity factor complex	232	5	0	0	1	
+KO	mRNA cleavage and polyadenylation specificity factor complex	232	43	0	0	1	
+WT	mRNA cleavage factor complex	232	5	0	0	1	
+KO	mRNA cleavage factor complex	232	43	0	0	1	
+WT	paraspeckles	232	5	1	0	1	
+KO	paraspeckles	232	43	1	0	1	
+WT	FAR/SIN/STRIPAK complex	232	5	0	0	1	
+KO	FAR/SIN/STRIPAK complex	232	43	0	0	1	
+WT	myofibril	232	5	3	0	1	
+KO	myofibril	232	43	3	1	0.460944527736132	TMOD2
+WT	acrosomal membrane	232	5	0	0	1	
+KO	acrosomal membrane	232	43	0	0	1	
+WT	origin recognition complex	232	5	0	0	1	
+KO	origin recognition complex	232	43	0	0	1	
+WT	nuclear origin of replication recognition complex	232	5	0	0	1	
+KO	nuclear origin of replication recognition complex	232	43	0	0	1	
+WT	cohesin complex	232	5	0	0	1	
+KO	cohesin complex	232	43	0	0	1	
+WT	mediator complex	232	5	2	0	1	
+KO	mediator complex	232	43	2	1	0.336990595611285	MED30
+WT	platelet alpha granule membrane	232	5	0	0	1	
+KO	platelet alpha granule membrane	232	43	0	0	1	
+WT	serine protease inhibitor complex	232	5	0	0	1	
+KO	serine protease inhibitor complex	232	43	0	0	1	
+WT	Lewy body	232	5	0	0	1	
+KO	Lewy body	232	43	0	0	1	
+WT	Parkin-FBXW7-Cul1 ubiquitin ligase complex	232	5	0	0	1	
+KO	Parkin-FBXW7-Cul1 ubiquitin ligase complex	232	43	0	0	1	
+WT	SCF ubiquitin ligase complex	232	5	0	0	1	
+KO	SCF ubiquitin ligase complex	232	43	0	0	1	
+WT	NURF complex	232	5	0	0	1	
+KO	NURF complex	232	43	0	0	1	
+WT	RSF complex	232	5	0	0	1	
+KO	RSF complex	232	43	0	0	1	
+WT	nuclear replication fork	232	5	0	0	1	
+KO	nuclear replication fork	232	43	0	0	1	
+WT	dendrite cytoplasm	232	5	2	0	1	
+KO	dendrite cytoplasm	232	43	2	1	0.336990595611285	KIF5C
+WT	ciliary rootlet	232	5	1	0	1	
+KO	ciliary rootlet	232	43	1	1	0.185344827586207	KIF5C
+WT	distal axon	232	5	1	0	1	
+KO	distal axon	232	43	1	1	0.185344827586207	KIF5C
+WT	tricellular tight junction	232	5	1	0	1	
+KO	tricellular tight junction	232	43	1	0	1	
+WT	exosome (RNase complex)	232	5	0	0	1	
+KO	exosome (RNase complex)	232	43	0	0	1	
+WT	mitochondrial crista	232	5	0	0	1	
+KO	mitochondrial crista	232	43	0	0	1	
+WT	extrinsic component of mitochondrial inner membrane	232	5	0	0	1	
+KO	extrinsic component of mitochondrial inner membrane	232	43	0	0	1	
+WT	ER ubiquitin ligase complex	232	5	0	0	1	
+KO	ER ubiquitin ligase complex	232	43	0	0	1	
+WT	DNA repair complex	232	5	0	0	1	
+KO	DNA repair complex	232	43	0	0	1	
+WT	somatodendritic compartment	232	5	1	0	1	
+KO	somatodendritic compartment	232	43	1	0	1	
+WT	desmosome	232	5	0	0	1	
+KO	desmosome	232	43	0	0	1	
+WT	mitochondria-associated endoplasmic reticulum membrane	232	5	0	0	1	
+KO	mitochondria-associated endoplasmic reticulum membrane	232	43	0	0	1	
+WT	retromer complex	232	5	0	0	1	
+KO	retromer complex	232	43	0	0	1	
+WT	CRD-mediated mRNA stability complex	232	5	0	0	1	
+KO	CRD-mediated mRNA stability complex	232	43	0	0	1	
+WT	histone pre-mRNA 3'end processing complex	232	5	0	0	1	
+KO	histone pre-mRNA 3'end processing complex	232	43	0	0	1	
+WT	GAIT complex	232	5	1	0	1	
+KO	GAIT complex	232	43	1	0	1	
+WT	eukaryotic translation initiation factor 4F complex	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 4F complex	232	43	0	0	1	
+WT	cyclin/CDK positive transcription elongation factor complex	232	5	0	0	1	
+KO	cyclin/CDK positive transcription elongation factor complex	232	43	0	0	1	
+WT	condensed chromosome outer kinetochore	232	5	0	0	1	
+KO	condensed chromosome outer kinetochore	232	43	0	0	1	
+WT	Toll-like receptor 1-Toll-like receptor 2 protein complex	232	5	0	0	1	
+KO	Toll-like receptor 1-Toll-like receptor 2 protein complex	232	43	0	0	1	
+WT	myelin sheath	232	5	3	0	1	
+KO	myelin sheath	232	43	3	2	0.0890827313615919	TUBA1A,CALM3
+WT	M band	232	5	2	0	1	
+KO	M band	232	43	2	0	1	
+WT	zeta DNA polymerase complex	232	5	0	0	1	
+KO	zeta DNA polymerase complex	232	43	0	0	1	
+WT	inward rectifying potassium channel	232	5	0	0	1	
+KO	inward rectifying potassium channel	232	43	0	0	1	
+WT	sarcomere	232	5	7	0	1	
+KO	sarcomere	232	43	7	1	0.766824767295512	CALM3
+WT	potassium ion-transporting ATPase complex	232	5	0	0	1	
+KO	potassium ion-transporting ATPase complex	232	43	0	0	1	
+WT	zonula adherens	232	5	3	0	1	
+KO	zonula adherens	232	43	3	1	0.460944527736132	SORBS1
+WT	outer membrane	232	5	0	0	1	
+KO	outer membrane	232	43	0	0	1	
+WT	spanning component of plasma membrane	232	5	1	0	1	
+KO	spanning component of plasma membrane	232	43	1	0	1	
+WT	HCN channel complex	232	5	0	0	1	
+KO	HCN channel complex	232	43	0	0	1	
+WT	retromer, tubulation complex	232	5	0	0	1	
+KO	retromer, tubulation complex	232	43	0	0	1	
+WT	dolichol-phosphate-mannose synthase complex	232	5	0	0	1	
+KO	dolichol-phosphate-mannose synthase complex	232	43	0	0	1	
+WT	neuronal ribonucleoprotein granule	232	5	0	0	1	
+KO	neuronal ribonucleoprotein granule	232	43	0	0	1	
+WT	box H/ACA snoRNP complex	232	5	0	0	1	
+KO	box H/ACA snoRNP complex	232	43	0	0	1	
+WT	box H/ACA scaRNP complex	232	5	0	0	1	
+KO	box H/ACA scaRNP complex	232	43	0	0	1	
+WT	box H/ACA telomerase RNP complex	232	5	0	0	1	
+KO	box H/ACA telomerase RNP complex	232	43	0	0	1	
+WT	cytoplasmic vesicle lumen	232	5	0	0	1	
+KO	cytoplasmic vesicle lumen	232	43	0	0	1	
+WT	mucus layer	232	5	0	0	1	
+KO	mucus layer	232	43	0	0	1	
+WT	amylin receptor complex 1	232	5	0	0	1	
+KO	amylin receptor complex 1	232	43	0	0	1	
+WT	CGRP receptor complex	232	5	0	0	1	
+KO	CGRP receptor complex	232	43	0	0	1	
+WT	amylin receptor complex 2	232	5	0	0	1	
+KO	amylin receptor complex 2	232	43	0	0	1	
+WT	adrenomedullin receptor complex	232	5	0	0	1	
+KO	adrenomedullin receptor complex	232	43	0	0	1	
+WT	amylin receptor complex 3	232	5	0	0	1	
+KO	amylin receptor complex 3	232	43	0	0	1	
+WT	Mre11 complex	232	5	0	0	1	
+KO	Mre11 complex	232	43	0	0	1	
+WT	nuclear inclusion body	232	5	0	0	1	
+KO	nuclear inclusion body	232	43	0	0	1	
+WT	voltage-gated sodium channel complex	232	5	0	0	1	
+KO	voltage-gated sodium channel complex	232	43	0	0	1	
+WT	dendritic spine head	232	5	1	0	1	
+KO	dendritic spine head	232	43	1	0	1	
+WT	L-type voltage-gated calcium channel complex	232	5	0	0	1	
+KO	L-type voltage-gated calcium channel complex	232	43	0	0	1	
+WT	microspike	232	5	1	0	1	
+KO	microspike	232	43	1	0	1	
+WT	plasma membrane raft	232	5	2	0	1	
+KO	plasma membrane raft	232	43	2	2	0.0336990595611285	ADD2,ADD1
+WT	basal cortex	232	5	0	0	1	
+KO	basal cortex	232	43	0	0	1	
+WT	dendritic growth cone	232	5	1	0	1	
+KO	dendritic growth cone	232	43	1	0	1	
+WT	cell pole	232	5	0	0	1	
+KO	cell pole	232	43	0	0	1	
+WT	GATOR1 complex	232	5	0	0	1	
+KO	GATOR1 complex	232	43	0	0	1	
+WT	phagophore assembly site	232	5	0	0	1	
+KO	phagophore assembly site	232	43	0	0	1	
+WT	Atg1/ULK1 kinase complex	232	5	0	0	1	
+KO	Atg1/ULK1 kinase complex	232	43	0	0	1	
+WT	epididymosome	232	5	0	0	1	
+KO	epididymosome	232	43	0	0	1	
+WT	3M complex	232	5	0	0	1	
+KO	3M complex	232	43	0	0	1	
+WT	HULC complex	232	5	0	0	1	
+KO	HULC complex	232	43	0	0	1	
+WT	transcription export complex	232	5	0	0	1	
+KO	transcription export complex	232	43	0	0	1	
+WT	photoreceptor distal connecting cilium	232	5	0	0	1	
+KO	photoreceptor distal connecting cilium	232	43	0	0	1	
+WT	X chromosome	232	5	0	0	1	
+KO	X chromosome	232	43	0	0	1	
+WT	Y chromosome	232	5	0	0	1	
+KO	Y chromosome	232	43	0	0	1	
+WT	autosome	232	5	0	0	1	
+KO	autosome	232	43	0	0	1	
+WT	Wnt-Frizzled-LRP5/6 complex	232	5	0	0	1	
+KO	Wnt-Frizzled-LRP5/6 complex	232	43	0	0	1	
+WT	terminal cisterna	232	5	0	0	1	
+KO	terminal cisterna	232	43	0	0	1	
+WT	glycine-gated chloride channel complex	232	5	0	0	1	
+KO	glycine-gated chloride channel complex	232	43	0	0	1	
+WT	COPII vesicle coat	232	5	0	0	1	
+KO	COPII vesicle coat	232	43	0	0	1	
+WT	synaptonemal complex	232	5	0	0	1	
+KO	synaptonemal complex	232	43	0	0	1	
+WT	sex chromatin	232	5	0	0	1	
+KO	sex chromatin	232	43	0	0	1	
+WT	pericentric heterochromatin	232	5	0	0	1	
+KO	pericentric heterochromatin	232	43	0	0	1	
+WT	Sin3 complex	232	5	0	0	1	
+KO	Sin3 complex	232	43	0	0	1	
+WT	phagophore assembly site membrane	232	5	0	0	1	
+KO	phagophore assembly site membrane	232	43	0	0	1	
+WT	extrinsic component of omegasome membrane	232	5	0	0	1	
+KO	extrinsic component of omegasome membrane	232	43	0	0	1	
+WT	extrinsic component of phagophore assembly site membrane	232	5	0	0	1	
+KO	extrinsic component of phagophore assembly site membrane	232	43	0	0	1	
+WT	extrinsic component of autophagosome membrane	232	5	0	0	1	
+KO	extrinsic component of autophagosome membrane	232	43	0	0	1	
+WT	guanyl-nucleotide exchange factor complex	232	5	0	0	1	
+KO	guanyl-nucleotide exchange factor complex	232	43	0	0	1	
+WT	COPI-coated vesicle	232	5	0	0	1	
+KO	COPI-coated vesicle	232	43	0	0	1	
+WT	SAM complex	232	5	1	0	1	
+KO	SAM complex	232	43	1	0	1	
+WT	MIB complex	232	5	1	0	1	
+KO	MIB complex	232	43	1	0	1	
+WT	retromer, cargo-selective complex	232	5	0	0	1	
+KO	retromer, cargo-selective complex	232	43	0	0	1	
+WT	tubular endosome	232	5	0	0	1	
+KO	tubular endosome	232	43	0	0	1	
+WT	stereocilia ankle link	232	5	1	0	1	
+KO	stereocilia ankle link	232	43	1	0	1	
+WT	stereocilia ankle link complex	232	5	1	0	1	
+KO	stereocilia ankle link complex	232	43	1	0	1	
+WT	stereocilium bundle	232	5	0	0	1	
+KO	stereocilium bundle	232	43	0	0	1	
+WT	periciliary membrane compartment	232	5	1	0	1	
+KO	periciliary membrane compartment	232	43	1	0	1	
+WT	USH2 complex	232	5	1	0	1	
+KO	USH2 complex	232	43	1	0	1	
+WT	Ire1 complex	232	5	0	0	1	
+KO	Ire1 complex	232	43	0	0	1	
+WT	AIP1-IRE1 complex	232	5	0	0	1	
+KO	AIP1-IRE1 complex	232	43	0	0	1	
+WT	IRE1-TRAF2-ASK1 complex	232	5	0	0	1	
+KO	IRE1-TRAF2-ASK1 complex	232	43	0	0	1	
+WT	IRE1-RACK1-PP2A complex	232	5	0	0	1	
+KO	IRE1-RACK1-PP2A complex	232	43	0	0	1	
+WT	CRLF-CLCF1 complex	232	5	0	0	1	
+KO	CRLF-CLCF1 complex	232	43	0	0	1	
+WT	transcriptionally active chromatin	232	5	0	0	1	
+KO	transcriptionally active chromatin	232	43	0	0	1	
+WT	PCAF complex	232	5	0	0	1	
+KO	PCAF complex	232	43	0	0	1	
+WT	STAGA complex	232	5	0	0	1	
+KO	STAGA complex	232	43	0	0	1	
+WT	anchored component of presynaptic membrane	232	5	1	0	1	
+KO	anchored component of presynaptic membrane	232	43	1	0	1	
+WT	basal part of cell	232	5	1	0	1	
+KO	basal part of cell	232	43	1	1	0.185344827586207	KRT14
+WT	U2 snRNP	232	5	1	0	1	
+KO	U2 snRNP	232	43	1	0	1	
+WT	U11/U12 snRNP	232	5	0	0	1	
+KO	U11/U12 snRNP	232	43	0	0	1	
+WT	RISC-loading complex	232	5	0	0	1	
+KO	RISC-loading complex	232	43	0	0	1	
+WT	DNA polymerase III complex	232	5	0	0	1	
+KO	DNA polymerase III complex	232	43	0	0	1	
+WT	integrin complex	232	5	0	0	1	
+KO	integrin complex	232	43	0	0	1	
+WT	integrin alpha10-beta1 complex	232	5	0	0	1	
+KO	integrin alpha10-beta1 complex	232	43	0	0	1	
+WT	activin responsive factor complex	232	5	0	0	1	
+KO	activin responsive factor complex	232	43	0	0	1	
+WT	phagocytic vesicle lumen	232	5	0	0	1	
+KO	phagocytic vesicle lumen	232	43	0	0	1	
+WT	U5 snRNP	232	5	1	0	1	
+KO	U5 snRNP	232	43	1	0	1	
+WT	granular component	232	5	0	0	1	
+KO	granular component	232	43	0	0	1	
+WT	90S preribosome	232	5	0	0	1	
+KO	90S preribosome	232	43	0	0	1	
+WT	small-subunit processome	232	5	1	0	1	
+KO	small-subunit processome	232	43	1	0	1	
+WT	gap junction	232	5	3	0	1	
+KO	gap junction	232	43	3	1	0.460944527736132	TJP1
+WT	intrinsic component of the cytoplasmic side of the plasma membrane	232	5	1	0	1	
+KO	intrinsic component of the cytoplasmic side of the plasma membrane	232	43	1	1	0.185344827586207	PALM
+WT	vacuolar proton-transporting V-type ATPase complex	232	5	0	0	1	
+KO	vacuolar proton-transporting V-type ATPase complex	232	43	0	0	1	
+WT	ribonuclease H2 complex	232	5	0	0	1	
+KO	ribonuclease H2 complex	232	43	0	0	1	
+WT	protein phosphatase type 1 complex	232	5	3	0	1	
+KO	protein phosphatase type 1 complex	232	43	3	0	1	
+WT	ribonuclease MRP complex	232	5	0	0	1	
+KO	ribonuclease MRP complex	232	43	0	0	1	
+WT	multimeric ribonuclease P complex	232	5	0	0	1	
+KO	multimeric ribonuclease P complex	232	43	0	0	1	
+WT	nucleolar ribonuclease P complex	232	5	0	0	1	
+KO	nucleolar ribonuclease P complex	232	43	0	0	1	
+WT	muscle tendon junction	232	5	0	0	1	
+KO	muscle tendon junction	232	43	0	0	1	
+WT	cuticular plate	232	5	1	0	1	
+KO	cuticular plate	232	43	1	0	1	
+WT	host cell mitochondrial intermembrane space	232	5	0	0	1	
+KO	host cell mitochondrial intermembrane space	232	43	0	0	1	
+WT	G protein-coupled receptor heterodimeric complex	232	5	0	0	1	
+KO	G protein-coupled receptor heterodimeric complex	232	43	0	0	1	
+WT	GABA receptor complex	232	5	0	0	1	
+KO	GABA receptor complex	232	43	0	0	1	
+WT	trans-Golgi network transport vesicle membrane	232	5	0	0	1	
+KO	trans-Golgi network transport vesicle membrane	232	43	0	0	1	
+WT	cyclin K-CDK12 complex	232	5	0	0	1	
+KO	cyclin K-CDK12 complex	232	43	0	0	1	
+WT	cyclin K-CDK13 complex	232	5	0	0	1	
+KO	cyclin K-CDK13 complex	232	43	0	0	1	
+WT	extrinsic component of presynaptic active zone membrane	232	5	0	0	1	
+KO	extrinsic component of presynaptic active zone membrane	232	43	0	0	1	
+WT	extrinsic component of postsynaptic density membrane	232	5	0	0	1	
+KO	extrinsic component of postsynaptic density membrane	232	43	0	0	1	
+WT	membrane microdomain	232	5	0	0	1	
+KO	membrane microdomain	232	43	0	0	1	
+WT	Rad17 RFC-like complex	232	5	0	0	1	
+KO	Rad17 RFC-like complex	232	43	0	0	1	
+WT	mitochondrial proton-transporting ATP synthase complex	232	5	1	0	1	
+KO	mitochondrial proton-transporting ATP synthase complex	232	43	1	1	0.185344827586207	ATP5PO
+WT	sperm plasma membrane	232	5	0	0	1	
+KO	sperm plasma membrane	232	43	0	0	1	
+WT	sperm fibrous sheath	232	5	0	0	1	
+KO	sperm fibrous sheath	232	43	0	0	1	
+WT	sperm end piece	232	5	0	0	1	
+KO	sperm end piece	232	43	0	0	1	
+WT	flotillin complex	232	5	3	0	1	
+KO	flotillin complex	232	43	3	0	1	
+WT	cell-cell contact zone	232	5	0	0	1	
+KO	cell-cell contact zone	232	43	0	0	1	
+WT	dopaminergic synapse	232	5	0	0	1	
+KO	dopaminergic synapse	232	43	0	0	1	
+WT	Schmidt-Lanterman incisure	232	5	0	0	1	
+KO	Schmidt-Lanterman incisure	232	43	0	0	1	
+WT	climbing fiber	232	5	0	0	1	
+KO	climbing fiber	232	43	0	0	1	
+WT	endopeptidase Clp complex	232	5	0	0	1	
+KO	endopeptidase Clp complex	232	43	0	0	1	
+WT	mitochondrial endopeptidase Clp complex	232	5	0	0	1	
+KO	mitochondrial endopeptidase Clp complex	232	43	0	0	1	
+WT	transport vesicle membrane	232	5	1	0	1	
+KO	transport vesicle membrane	232	43	1	1	0.185344827586207	MAP6
+WT	MMXD complex	232	5	0	0	1	
+KO	MMXD complex	232	43	0	0	1	
+WT	CIA complex	232	5	0	0	1	
+KO	CIA complex	232	43	0	0	1	
+WT	signal recognition particle, endoplasmic reticulum targeting	232	5	2	0	1	
+KO	signal recognition particle, endoplasmic reticulum targeting	232	43	2	0	1	
+WT	signal recognition particle	232	5	0	0	1	
+KO	signal recognition particle	232	43	0	0	1	
+WT	multivesicular body	232	5	0	0	1	
+KO	multivesicular body	232	43	0	0	1	
+WT	RNA polymerase II, holoenzyme	232	5	0	0	1	
+KO	RNA polymerase II, holoenzyme	232	43	0	0	1	
+WT	interstitial matrix	232	5	0	0	1	
+KO	interstitial matrix	232	43	0	0	1	
+WT	NuRD complex	232	5	0	0	1	
+KO	NuRD complex	232	43	0	0	1	
+WT	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	232	5	0	0	1	
+KO	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	232	43	0	0	1	
+WT	microtubule bundle	232	5	0	0	1	
+KO	microtubule bundle	232	43	0	0	1	
+WT	mitochondrial outer membrane translocase complex	232	5	0	0	1	
+KO	mitochondrial outer membrane translocase complex	232	43	0	0	1	
+WT	smooth endoplasmic reticulum	232	5	3	0	1	
+KO	smooth endoplasmic reticulum	232	43	3	1	0.460944527736132	HSPA5
+WT	axolemma	232	5	2	0	1	
+KO	axolemma	232	43	2	0	1	
+WT	paranodal junction	232	5	0	0	1	
+KO	paranodal junction	232	43	0	0	1	
+WT	paranode region of axon	232	5	1	0	1	
+KO	paranode region of axon	232	43	1	0	1	
+WT	Schwann cell microvillus	232	5	0	0	1	
+KO	Schwann cell microvillus	232	43	0	0	1	
+WT	endoplasmic reticulum-endosome membrane contact site	232	5	0	0	1	
+KO	endoplasmic reticulum-endosome membrane contact site	232	43	0	0	1	
+WT	VCP-NPL4-UFD1 AAA ATPase complex	232	5	0	0	1	
+KO	VCP-NPL4-UFD1 AAA ATPase complex	232	43	0	0	1	
+WT	integral component of nuclear inner membrane	232	5	0	0	1	
+KO	integral component of nuclear inner membrane	232	43	0	0	1	
+WT	meiotic nuclear membrane microtubule tethering complex	232	5	0	0	1	
+KO	meiotic nuclear membrane microtubule tethering complex	232	43	0	0	1	
+WT	cytoplasmic cyclin-dependent protein kinase holoenzyme complex	232	5	0	0	1	
+KO	cytoplasmic cyclin-dependent protein kinase holoenzyme complex	232	43	0	0	1	
+WT	HAUS complex	232	5	0	0	1	
+KO	HAUS complex	232	43	0	0	1	
+WT	AP-2 adaptor complex	232	5	0	0	1	
+KO	AP-2 adaptor complex	232	43	0	0	1	
+WT	clathrin-coated endocytic vesicle membrane	232	5	0	0	1	
+KO	clathrin-coated endocytic vesicle membrane	232	43	0	0	1	
+WT	vesicle coat	232	5	0	0	1	
+KO	vesicle coat	232	43	0	0	1	
+WT	COPII-coated ER to Golgi transport vesicle	232	5	0	0	1	
+KO	COPII-coated ER to Golgi transport vesicle	232	43	0	0	1	
+WT	postsynaptic endosome	232	5	0	0	1	
+KO	postsynaptic endosome	232	43	0	0	1	
+WT	integral component of spine apparatus membrane	232	5	0	0	1	
+KO	integral component of spine apparatus membrane	232	43	0	0	1	
+WT	type III intermediate filament	232	5	1	0	1	
+KO	type III intermediate filament	232	43	1	1	0.185344827586207	PRPH
+WT	astrocyte projection	232	5	0	0	1	
+KO	astrocyte projection	232	43	0	0	1	
+WT	condensed nuclear chromosome kinetochore	232	5	0	0	1	
+KO	condensed nuclear chromosome kinetochore	232	43	0	0	1	
+WT	male germ cell nucleus	232	5	0	0	1	
+KO	male germ cell nucleus	232	43	0	0	1	
+WT	nuclear meiotic cohesin complex	232	5	0	0	1	
+KO	nuclear meiotic cohesin complex	232	43	0	0	1	
+WT	intrinsic component of mitochondrial outer membrane	232	5	0	0	1	
+KO	intrinsic component of mitochondrial outer membrane	232	43	0	0	1	
+WT	Elongator holoenzyme complex	232	5	0	0	1	
+KO	Elongator holoenzyme complex	232	43	0	0	1	
+WT	clathrin coat of endocytic vesicle	232	5	0	0	1	
+KO	clathrin coat of endocytic vesicle	232	43	0	0	1	
+WT	histone H3-K14 acetyltransferase complex	232	5	0	0	1	
+KO	histone H3-K14 acetyltransferase complex	232	43	0	0	1	
+WT	site of DNA damage	232	5	0	0	1	
+KO	site of DNA damage	232	43	0	0	1	
+WT	interleukin-18 receptor complex	232	5	0	0	1	
+KO	interleukin-18 receptor complex	232	43	0	0	1	
+WT	serotonin-activated cation-selective channel complex	232	5	0	0	1	
+KO	serotonin-activated cation-selective channel complex	232	43	0	0	1	
+WT	BLOC-1 complex	232	5	0	0	1	
+KO	BLOC-1 complex	232	43	0	0	1	
+WT	BORC complex	232	5	0	0	1	
+KO	BORC complex	232	43	0	0	1	
+WT	intercellular canaliculus	232	5	0	0	1	
+KO	intercellular canaliculus	232	43	0	0	1	
+WT	condensin complex	232	5	0	0	1	
+KO	condensin complex	232	43	0	0	1	
+WT	condensin core heterodimer	232	5	0	0	1	
+KO	condensin core heterodimer	232	43	0	0	1	
+WT	DNA-dependent protein kinase complex	232	5	0	0	1	
+KO	DNA-dependent protein kinase complex	232	43	0	0	1	
+WT	Cul5-RING ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul5-RING ubiquitin ligase complex	232	43	0	0	1	
+WT	small nuclear ribonucleoprotein complex	232	5	0	0	1	
+KO	small nuclear ribonucleoprotein complex	232	43	0	0	1	
+WT	microtubule minus-end	232	5	2	0	1	
+KO	microtubule minus-end	232	43	2	0	1	
+WT	low-density lipoprotein particle	232	5	0	0	1	
+KO	low-density lipoprotein particle	232	43	0	0	1	
+WT	discoidal high-density lipoprotein particle	232	5	0	0	1	
+KO	discoidal high-density lipoprotein particle	232	43	0	0	1	
+WT	spherical high-density lipoprotein particle	232	5	0	0	1	
+KO	spherical high-density lipoprotein particle	232	43	0	0	1	
+WT	chaperone complex	232	5	1	0	1	
+KO	chaperone complex	232	43	1	0	1	
+WT	bleb	232	5	1	0	1	
+KO	bleb	232	43	1	0	1	
+WT	Nem1-Spo7 phosphatase complex	232	5	0	0	1	
+KO	Nem1-Spo7 phosphatase complex	232	43	0	0	1	
+WT	NuA4 histone acetyltransferase complex	232	5	1	0	1	
+KO	NuA4 histone acetyltransferase complex	232	43	1	0	1	
+WT	neuron projection terminus	232	5	1	0	1	
+KO	neuron projection terminus	232	43	1	0	1	
+WT	glycogen granule	232	5	2	0	1	
+KO	glycogen granule	232	43	2	0	1	
+WT	MOZ/MORF histone acetyltransferase complex	232	5	0	0	1	
+KO	MOZ/MORF histone acetyltransferase complex	232	43	0	0	1	
+WT	zymogen granule	232	5	0	0	1	
+KO	zymogen granule	232	43	0	0	1	
+WT	secretory vesicle	232	5	0	0	1	
+KO	secretory vesicle	232	43	0	0	1	
+WT	ciliary pocket membrane	232	5	0	0	1	
+KO	ciliary pocket membrane	232	43	0	0	1	
+WT	nuclear heterochromatin	232	5	0	0	1	
+KO	nuclear heterochromatin	232	43	0	0	1	
+WT	Lsm2-8 complex	232	5	0	0	1	
+KO	Lsm2-8 complex	232	43	0	0	1	
+WT	clathrin coat of trans-Golgi network vesicle	232	5	0	0	1	
+KO	clathrin coat of trans-Golgi network vesicle	232	43	0	0	1	
+WT	filopodium tip	232	5	1	0	1	
+KO	filopodium tip	232	43	1	0	1	
+WT	glial cell projection	232	5	0	0	1	
+KO	glial cell projection	232	43	0	0	1	
+WT	dendritic microtubule	232	5	0	0	1	
+KO	dendritic microtubule	232	43	0	0	1	
+WT	photoreceptor disc membrane	232	5	0	0	1	
+KO	photoreceptor disc membrane	232	43	0	0	1	
+WT	axonemal basal plate	232	5	0	0	1	
+KO	axonemal basal plate	232	43	0	0	1	
+WT	cholinergic synapse	232	5	1	0	1	
+KO	cholinergic synapse	232	43	1	0	1	
+WT	extrinsic component of synaptic membrane	232	5	0	0	1	
+KO	extrinsic component of synaptic membrane	232	43	0	0	1	
+WT	lamellipodium membrane	232	5	1	0	1	
+KO	lamellipodium membrane	232	43	1	1	0.185344827586207	CFL1
+WT	polkadots	232	5	0	0	1	
+KO	polkadots	232	43	0	0	1	
+WT	CBM complex	232	5	0	0	1	
+KO	CBM complex	232	43	0	0	1	
+WT	molybdopterin synthase complex	232	5	0	0	1	
+KO	molybdopterin synthase complex	232	43	0	0	1	
+WT	alveolar lamellar body	232	5	0	0	1	
+KO	alveolar lamellar body	232	43	0	0	1	
+WT	multivesicular body lumen	232	5	0	0	1	
+KO	multivesicular body lumen	232	43	0	0	1	
+WT	Ino80 complex	232	5	0	0	1	
+KO	Ino80 complex	232	43	0	0	1	
+WT	cyclin E2-CDK2 complex	232	5	0	0	1	
+KO	cyclin E2-CDK2 complex	232	43	0	0	1	
+WT	mitochondrial respiratory chain complex III	232	5	0	0	1	
+KO	mitochondrial respiratory chain complex III	232	43	0	0	1	
+WT	hemoglobin complex	232	5	0	0	1	
+KO	hemoglobin complex	232	43	0	0	1	
+WT	respiratory chain complex IV	232	5	0	0	1	
+KO	respiratory chain complex IV	232	43	0	0	1	
+WT	Shc-EGFR complex	232	5	0	0	1	
+KO	Shc-EGFR complex	232	43	0	0	1	
+WT	multivesicular body, internal vesicle lumen	232	5	0	0	1	
+KO	multivesicular body, internal vesicle lumen	232	43	0	0	1	
+WT	haptoglobin-hemoglobin complex	232	5	0	0	1	
+KO	haptoglobin-hemoglobin complex	232	43	0	0	1	
+WT	endocytic vesicle lumen	232	5	0	0	1	
+KO	endocytic vesicle lumen	232	43	0	0	1	
+WT	intrinsic component of external side of plasma membrane	232	5	0	0	1	
+KO	intrinsic component of external side of plasma membrane	232	43	0	0	1	
+WT	proton-transporting ATP synthase complex, coupling factor F(o)	232	5	0	0	1	
+KO	proton-transporting ATP synthase complex, coupling factor F(o)	232	43	0	0	1	
+WT	cell body fiber	232	5	0	0	1	
+KO	cell body fiber	232	43	0	0	1	
+WT	membrane attack complex	232	5	0	0	1	
+KO	membrane attack complex	232	43	0	0	1	
+WT	transcription factor AP-1 complex	232	5	0	0	1	
+KO	transcription factor AP-1 complex	232	43	0	0	1	
+WT	PCSK9-LDLR complex	232	5	0	0	1	
+KO	PCSK9-LDLR complex	232	43	0	0	1	
+WT	cytoplasmic side of rough endoplasmic reticulum membrane	232	5	3	0	1	
+KO	cytoplasmic side of rough endoplasmic reticulum membrane	232	43	3	0	1	
+WT	neurosecretory vesicle	232	5	0	0	1	
+KO	neurosecretory vesicle	232	43	0	0	1	
+WT	symmetric synapse	232	5	0	0	1	
+KO	symmetric synapse	232	43	0	0	1	
+WT	synaptic vesicle lumen	232	5	0	0	1	
+KO	synaptic vesicle lumen	232	43	0	0	1	
+WT	neuronal dense core vesicle lumen	232	5	0	0	1	
+KO	neuronal dense core vesicle lumen	232	43	0	0	1	
+WT	follicle-stimulating hormone complex	232	5	0	0	1	
+KO	follicle-stimulating hormone complex	232	43	0	0	1	
+WT	growth hormone receptor complex	232	5	0	0	1	
+KO	growth hormone receptor complex	232	43	0	0	1	
+WT	neuronal dense core vesicle	232	5	0	0	1	
+KO	neuronal dense core vesicle	232	43	0	0	1	
+WT	interleukin-2 receptor complex	232	5	0	0	1	
+KO	interleukin-2 receptor complex	232	43	0	0	1	
+WT	monomeric IgA immunoglobulin complex	232	5	0	0	1	
+KO	monomeric IgA immunoglobulin complex	232	43	0	0	1	
+WT	dimeric IgA immunoglobulin complex	232	5	0	0	1	
+KO	dimeric IgA immunoglobulin complex	232	43	0	0	1	
+WT	secretory IgA immunoglobulin complex	232	5	0	0	1	
+KO	secretory IgA immunoglobulin complex	232	43	0	0	1	
+WT	secretory dimeric IgA immunoglobulin complex	232	5	0	0	1	
+KO	secretory dimeric IgA immunoglobulin complex	232	43	0	0	1	
+WT	pentameric IgM immunoglobulin complex	232	5	0	0	1	
+KO	pentameric IgM immunoglobulin complex	232	43	0	0	1	
+WT	hexameric IgM immunoglobulin complex	232	5	0	0	1	
+KO	hexameric IgM immunoglobulin complex	232	43	0	0	1	
+WT	MHC class I protein complex	232	5	0	0	1	
+KO	MHC class I protein complex	232	43	0	0	1	
+WT	collagen type I trimer	232	5	1	0	1	
+KO	collagen type I trimer	232	43	1	0	1	
+WT	collagen type II trimer	232	5	0	0	1	
+KO	collagen type II trimer	232	43	0	0	1	
+WT	collagen type III trimer	232	5	0	0	1	
+KO	collagen type III trimer	232	43	0	0	1	
+WT	collagen type IV trimer	232	5	0	0	1	
+KO	collagen type IV trimer	232	43	0	0	1	
+WT	actin filament bundle	232	5	0	0	1	
+KO	actin filament bundle	232	43	0	0	1	
+WT	cardiac myofibril	232	5	0	0	1	
+KO	cardiac myofibril	232	43	0	0	1	
+WT	lamin filament	232	5	0	0	1	
+KO	lamin filament	232	43	0	0	1	
+WT	spectrin-associated cytoskeleton	232	5	2	0	1	
+KO	spectrin-associated cytoskeleton	232	43	2	0	1	
+WT	troponin complex	232	5	0	0	1	
+KO	troponin complex	232	43	0	0	1	
+WT	intermediate-density lipoprotein particle	232	5	0	0	1	
+KO	intermediate-density lipoprotein particle	232	43	0	0	1	
+WT	chylomicron	232	5	0	0	1	
+KO	chylomicron	232	43	0	0	1	
+WT	lipoprotein particle	232	5	0	0	1	
+KO	lipoprotein particle	232	43	0	0	1	
+WT	fibrinogen complex	232	5	0	0	1	
+KO	fibrinogen complex	232	43	0	0	1	
+WT	acetylcholine-gated channel complex	232	5	0	0	1	
+KO	acetylcholine-gated channel complex	232	43	0	0	1	
+WT	complement component C1 complex	232	5	0	0	1	
+KO	complement component C1 complex	232	43	0	0	1	
+WT	other organism cell membrane	232	5	0	0	1	
+KO	other organism cell membrane	232	43	0	0	1	
+WT	platelet dense granule lumen	232	5	0	0	1	
+KO	platelet dense granule lumen	232	43	0	0	1	
+WT	symbiont-containing vacuole membrane	232	5	0	0	1	
+KO	symbiont-containing vacuole membrane	232	43	0	0	1	
+WT	host cell cytoplasm	232	5	0	0	1	
+KO	host cell cytoplasm	232	43	0	0	1	
+WT	intracellular ferritin complex	232	5	0	0	1	
+KO	intracellular ferritin complex	232	43	0	0	1	
+WT	autolysosome	232	5	0	0	1	
+KO	autolysosome	232	43	0	0	1	
+WT	transcriptional preinitiation complex	232	5	0	0	1	
+KO	transcriptional preinitiation complex	232	43	0	0	1	
+WT	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	232	5	0	0	1	
+KO	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	232	43	0	0	1	
+WT	angiogenin-PRI complex	232	5	0	0	1	
+KO	angiogenin-PRI complex	232	43	0	0	1	
+WT	rough endoplasmic reticulum lumen	232	5	0	0	1	
+KO	rough endoplasmic reticulum lumen	232	43	0	0	1	
+WT	alphav-beta3 integrin-vitronectin complex	232	5	0	0	1	
+KO	alphav-beta3 integrin-vitronectin complex	232	43	0	0	1	
+WT	euchromatin	232	5	0	0	1	
+KO	euchromatin	232	43	0	0	1	
+WT	sperm head	232	5	0	0	1	
+KO	sperm head	232	43	0	0	1	
+WT	vesicle lumen	232	5	0	0	1	
+KO	vesicle lumen	232	43	0	0	1	
+WT	mature chylomicron	232	5	0	0	1	
+KO	mature chylomicron	232	43	0	0	1	
+WT	chylomicron remnant	232	5	0	0	1	
+KO	chylomicron remnant	232	43	0	0	1	
+WT	inclusion body	232	5	0	0	1	
+KO	inclusion body	232	43	0	0	1	
+WT	anchored component of external side of plasma membrane	232	5	0	0	1	
+KO	anchored component of external side of plasma membrane	232	43	0	0	1	
+WT	neuronal cell body membrane	232	5	0	0	1	
+KO	neuronal cell body membrane	232	43	0	0	1	
+WT	macrophage migration inhibitory factor receptor complex	232	5	0	0	1	
+KO	macrophage migration inhibitory factor receptor complex	232	43	0	0	1	
+WT	NOS2-CD74 complex	232	5	0	0	1	
+KO	NOS2-CD74 complex	232	43	0	0	1	
+WT	Weibel-Palade body	232	5	0	0	1	
+KO	Weibel-Palade body	232	43	0	0	1	
+WT	internode region of axon	232	5	1	0	1	
+KO	internode region of axon	232	43	1	0	1	
+WT	Golgi medial cisterna	232	5	0	0	1	
+KO	Golgi medial cisterna	232	43	0	0	1	
+WT	ERBB3:ERBB2 complex	232	5	0	0	1	
+KO	ERBB3:ERBB2 complex	232	43	0	0	1	
+WT	NADPH oxidase complex	232	5	0	0	1	
+KO	NADPH oxidase complex	232	43	0	0	1	
+WT	oligosaccharyltransferase complex	232	5	0	0	1	
+KO	oligosaccharyltransferase complex	232	43	0	0	1	
+WT	insulin-like growth factor binding protein complex	232	5	1	0	1	
+KO	insulin-like growth factor binding protein complex	232	43	1	0	1	
+WT	alphav-beta3 integrin-IGF-1-IGF1R complex	232	5	0	0	1	
+KO	alphav-beta3 integrin-IGF-1-IGF1R complex	232	43	0	0	1	
+WT	insulin-like growth factor ternary complex	232	5	1	0	1	
+KO	insulin-like growth factor ternary complex	232	43	1	0	1	
+WT	exocytic vesicle	232	5	0	0	1	
+KO	exocytic vesicle	232	43	0	0	1	
+WT	photoreceptor inner segment membrane	232	5	0	0	1	
+KO	photoreceptor inner segment membrane	232	43	0	0	1	
+WT	cytosolic ribosome	232	5	2	0	1	
+KO	cytosolic ribosome	232	43	2	0	1	
+WT	integrin alphav-beta3 complex	232	5	0	0	1	
+KO	integrin alphav-beta3 complex	232	43	0	0	1	
+WT	alphav-beta3 integrin-PKCalpha complex	232	5	0	0	1	
+KO	alphav-beta3 integrin-PKCalpha complex	232	43	0	0	1	
+WT	alphav-beta3 integrin-HMGB1 complex	232	5	0	0	1	
+KO	alphav-beta3 integrin-HMGB1 complex	232	43	0	0	1	
+WT	integrin alphaL-beta2 complex	232	5	0	0	1	
+KO	integrin alphaL-beta2 complex	232	43	0	0	1	
+WT	integrin alphaM-beta2 complex	232	5	0	0	1	
+KO	integrin alphaM-beta2 complex	232	43	0	0	1	
+WT	cytoplasmic region	232	5	0	0	1	
+KO	cytoplasmic region	232	43	0	0	1	
+WT	inhibin-betaglycan-ActRII complex	232	5	0	0	1	
+KO	inhibin-betaglycan-ActRII complex	232	43	0	0	1	
+WT	inhibin A complex	232	5	0	0	1	
+KO	inhibin A complex	232	43	0	0	1	
+WT	inhibin B complex	232	5	0	0	1	
+KO	inhibin B complex	232	43	0	0	1	
+WT	presynaptic cytosol	232	5	1	0	1	
+KO	presynaptic cytosol	232	43	1	0	1	
+WT	postsynaptic cytosol	232	5	2	0	1	
+KO	postsynaptic cytosol	232	43	2	0	1	
+WT	platelet dense tubular network	232	5	0	0	1	
+KO	platelet dense tubular network	232	43	0	0	1	
+WT	protein C inhibitor-TMPRSS7 complex	232	5	0	0	1	
+KO	protein C inhibitor-TMPRSS7 complex	232	43	0	0	1	
+WT	protein C inhibitor-TMPRSS11E complex	232	5	0	0	1	
+KO	protein C inhibitor-TMPRSS11E complex	232	43	0	0	1	
+WT	protein C inhibitor-PLAT complex	232	5	0	0	1	
+KO	protein C inhibitor-PLAT complex	232	43	0	0	1	
+WT	protein C inhibitor-PLAU complex	232	5	0	0	1	
+KO	protein C inhibitor-PLAU complex	232	43	0	0	1	
+WT	protein C inhibitor-thrombin complex	232	5	0	0	1	
+KO	protein C inhibitor-thrombin complex	232	43	0	0	1	
+WT	protein C inhibitor-KLK3 complex	232	5	0	0	1	
+KO	protein C inhibitor-KLK3 complex	232	43	0	0	1	
+WT	protein C inhibitor-plasma kallikrein complex	232	5	0	0	1	
+KO	protein C inhibitor-plasma kallikrein complex	232	43	0	0	1	
+WT	protein C inhibitor-coagulation factor V complex	232	5	0	0	1	
+KO	protein C inhibitor-coagulation factor V complex	232	43	0	0	1	
+WT	protein C inhibitor-coagulation factor Xa complex	232	5	0	0	1	
+KO	protein C inhibitor-coagulation factor Xa complex	232	43	0	0	1	
+WT	protein C inhibitor-coagulation factor XI complex	232	5	0	0	1	
+KO	protein C inhibitor-coagulation factor XI complex	232	43	0	0	1	
+WT	extracellular membrane-bounded organelle	232	5	0	0	1	
+KO	extracellular membrane-bounded organelle	232	43	0	0	1	
+WT	polysome	232	5	3	0	1	
+KO	polysome	232	43	3	0	1	
+WT	eukaryotic translation initiation factor 2 complex	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 2 complex	232	43	0	0	1	
+WT	eukaryotic translation initiation factor 2B complex	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 2B complex	232	43	0	0	1	
+WT	translation initiation ternary complex	232	5	0	0	1	
+KO	translation initiation ternary complex	232	43	0	0	1	
+WT	glial limiting end-foot	232	5	0	0	1	
+KO	glial limiting end-foot	232	43	0	0	1	
+WT	interleukin-6 receptor complex	232	5	0	0	1	
+KO	interleukin-6 receptor complex	232	43	0	0	1	
+WT	cytosolic large ribosomal subunit	232	5	20	1	0.365474468006171	RPLP2
+KO	cytosolic large ribosomal subunit	232	43	20	2	0.917679162943681	RPL24,RPL8
+WT	sarcoplasm	232	5	0	0	1	
+KO	sarcoplasm	232	43	0	0	1	
+WT	integrin alpha1-beta1 complex	232	5	0	0	1	
+KO	integrin alpha1-beta1 complex	232	43	0	0	1	
+WT	integrin alpha2-beta1 complex	232	5	0	0	1	
+KO	integrin alpha2-beta1 complex	232	43	0	0	1	
+WT	integrin alpha3-beta1 complex	232	5	0	0	1	
+KO	integrin alpha3-beta1 complex	232	43	0	0	1	
+WT	integrin alpha5-beta1 complex	232	5	0	0	1	
+KO	integrin alpha5-beta1 complex	232	43	0	0	1	
+WT	integrin alpha7-beta1 complex	232	5	0	0	1	
+KO	integrin alpha7-beta1 complex	232	43	0	0	1	
+WT	integrin alpha8-beta1 complex	232	5	0	0	1	
+KO	integrin alpha8-beta1 complex	232	43	0	0	1	
+WT	integrin alpha11-beta1 complex	232	5	0	0	1	
+KO	integrin alpha11-beta1 complex	232	43	0	0	1	
+WT	myelin sheath abaxonal region	232	5	0	0	1	
+KO	myelin sheath abaxonal region	232	43	0	0	1	
+WT	invadopodium membrane	232	5	0	0	1	
+KO	invadopodium membrane	232	43	0	0	1	
+WT	integral component of synaptic membrane	232	5	0	0	1	
+KO	integral component of synaptic membrane	232	43	0	0	1	
+WT	muscle myosin complex	232	5	1	0	1	
+KO	muscle myosin complex	232	43	1	0	1	
+WT	collagen type V trimer	232	5	0	0	1	
+KO	collagen type V trimer	232	43	0	0	1	
+WT	insulin receptor complex	232	5	1	0	1	
+KO	insulin receptor complex	232	43	1	1	0.185344827586207	SORBS1
+WT	nuclear lumen	232	5	0	0	1	
+KO	nuclear lumen	232	43	0	0	1	
+WT	Rb-E2F complex	232	5	0	0	1	
+KO	Rb-E2F complex	232	43	0	0	1	
+WT	cyclin-dependent protein kinase holoenzyme complex	232	5	0	0	1	
+KO	cyclin-dependent protein kinase holoenzyme complex	232	43	0	0	1	
+WT	cyclin B1-CDK1 complex	232	5	0	0	1	
+KO	cyclin B1-CDK1 complex	232	43	0	0	1	
+WT	mitochondrial proton-transporting ATP synthase, catalytic core	232	5	0	0	1	
+KO	mitochondrial proton-transporting ATP synthase, catalytic core	232	43	0	0	1	
+WT	proton-transporting ATP synthase complex	232	5	0	0	1	
+KO	proton-transporting ATP synthase complex	232	43	0	0	1	
+WT	RISC complex	232	5	0	0	1	
+KO	RISC complex	232	43	0	0	1	
+WT	integral component of external side of plasma membrane	232	5	0	0	1	
+KO	integral component of external side of plasma membrane	232	43	0	0	1	
+WT	muscle thin filament tropomyosin	232	5	3	0	1	
+KO	muscle thin filament tropomyosin	232	43	3	0	1	
+WT	integrin alphav-beta5 complex	232	5	0	0	1	
+KO	integrin alphav-beta5 complex	232	43	0	0	1	
+WT	integrin alphav-beta6 complex	232	5	0	0	1	
+KO	integrin alphav-beta6 complex	232	43	0	0	1	
+WT	integrin alphav-beta8 complex	232	5	0	0	1	
+KO	integrin alphav-beta8 complex	232	43	0	0	1	
+WT	varicosity	232	5	1	0	1	
+KO	varicosity	232	43	1	0	1	
+WT	melanosome membrane	232	5	0	0	1	
+KO	melanosome membrane	232	43	0	0	1	
+WT	protein-lipid complex	232	5	0	0	1	
+KO	protein-lipid complex	232	43	0	0	1	
+WT	apical cortex	232	5	0	0	1	
+KO	apical cortex	232	43	0	0	1	
+WT	postsynaptic intermediate filament cytoskeleton	232	5	2	0	1	
+KO	postsynaptic intermediate filament cytoskeleton	232	43	2	0	1	
+WT	presynaptic intermediate filament cytoskeleton	232	5	1	0	1	
+KO	presynaptic intermediate filament cytoskeleton	232	43	1	0	1	
+WT	neurofibrillary tangle	232	5	2	0	1	
+KO	neurofibrillary tangle	232	43	2	1	0.336990595611285	NEFM
+WT	nuclear pericentric heterochromatin	232	5	0	0	1	
+KO	nuclear pericentric heterochromatin	232	43	0	0	1	
+WT	vacuolar membrane	232	5	0	0	1	
+KO	vacuolar membrane	232	43	0	0	1	
+WT	procollagen-proline 4-dioxygenase complex	232	5	0	0	1	
+KO	procollagen-proline 4-dioxygenase complex	232	43	0	0	1	
+WT	endoplasmic reticulum chaperone complex	232	5	1	0	1	
+KO	endoplasmic reticulum chaperone complex	232	43	1	1	0.185344827586207	HSPA5
+WT	CSF1-CSF1R complex	232	5	0	0	1	
+KO	CSF1-CSF1R complex	232	43	0	0	1	
+WT	myelin sheath adaxonal region	232	5	0	0	1	
+KO	myelin sheath adaxonal region	232	43	0	0	1	
+WT	macropinosome	232	5	0	0	1	
+KO	macropinosome	232	43	0	0	1	
+WT	AnxA2-p11 complex	232	5	0	0	1	
+KO	AnxA2-p11 complex	232	43	0	0	1	
+WT	PCSK9-AnxA2 complex	232	5	0	0	1	
+KO	PCSK9-AnxA2 complex	232	43	0	0	1	
+WT	collagen type VI trimer	232	5	0	0	1	
+KO	collagen type VI trimer	232	43	0	0	1	
+WT	endolysosome lumen	232	5	0	0	1	
+KO	endolysosome lumen	232	43	0	0	1	
+WT	mitochondrial respirasome	232	5	0	0	1	
+KO	mitochondrial respirasome	232	43	0	0	1	
+WT	laminin-1 complex	232	5	2	0	1	
+KO	laminin-1 complex	232	43	2	1	0.336990595611285	LAMC1
+WT	laminin-2 complex	232	5	1	0	1	
+KO	laminin-2 complex	232	43	1	0	1	
+WT	laminin-8 complex	232	5	1	0	1	
+KO	laminin-8 complex	232	43	1	0	1	
+WT	postsynaptic specialization, intracellular component	232	5	0	0	1	
+KO	postsynaptic specialization, intracellular component	232	43	0	0	1	
+WT	tricarboxylic acid cycle enzyme complex	232	5	0	0	1	
+KO	tricarboxylic acid cycle enzyme complex	232	43	0	0	1	
+WT	lamellar body	232	5	0	0	1	
+KO	lamellar body	232	43	0	0	1	
+WT	nucleotide-excision repair complex	232	5	0	0	1	
+KO	nucleotide-excision repair complex	232	43	0	0	1	
+WT	nucleotide-excision repair factor 1 complex	232	5	0	0	1	
+KO	nucleotide-excision repair factor 1 complex	232	43	0	0	1	
+WT	ERCC4-ERCC1 complex	232	5	0	0	1	
+KO	ERCC4-ERCC1 complex	232	43	0	0	1	
+WT	protein kinase complex	232	5	0	0	1	
+KO	protein kinase complex	232	43	0	0	1	
+WT	asymmetric synapse	232	5	0	0	1	
+KO	asymmetric synapse	232	43	0	0	1	
+WT	amino acid transport complex	232	5	0	0	1	
+KO	amino acid transport complex	232	43	0	0	1	
+WT	keratohyalin granule	232	5	0	0	1	
+KO	keratohyalin granule	232	43	0	0	1	
+WT	6-phosphofructokinase complex	232	5	0	0	1	
+KO	6-phosphofructokinase complex	232	43	0	0	1	
+WT	HSP90-CDC37 chaperone complex	232	5	0	0	1	
+KO	HSP90-CDC37 chaperone complex	232	43	0	0	1	
+WT	sperm head plasma membrane	232	5	0	0	1	
+KO	sperm head plasma membrane	232	43	0	0	1	
+WT	ooplasm	232	5	0	0	1	
+KO	ooplasm	232	43	0	0	1	
+WT	signal recognition particle receptor complex	232	5	2	0	1	
+KO	signal recognition particle receptor complex	232	43	2	0	1	
+WT	activin A complex	232	5	0	0	1	
+KO	activin A complex	232	43	0	0	1	
+WT	plasma lipoprotein particle	232	5	0	0	1	
+KO	plasma lipoprotein particle	232	43	0	0	1	
+WT	U1 snRNP	232	5	1	0	1	
+KO	U1 snRNP	232	43	1	0	1	
+WT	serine-type peptidase complex	232	5	0	0	1	
+KO	serine-type peptidase complex	232	43	0	0	1	
+WT	terminal web	232	5	0	0	1	
+KO	terminal web	232	43	0	0	1	
+WT	endothelial microparticle	232	5	0	0	1	
+KO	endothelial microparticle	232	43	0	0	1	
+WT	ciliary neurotrophic factor receptor complex	232	5	0	0	1	
+KO	ciliary neurotrophic factor receptor complex	232	43	0	0	1	
+WT	multivesicular body, internal vesicle	232	5	0	0	1	
+KO	multivesicular body, internal vesicle	232	43	0	0	1	
+WT	chromaffin granule lumen	232	5	0	0	1	
+KO	chromaffin granule lumen	232	43	0	0	1	
+WT	chromaffin granule membrane	232	5	0	0	1	
+KO	chromaffin granule membrane	232	43	0	0	1	
+WT	TRAF2-GSTP1 complex	232	5	0	0	1	
+KO	TRAF2-GSTP1 complex	232	43	0	0	1	
+WT	commitment complex	232	5	0	0	1	
+KO	commitment complex	232	43	0	0	1	
+WT	U2-type prespliceosome	232	5	2	0	1	
+KO	U2-type prespliceosome	232	43	2	0	1	
+WT	nuclear nucleosome	232	5	0	0	1	
+KO	nuclear nucleosome	232	43	0	0	1	
+WT	clathrin coat	232	5	0	0	1	
+KO	clathrin coat	232	43	0	0	1	
+WT	clathrin complex	232	5	0	0	1	
+KO	clathrin complex	232	43	0	0	1	
+WT	acrosomal matrix	232	5	0	0	1	
+KO	acrosomal matrix	232	43	0	0	1	
+WT	oxoglutarate dehydrogenase complex	232	5	0	0	1	
+KO	oxoglutarate dehydrogenase complex	232	43	0	0	1	
+WT	alpha DNA polymerase:primase complex	232	5	0	0	1	
+KO	alpha DNA polymerase:primase complex	232	43	0	0	1	
+WT	other organism cell	232	5	0	0	1	
+KO	other organism cell	232	43	0	0	1	
+WT	Ctf18 RFC-like complex	232	5	0	0	1	
+KO	Ctf18 RFC-like complex	232	43	0	0	1	
+WT	catalytic complex	232	5	1	0	1	
+KO	catalytic complex	232	43	1	1	0.185344827586207	CALM3
+WT	Myb complex	232	5	0	0	1	
+KO	Myb complex	232	43	0	0	1	
+WT	mitochondrial pyruvate dehydrogenase complex	232	5	0	0	1	
+KO	mitochondrial pyruvate dehydrogenase complex	232	43	0	0	1	
+WT	lumenal side of lysosomal membrane	232	5	1	0	1	
+KO	lumenal side of lysosomal membrane	232	43	1	0	1	
+WT	nuclear periphery	232	5	1	0	1	
+KO	nuclear periphery	232	43	1	0	1	
+WT	tubulin complex	232	5	0	0	1	
+KO	tubulin complex	232	43	0	0	1	
+WT	cAMP-dependent protein kinase complex	232	5	0	0	1	
+KO	cAMP-dependent protein kinase complex	232	43	0	0	1	
+WT	sperm connecting piece	232	5	0	0	1	
+KO	sperm connecting piece	232	43	0	0	1	
+WT	chromaffin granule	232	5	0	0	1	
+KO	chromaffin granule	232	43	0	0	1	
+WT	protein complex involved in cell adhesion	232	5	0	0	1	
+KO	protein complex involved in cell adhesion	232	43	0	0	1	
+WT	coated vesicle	232	5	0	0	1	
+KO	coated vesicle	232	43	0	0	1	
+WT	perinuclear endoplasmic reticulum lumen	232	5	0	0	1	
+KO	perinuclear endoplasmic reticulum lumen	232	43	0	0	1	
+WT	dendritic branch	232	5	1	0	1	
+KO	dendritic branch	232	43	1	0	1	
+WT	CA3 pyramidal cell dendrite	232	5	1	0	1	
+KO	CA3 pyramidal cell dendrite	232	43	1	0	1	
+WT	primary dendrite	232	5	1	0	1	
+KO	primary dendrite	232	43	1	0	1	
+WT	distal dendrite	232	5	1	0	1	
+KO	distal dendrite	232	43	1	0	1	
+WT	apical distal dendrite	232	5	1	0	1	
+KO	apical distal dendrite	232	43	1	0	1	
+WT	dendritic filopodium	232	5	1	0	1	
+KO	dendritic filopodium	232	43	1	0	1	
+WT	proximal dendrite	232	5	1	0	1	
+KO	proximal dendrite	232	43	1	0	1	
+WT	Prp19 complex	232	5	1	0	1	
+KO	Prp19 complex	232	43	1	0	1	
+WT	clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	232	5	1	0	1	
+KO	clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	232	43	1	0	1	
+WT	photoreceptor ribbon synapse	232	5	1	0	1	
+KO	photoreceptor ribbon synapse	232	43	1	0	1	
+WT	glycinergic synapse	232	5	1	0	1	
+KO	glycinergic synapse	232	43	1	0	1	
+WT	postsynaptic specialization membrane	232	5	1	0	1	
+KO	postsynaptic specialization membrane	232	43	1	0	1	
+WT	cytolytic granule	232	5	0	0	1	
+KO	cytolytic granule	232	43	0	0	1	
+WT	phagolysosome membrane	232	5	0	0	1	
+KO	phagolysosome membrane	232	43	0	0	1	
+WT	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex	232	5	0	0	1	
+KO	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex	232	43	0	0	1	
+WT	viral integration complex	232	5	0	0	1	
+KO	viral integration complex	232	43	0	0	1	
+WT	BAT3 complex	232	5	0	0	1	
+KO	BAT3 complex	232	43	0	0	1	
+WT	syntrophin complex	232	5	0	0	1	
+KO	syntrophin complex	232	43	0	0	1	
+WT	cell-substrate junction	232	5	1	0	1	
+KO	cell-substrate junction	232	43	1	1	0.185344827586207	SORBS1
+WT	cyclin D2-CDK4 complex	232	5	0	0	1	
+KO	cyclin D2-CDK4 complex	232	43	0	0	1	
+WT	B cell receptor complex	232	5	0	0	1	
+KO	B cell receptor complex	232	43	0	0	1	
+WT	replisome	232	5	0	0	1	
+KO	replisome	232	43	0	0	1	
+WT	PCNA complex	232	5	0	0	1	
+KO	PCNA complex	232	43	0	0	1	
+WT	PCNA-p21 complex	232	5	0	0	1	
+KO	PCNA-p21 complex	232	43	0	0	1	
+WT	collagen type XI trimer	232	5	0	0	1	
+KO	collagen type XI trimer	232	43	0	0	1	
+WT	integral component of mitochondrial membrane	232	5	0	0	1	
+KO	integral component of mitochondrial membrane	232	43	0	0	1	
+WT	BMP receptor complex	232	5	0	0	1	
+KO	BMP receptor complex	232	43	0	0	1	
+WT	fascia adherens	232	5	1	0	1	
+KO	fascia adherens	232	43	1	0	1	
+WT	Ku70:Ku80 complex	232	5	0	0	1	
+KO	Ku70:Ku80 complex	232	43	0	0	1	
+WT	nonhomologous end joining complex	232	5	0	0	1	
+KO	nonhomologous end joining complex	232	43	0	0	1	
+WT	lysosomal matrix	232	5	0	0	1	
+KO	lysosomal matrix	232	43	0	0	1	
+WT	interphotoreceptor matrix	232	5	0	0	1	
+KO	interphotoreceptor matrix	232	43	0	0	1	
+WT	integrin alpha4-beta7 complex	232	5	0	0	1	
+KO	integrin alpha4-beta7 complex	232	43	0	0	1	
+WT	polysomal ribosome	232	5	8	0	1	
+KO	polysomal ribosome	232	43	8	2	0.454888122655286	RPL24,RPL8
+WT	MHC class Ib protein complex	232	5	0	0	1	
+KO	MHC class Ib protein complex	232	43	0	0	1	
+WT	glucosidase II complex	232	5	0	0	1	
+KO	glucosidase II complex	232	43	0	0	1	
+WT	cell projection membrane	232	5	1	0	1	
+KO	cell projection membrane	232	43	1	0	1	
+WT	cell body membrane	232	5	0	0	1	
+KO	cell body membrane	232	43	0	0	1	
+WT	astrocyte end-foot	232	5	0	0	1	
+KO	astrocyte end-foot	232	43	0	0	1	
+WT	phagolysosome	232	5	0	0	1	
+KO	phagolysosome	232	43	0	0	1	
+WT	pyruvate kinase complex	232	5	0	0	1	
+KO	pyruvate kinase complex	232	43	0	0	1	
+WT	insulin-responsive compartment	232	5	1	0	1	
+KO	insulin-responsive compartment	232	43	1	0	1	
+WT	U7 snRNP	232	5	0	0	1	
+KO	U7 snRNP	232	43	0	0	1	
+WT	U4 snRNP	232	5	0	0	1	
+KO	U4 snRNP	232	43	0	0	1	
+WT	ribonucleoprotein granule	232	5	0	0	1	
+KO	ribonucleoprotein granule	232	43	0	0	1	
+WT	GABA-A receptor complex	232	5	0	0	1	
+KO	GABA-A receptor complex	232	43	0	0	1	
+WT	smooth muscle contractile fiber	232	5	0	0	1	
+KO	smooth muscle contractile fiber	232	43	0	0	1	
+WT	gamma-catenin-TCF7L2 complex	232	5	0	0	1	
+KO	gamma-catenin-TCF7L2 complex	232	43	0	0	1	
+WT	hemidesmosome	232	5	1	0	1	
+KO	hemidesmosome	232	43	1	1	0.185344827586207	DST
+WT	plasma membrane bounded cell projection cytoplasm	232	5	0	0	1	
+KO	plasma membrane bounded cell projection cytoplasm	232	43	0	0	1	
+WT	Golgi trans cisterna	232	5	0	0	1	
+KO	Golgi trans cisterna	232	43	0	0	1	
+WT	cell tip	232	5	0	0	1	
+KO	cell tip	232	43	0	0	1	
+WT	proton-transporting V-type ATPase, V1 domain	232	5	0	0	1	
+KO	proton-transporting V-type ATPase, V1 domain	232	43	0	0	1	
+WT	elastic fiber	232	5	0	0	1	
+KO	elastic fiber	232	43	0	0	1	
+WT	inner acrosomal membrane	232	5	0	0	1	
+KO	inner acrosomal membrane	232	43	0	0	1	
+WT	phosphorylase kinase complex	232	5	0	0	1	
+KO	phosphorylase kinase complex	232	43	0	0	1	
+WT	beta-catenin-TCF7L2 complex	232	5	1	0	1	
+KO	beta-catenin-TCF7L2 complex	232	43	1	0	1	
+WT	perisynaptic extracellular matrix	232	5	0	0	1	
+KO	perisynaptic extracellular matrix	232	43	0	0	1	
+WT	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex	232	5	0	0	1	
+KO	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex	232	43	0	0	1	
+WT	ATF4-CREB1 transcription factor complex	232	5	0	0	1	
+KO	ATF4-CREB1 transcription factor complex	232	43	0	0	1	
+WT	calcineurin complex	232	5	0	0	1	
+KO	calcineurin complex	232	43	0	0	1	
+WT	juxtaparanode region of axon	232	5	1	0	1	
+KO	juxtaparanode region of axon	232	43	1	0	1	
+WT	apical ectoplasmic specialization	232	5	0	0	1	
+KO	apical ectoplasmic specialization	232	43	0	0	1	
+WT	plasma membrane bounded cell projection	232	5	0	0	1	
+KO	plasma membrane bounded cell projection	232	43	0	0	1	
+WT	senescence-associated heterochromatin focus	232	5	0	0	1	
+KO	senescence-associated heterochromatin focus	232	43	0	0	1	
+WT	Lsd1/2 complex	232	5	0	0	1	
+KO	Lsd1/2 complex	232	43	0	0	1	
+WT	condensed chromosome, centromeric region	232	5	0	0	1	
+KO	condensed chromosome, centromeric region	232	43	0	0	1	
+WT	CHOP-C/EBP complex	232	5	0	0	1	
+KO	CHOP-C/EBP complex	232	43	0	0	1	
+WT	growth cone membrane	232	5	1	0	1	
+KO	growth cone membrane	232	43	1	0	1	
+WT	cis-Golgi network membrane	232	5	0	0	1	
+KO	cis-Golgi network membrane	232	43	0	0	1	
+WT	cytoophidium	232	5	0	0	1	
+KO	cytoophidium	232	43	0	0	1	
+WT	zona pellucida receptor complex	232	5	1	0	1	
+KO	zona pellucida receptor complex	232	43	1	1	0.185344827586207	HSPA1L
+WT	chaperonin-containing T-complex	232	5	0	0	1	
+KO	chaperonin-containing T-complex	232	43	0	0	1	
+WT	cytoplasmic side of endoplasmic reticulum membrane	232	5	0	0	1	
+KO	cytoplasmic side of endoplasmic reticulum membrane	232	43	0	0	1	
+WT	transcription factor TFIIH core complex	232	5	0	0	1	
+KO	transcription factor TFIIH core complex	232	43	0	0	1	
+WT	transcription factor TFIIH holo complex	232	5	0	0	1	
+KO	transcription factor TFIIH holo complex	232	43	0	0	1	
+WT	CAK-ERCC2 complex	232	5	0	0	1	
+KO	CAK-ERCC2 complex	232	43	0	0	1	
+WT	NELF complex	232	5	0	0	1	
+KO	NELF complex	232	43	0	0	1	
+WT	ATF1-ATF4 transcription factor complex	232	5	0	0	1	
+KO	ATF1-ATF4 transcription factor complex	232	43	0	0	1	
+WT	CHOP-ATF3 complex	232	5	0	0	1	
+KO	CHOP-ATF3 complex	232	43	0	0	1	
+WT	Lewy body core	232	5	0	0	1	
+KO	Lewy body core	232	43	0	0	1	
+WT	CHOP-ATF4 complex	232	5	0	0	1	
+KO	CHOP-ATF4 complex	232	43	0	0	1	
+WT	alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex	232	5	0	0	1	
+KO	alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex	232	43	0	0	1	
+WT	cardiac Troponin complex	232	5	0	0	1	
+KO	cardiac Troponin complex	232	43	0	0	1	
+WT	tumor necrosis factor receptor superfamily complex	232	5	0	0	1	
+KO	tumor necrosis factor receptor superfamily complex	232	43	0	0	1	
+WT	cation-transporting ATPase complex	232	5	0	0	1	
+KO	cation-transporting ATPase complex	232	43	0	0	1	
+WT	I-kappaB/NF-kappaB complex	232	5	0	0	1	
+KO	I-kappaB/NF-kappaB complex	232	43	0	0	1	
+WT	integral component of presynaptic active zone membrane	232	5	0	0	1	
+KO	integral component of presynaptic active zone membrane	232	43	0	0	1	
+WT	transcription factor TFIIA complex	232	5	0	0	1	
+KO	transcription factor TFIIA complex	232	43	0	0	1	
+WT	cyclin A2-CDK2 complex	232	5	0	0	1	
+KO	cyclin A2-CDK2 complex	232	43	0	0	1	
+WT	clathrin-sculpted acetylcholine transport vesicle membrane	232	5	0	0	1	
+KO	clathrin-sculpted acetylcholine transport vesicle membrane	232	43	0	0	1	
+WT	clathrin-sculpted glutamate transport vesicle membrane	232	5	0	0	1	
+KO	clathrin-sculpted glutamate transport vesicle membrane	232	43	0	0	1	
+WT	clathrin-sculpted monoamine transport vesicle membrane	232	5	0	0	1	
+KO	clathrin-sculpted monoamine transport vesicle membrane	232	43	0	0	1	
+WT	cytoplasmic side of early endosome membrane	232	5	0	0	1	
+KO	cytoplasmic side of early endosome membrane	232	43	0	0	1	
+WT	endosome to plasma membrane transport vesicle	232	5	0	0	1	
+KO	endosome to plasma membrane transport vesicle	232	43	0	0	1	
+WT	MutSbeta complex	232	5	0	0	1	
+KO	MutSbeta complex	232	43	0	0	1	
+WT	Bcl3-Bcl10 complex	232	5	0	0	1	
+KO	Bcl3-Bcl10 complex	232	43	0	0	1	
+WT	Bcl3/NF-kappaB2 complex	232	5	0	0	1	
+KO	Bcl3/NF-kappaB2 complex	232	43	0	0	1	
+WT	collagen type IX trimer	232	5	0	0	1	
+KO	collagen type IX trimer	232	43	0	0	1	
+WT	compact myelin	232	5	0	0	1	
+KO	compact myelin	232	43	0	0	1	
+WT	mesaxon	232	5	0	0	1	
+KO	mesaxon	232	43	0	0	1	
+WT	hinge region between urothelial plaques of apical plasma membrane	232	5	0	0	1	
+KO	hinge region between urothelial plaques of apical plasma membrane	232	43	0	0	1	
+WT	proton-transporting two-sector ATPase complex	232	5	0	0	1	
+KO	proton-transporting two-sector ATPase complex	232	43	0	0	1	
+WT	glycerol-3-phosphate dehydrogenase complex	232	5	0	0	1	
+KO	glycerol-3-phosphate dehydrogenase complex	232	43	0	0	1	
+WT	egg coat	232	5	0	0	1	
+KO	egg coat	232	43	0	0	1	
+WT	mitochondrial permeability transition pore complex	232	5	0	0	1	
+KO	mitochondrial permeability transition pore complex	232	43	0	0	1	
+WT	ryanodine receptor complex	232	5	0	0	1	
+KO	ryanodine receptor complex	232	43	0	0	1	
+WT	dense fibrillar component	232	5	0	0	1	
+KO	dense fibrillar component	232	43	0	0	1	
+WT	cytochrome complex	232	5	0	0	1	
+KO	cytochrome complex	232	43	0	0	1	
+WT	intracellular canaliculus	232	5	0	0	1	
+KO	intracellular canaliculus	232	43	0	0	1	
+WT	integrin alpha6-beta4 complex	232	5	0	0	1	
+KO	integrin alpha6-beta4 complex	232	43	0	0	1	
+WT	polar microtubule	232	5	0	0	1	
+KO	polar microtubule	232	43	0	0	1	
+WT	NF-kappaB complex	232	5	1	0	1	
+KO	NF-kappaB complex	232	43	1	0	1	
+WT	inhibitory synapse	232	5	0	0	1	
+KO	inhibitory synapse	232	43	0	0	1	
+WT	glycine cleavage complex	232	5	0	0	1	
+KO	glycine cleavage complex	232	43	0	0	1	
+WT	perineuronal net	232	5	0	0	1	
+KO	perineuronal net	232	43	0	0	1	
+WT	CCAAT-binding factor complex	232	5	0	0	1	
+KO	CCAAT-binding factor complex	232	43	0	0	1	
+WT	Rab-protein geranylgeranyltransferase complex	232	5	0	0	1	
+KO	Rab-protein geranylgeranyltransferase complex	232	43	0	0	1	
+WT	secondary lysosome	232	5	0	0	1	
+KO	secondary lysosome	232	43	0	0	1	
+WT	eukaryotic translation elongation factor 1 complex	232	5	0	0	1	
+KO	eukaryotic translation elongation factor 1 complex	232	43	0	0	1	
+WT	postsynaptic recycling endosome	232	5	0	0	1	
+KO	postsynaptic recycling endosome	232	43	0	0	1	
+WT	insulin-like growth factor binary complex	232	5	0	0	1	
+KO	insulin-like growth factor binary complex	232	43	0	0	1	
+WT	cyclin E1-CDK2 complex	232	5	0	0	1	
+KO	cyclin E1-CDK2 complex	232	43	0	0	1	
+WT	cyclin A1-CDK2 complex	232	5	0	0	1	
+KO	cyclin A1-CDK2 complex	232	43	0	0	1	
+WT	MCM complex	232	5	0	0	1	
+KO	MCM complex	232	43	0	0	1	
+WT	laminin-3 complex	232	5	0	0	1	
+KO	laminin-3 complex	232	43	0	0	1	
+WT	outer dense fiber	232	5	0	0	1	
+KO	outer dense fiber	232	43	0	0	1	
+WT	concave side of sperm head	232	5	0	0	1	
+KO	concave side of sperm head	232	43	0	0	1	
+WT	extrinsic component of postsynaptic membrane	232	5	0	0	1	
+KO	extrinsic component of postsynaptic membrane	232	43	0	0	1	
+WT	U2AF	232	5	0	0	1	
+KO	U2AF	232	43	0	0	1	
+WT	Dcp1-Dcp2 complex	232	5	0	0	1	
+KO	Dcp1-Dcp2 complex	232	43	0	0	1	
+WT	calcium ion-transporting ATPase complex	232	5	0	0	1	
+KO	calcium ion-transporting ATPase complex	232	43	0	0	1	
+WT	CNTFR-CLCF1 complex	232	5	0	0	1	
+KO	CNTFR-CLCF1 complex	232	43	0	0	1	
+WT	collagen type VIII trimer	232	5	0	0	1	
+KO	collagen type VIII trimer	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex, class IA	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex, class IA	232	43	0	0	1	
+WT	perinuclear endoplasmic reticulum membrane	232	5	0	0	1	
+KO	perinuclear endoplasmic reticulum membrane	232	43	0	0	1	
+WT	spermatoproteasome complex	232	5	0	0	1	
+KO	spermatoproteasome complex	232	43	0	0	1	
+WT	serotonergic synapse	232	5	0	0	1	
+KO	serotonergic synapse	232	43	0	0	1	
+WT	striated muscle thin filament	232	5	5	0	1	
+KO	striated muscle thin filament	232	43	5	1	0.64473878034552	TMOD2
+WT	Cdc73/Paf1 complex	232	5	0	0	1	
+KO	Cdc73/Paf1 complex	232	43	0	0	1	
+WT	delta DNA polymerase complex	232	5	0	0	1	
+KO	delta DNA polymerase complex	232	43	0	0	1	
+WT	TEAD-1-YAP complex	232	5	0	0	1	
+KO	TEAD-1-YAP complex	232	43	0	0	1	
+WT	CERF complex	232	5	0	0	1	
+KO	CERF complex	232	43	0	0	1	
+WT	glomerular endothelium fenestra	232	5	0	0	1	
+KO	glomerular endothelium fenestra	232	43	0	0	1	
+WT	late endosome lumen	232	5	0	0	1	
+KO	late endosome lumen	232	43	0	0	1	
+WT	interleukin-12 complex	232	5	0	0	1	
+KO	interleukin-12 complex	232	43	0	0	1	
+WT	interleukin-23 complex	232	5	0	0	1	
+KO	interleukin-23 complex	232	43	0	0	1	
+WT	IPAF inflammasome complex	232	5	0	0	1	
+KO	IPAF inflammasome complex	232	43	0	0	1	
+WT	NLRP1 inflammasome complex	232	5	0	0	1	
+KO	NLRP1 inflammasome complex	232	43	0	0	1	
+WT	protease inhibitor complex	232	5	0	0	1	
+KO	protease inhibitor complex	232	43	0	0	1	
+WT	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	232	5	0	0	1	
+KO	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	232	43	0	0	1	
+WT	protein phosphatase type 2A complex	232	5	0	0	1	
+KO	protein phosphatase type 2A complex	232	43	0	0	1	
+WT	host cell surface	232	5	0	0	1	
+KO	host cell surface	232	43	0	0	1	
+WT	microtubule plus-end	232	5	2	0	1	
+KO	microtubule plus-end	232	43	2	1	0.336990595611285	DST
+WT	dendritic spine neck	232	5	2	0	1	
+KO	dendritic spine neck	232	43	2	0	1	
+WT	methionine adenosyltransferase complex	232	5	0	0	1	
+KO	methionine adenosyltransferase complex	232	43	0	0	1	
+WT	ribonucleoside-diphosphate reductase complex	232	5	0	0	1	
+KO	ribonucleoside-diphosphate reductase complex	232	43	0	0	1	
+WT	terminal cisterna lumen	232	5	0	0	1	
+KO	terminal cisterna lumen	232	43	0	0	1	
+WT	nuclear stress granule	232	5	0	0	1	
+KO	nuclear stress granule	232	43	0	0	1	
+WT	granulocyte macrophage colony-stimulating factor receptor complex	232	5	0	0	1	
+KO	granulocyte macrophage colony-stimulating factor receptor complex	232	43	0	0	1	
+WT	cleavage body	232	5	0	0	1	
+KO	cleavage body	232	43	0	0	1	
+WT	BRISC complex	232	5	0	0	1	
+KO	BRISC complex	232	43	0	0	1	
+WT	Scrib-APC-beta-catenin complex	232	5	1	0	1	
+KO	Scrib-APC-beta-catenin complex	232	43	1	0	1	
+WT	DNA replication factor C complex	232	5	0	0	1	
+KO	DNA replication factor C complex	232	43	0	0	1	
+WT	Elg1 RFC-like complex	232	5	0	0	1	
+KO	Elg1 RFC-like complex	232	43	0	0	1	
+WT	transcription factor TFIIF complex	232	5	0	0	1	
+KO	transcription factor TFIIF complex	232	43	0	0	1	
+WT	nuclear outer membrane	232	5	0	0	1	
+KO	nuclear outer membrane	232	43	0	0	1	
+WT	spine apparatus	232	5	0	0	1	
+KO	spine apparatus	232	43	0	0	1	
+WT	microfibril	232	5	0	0	1	
+KO	microfibril	232	43	0	0	1	
+WT	isoamylase complex	232	5	0	0	1	
+KO	isoamylase complex	232	43	0	0	1	
+WT	actomyosin contractile ring	232	5	1	0	1	
+KO	actomyosin contractile ring	232	43	1	0	1	
+WT	actomyosin	232	5	5	0	1	
+KO	actomyosin	232	43	5	0	1	
+WT	myosin II filament	232	5	2	0	1	
+KO	myosin II filament	232	43	2	0	1	
+WT	F-actin capping protein complex	232	5	5	0	1	
+KO	F-actin capping protein complex	232	43	5	2	0.231867633179503	ADD2,ADD1
+WT	cytoplasmic side of nuclear pore	232	5	0	0	1	
+KO	cytoplasmic side of nuclear pore	232	43	0	0	1	
+WT	cytoskeletal calyx	232	5	0	0	1	
+KO	cytoskeletal calyx	232	43	0	0	1	
+WT	cytosolic aryl hydrocarbon receptor complex	232	5	0	0	1	
+KO	cytosolic aryl hydrocarbon receptor complex	232	43	0	0	1	
+WT	proton-transporting two-sector ATPase complex, catalytic domain	232	5	0	0	1	
+KO	proton-transporting two-sector ATPase complex, catalytic domain	232	43	0	0	1	
+WT	activin receptor complex	232	5	0	0	1	
+KO	activin receptor complex	232	43	0	0	1	
+WT	GMP reductase complex	232	5	0	0	1	
+KO	GMP reductase complex	232	43	0	0	1	
+WT	sodium channel complex	232	5	0	0	1	
+KO	sodium channel complex	232	43	0	0	1	
+WT	supraspliceosomal complex	232	5	0	0	1	
+KO	supraspliceosomal complex	232	43	0	0	1	
+WT	gamma-tubulin ring complex	232	5	0	0	1	
+KO	gamma-tubulin ring complex	232	43	0	0	1	
+WT	BRCA1-BARD1 complex	232	5	0	0	1	
+KO	BRCA1-BARD1 complex	232	43	0	0	1	
+WT	BRCA1-A complex	232	5	0	0	1	
+KO	BRCA1-A complex	232	43	0	0	1	
+WT	collagen type XV trimer	232	5	0	0	1	
+KO	collagen type XV trimer	232	43	0	0	1	
+WT	oncostatin-M receptor complex	232	5	0	0	1	
+KO	oncostatin-M receptor complex	232	43	0	0	1	
+WT	large ribosomal subunit	232	5	0	0	1	
+KO	large ribosomal subunit	232	43	0	0	1	
+WT	late recombination nodule	232	5	0	0	1	
+KO	late recombination nodule	232	43	0	0	1	
+WT	RNA polymerase II transcription repressor complex	232	5	0	0	1	
+KO	RNA polymerase II transcription repressor complex	232	43	0	0	1	
+WT	lumenal side of membrane	232	5	0	0	1	
+KO	lumenal side of membrane	232	43	0	0	1	
+WT	XPC complex	232	5	0	0	1	
+KO	XPC complex	232	43	0	0	1	
+WT	NatA complex	232	5	0	0	1	
+KO	NatA complex	232	43	0	0	1	
+WT	axonal spine	232	5	0	0	1	
+KO	axonal spine	232	43	0	0	1	
+WT	neuron spine	232	5	0	0	1	
+KO	neuron spine	232	43	0	0	1	
+WT	postsynaptic endocytic zone	232	5	0	0	1	
+KO	postsynaptic endocytic zone	232	43	0	0	1	
+WT	TRAMP complex	232	5	0	0	1	
+KO	TRAMP complex	232	43	0	0	1	
+WT	viral replication complex	232	5	0	0	1	
+KO	viral replication complex	232	43	0	0	1	
+WT	nuclear condensin complex	232	5	0	0	1	
+KO	nuclear condensin complex	232	43	0	0	1	
+WT	interleukin-12 receptor complex	232	5	0	0	1	
+KO	interleukin-12 receptor complex	232	43	0	0	1	
+WT	interleukin-23 receptor complex	232	5	0	0	1	
+KO	interleukin-23 receptor complex	232	43	0	0	1	
+WT	intrinsic component of endosome membrane	232	5	0	0	1	
+KO	intrinsic component of endosome membrane	232	43	0	0	1	
+WT	membrane protein complex	232	5	0	0	1	
+KO	membrane protein complex	232	43	0	0	1	
+WT	perisynaptic space	232	5	0	0	1	
+KO	perisynaptic space	232	43	0	0	1	
+WT	astral microtubule	232	5	0	0	1	
+KO	astral microtubule	232	43	0	0	1	
+WT	kinesin complex	232	5	1	0	1	
+KO	kinesin complex	232	43	1	1	0.185344827586207	KIF5C
+WT	central region of growth cone	232	5	0	0	1	
+KO	central region of growth cone	232	43	0	0	1	
+WT	MutSalpha complex	232	5	0	0	1	
+KO	MutSalpha complex	232	43	0	0	1	
+WT	spanning component of membrane	232	5	0	0	1	
+KO	spanning component of membrane	232	43	0	0	1	
+WT	nuclear pore cytoplasmic filaments	232	5	0	0	1	
+KO	nuclear pore cytoplasmic filaments	232	43	0	0	1	
+WT	cytoplasmic periphery of the nuclear pore complex	232	5	0	0	1	
+KO	cytoplasmic periphery of the nuclear pore complex	232	43	0	0	1	
+WT	telomeric heterochromatin	232	5	0	0	1	
+KO	telomeric heterochromatin	232	43	0	0	1	
+WT	nuclear subtelomeric heterochromatin	232	5	0	0	1	
+KO	nuclear subtelomeric heterochromatin	232	43	0	0	1	
+WT	Cul4A-RING E3 ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul4A-RING E3 ubiquitin ligase complex	232	43	0	0	1	
+WT	MAML1-RBP-Jkappa- ICN1 complex	232	5	0	0	1	
+KO	MAML1-RBP-Jkappa- ICN1 complex	232	43	0	0	1	
+WT	nuclear ubiquitin ligase complex	232	5	0	0	1	
+KO	nuclear ubiquitin ligase complex	232	43	0	0	1	
+WT	hippocampal mossy fiber	232	5	1	0	1	
+KO	hippocampal mossy fiber	232	43	1	0	1	
+WT	TEAD-2-YAP complex	232	5	0	0	1	
+KO	TEAD-2-YAP complex	232	43	0	0	1	
+WT	oligosaccharyltransferase III complex	232	5	0	0	1	
+KO	oligosaccharyltransferase III complex	232	43	0	0	1	
+WT	glutamate-cysteine ligase complex	232	5	0	0	1	
+KO	glutamate-cysteine ligase complex	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex, class IB	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex, class IB	232	43	0	0	1	
+WT	dendritic tree	232	5	0	0	1	
+KO	dendritic tree	232	43	0	0	1	
+WT	host cell perinuclear region of cytoplasm	232	5	0	0	1	
+KO	host cell perinuclear region of cytoplasm	232	43	0	0	1	
+WT	paraferritin complex	232	5	0	0	1	
+KO	paraferritin complex	232	43	0	0	1	
+WT	CAAX-protein geranylgeranyltransferase complex	232	5	0	0	1	
+KO	CAAX-protein geranylgeranyltransferase complex	232	43	0	0	1	
+WT	protein farnesyltransferase complex	232	5	0	0	1	
+KO	protein farnesyltransferase complex	232	43	0	0	1	
+WT	condensed chromosome inner kinetochore	232	5	0	0	1	
+KO	condensed chromosome inner kinetochore	232	43	0	0	1	
+WT	ciliary transition fiber	232	5	0	0	1	
+KO	ciliary transition fiber	232	43	0	0	1	
+WT	HOPS complex	232	5	0	0	1	
+KO	HOPS complex	232	43	0	0	1	
+WT	gamma-secretase complex	232	5	0	0	1	
+KO	gamma-secretase complex	232	43	0	0	1	
+WT	TSC1-TSC2 complex	232	5	0	0	1	
+KO	TSC1-TSC2 complex	232	43	0	0	1	
+WT	SAGA complex	232	5	0	0	1	
+KO	SAGA complex	232	43	0	0	1	
+WT	SLIK (SAGA-like) complex	232	5	0	0	1	
+KO	SLIK (SAGA-like) complex	232	43	0	0	1	
+WT	epidermal lamellar body	232	5	0	0	1	
+KO	epidermal lamellar body	232	43	0	0	1	
+WT	DNA-dependent protein kinase-DNA ligase 4 complex	232	5	0	0	1	
+KO	DNA-dependent protein kinase-DNA ligase 4 complex	232	43	0	0	1	
+WT	DNA ligase IV complex	232	5	0	0	1	
+KO	DNA ligase IV complex	232	43	0	0	1	
+WT	intrinsic component of mitochondrial inner membrane	232	5	0	0	1	
+KO	intrinsic component of mitochondrial inner membrane	232	43	0	0	1	
+WT	early endosome lumen	232	5	0	0	1	
+KO	early endosome lumen	232	43	0	0	1	
+WT	recycling endosome lumen	232	5	0	0	1	
+KO	recycling endosome lumen	232	43	0	0	1	
+WT	cyclin-dependent protein kinase activating kinase holoenzyme complex	232	5	0	0	1	
+KO	cyclin-dependent protein kinase activating kinase holoenzyme complex	232	43	0	0	1	
+WT	extrinsic component of lysosome membrane	232	5	0	0	1	
+KO	extrinsic component of lysosome membrane	232	43	0	0	1	
+WT	gamma DNA polymerase complex	232	5	0	0	1	
+KO	gamma DNA polymerase complex	232	43	0	0	1	
+WT	Sec61 translocon complex	232	5	0	0	1	
+KO	Sec61 translocon complex	232	43	0	0	1	
+WT	BRCA2-MAGE-D1 complex	232	5	0	0	1	
+KO	BRCA2-MAGE-D1 complex	232	43	0	0	1	
+WT	SAGA-type complex	232	5	0	0	1	
+KO	SAGA-type complex	232	43	0	0	1	
+WT	caveolar macromolecular signaling complex	232	5	0	0	1	
+KO	caveolar macromolecular signaling complex	232	43	0	0	1	
+WT	ion channel complex	232	5	0	0	1	
+KO	ion channel complex	232	43	0	0	1	
+WT	mitotic spindle astral microtubule	232	5	0	0	1	
+KO	mitotic spindle astral microtubule	232	43	0	0	1	
+WT	rod photoreceptor outer segment	232	5	0	0	1	
+KO	rod photoreceptor outer segment	232	43	0	0	1	
+WT	fibrillar collagen trimer	232	5	0	0	1	
+KO	fibrillar collagen trimer	232	43	0	0	1	
+WT	ciliary plasm	232	5	0	0	1	
+KO	ciliary plasm	232	43	0	0	1	
+WT	striated muscle myosin thick filament	232	5	0	0	1	
+KO	striated muscle myosin thick filament	232	43	0	0	1	
+WT	extrinsic component of postsynaptic specialization membrane	232	5	0	0	1	
+KO	extrinsic component of postsynaptic specialization membrane	232	43	0	0	1	
+WT	RNA cap binding complex	232	5	0	0	1	
+KO	RNA cap binding complex	232	43	0	0	1	
+WT	nuclear pore outer ring	232	5	0	0	1	
+KO	nuclear pore outer ring	232	43	0	0	1	
+WT	pICln-Sm protein complex	232	5	0	0	1	
+KO	pICln-Sm protein complex	232	43	0	0	1	
+WT	shelterin complex	232	5	0	0	1	
+KO	shelterin complex	232	43	0	0	1	
+WT	CatSper complex	232	5	0	0	1	
+KO	CatSper complex	232	43	0	0	1	
+WT	potassium:proton exchanging ATPase complex	232	5	0	0	1	
+KO	potassium:proton exchanging ATPase complex	232	43	0	0	1	
+WT	ectoplasm	232	5	0	0	1	
+KO	ectoplasm	232	43	0	0	1	
+WT	Derlin-1 retrotranslocation complex	232	5	0	0	1	
+KO	Derlin-1 retrotranslocation complex	232	43	0	0	1	
+WT	ATPase complex	232	5	0	0	1	
+KO	ATPase complex	232	43	0	0	1	
+WT	VCP-NSFL1C complex	232	5	0	0	1	
+KO	VCP-NSFL1C complex	232	43	0	0	1	
+WT	SCAR complex	232	5	0	0	1	
+KO	SCAR complex	232	43	0	0	1	
+WT	histone locus body	232	5	0	0	1	
+KO	histone locus body	232	43	0	0	1	
+WT	U4atac snRNP	232	5	0	0	1	
+KO	U4atac snRNP	232	43	0	0	1	
+WT	epsilon DNA polymerase complex	232	5	0	0	1	
+KO	epsilon DNA polymerase complex	232	43	0	0	1	
+WT	extrinsic component of mitochondrial outer membrane	232	5	0	0	1	
+KO	extrinsic component of mitochondrial outer membrane	232	43	0	0	1	
+WT	Golgi-associated vesicle lumen	232	5	0	0	1	
+KO	Golgi-associated vesicle lumen	232	43	0	0	1	
+WT	tRNA methyltransferase complex	232	5	0	0	1	
+KO	tRNA methyltransferase complex	232	43	0	0	1	
+WT	pseudopodium membrane	232	5	0	0	1	
+KO	pseudopodium membrane	232	43	0	0	1	
+WT	perinucleolar compartment	232	5	0	0	1	
+KO	perinucleolar compartment	232	43	0	0	1	
+WT	inflammasome complex	232	5	0	0	1	
+KO	inflammasome complex	232	43	0	0	1	
+WT	Fc-epsilon receptor I complex	232	5	0	0	1	
+KO	Fc-epsilon receptor I complex	232	43	0	0	1	
+WT	microvesicle	232	5	0	0	1	
+KO	microvesicle	232	43	0	0	1	
+WT	eukaryotic translation initiation factor 3 complex, eIF3e	232	5	0	0	1	
+KO	eukaryotic translation initiation factor 3 complex, eIF3e	232	43	0	0	1	
+WT	endoplasmic reticulum Sec complex	232	5	0	0	1	
+KO	endoplasmic reticulum Sec complex	232	43	0	0	1	
+WT	protein phosphatase 4 complex	232	5	0	0	1	
+KO	protein phosphatase 4 complex	232	43	0	0	1	
+WT	dense body	232	5	1	0	1	
+KO	dense body	232	43	1	0	1	
+WT	postsynaptic actin cytoskeleton	232	5	2	0	1	
+KO	postsynaptic actin cytoskeleton	232	43	2	0	1	
+WT	storage vacuole	232	5	0	0	1	
+KO	storage vacuole	232	43	0	0	1	
+WT	Golgi transport complex	232	5	0	0	1	
+KO	Golgi transport complex	232	43	0	0	1	
+WT	endoplasmic reticulum tubular network	232	5	0	0	1	
+KO	endoplasmic reticulum tubular network	232	43	0	0	1	
+WT	UBC13-MMS2 complex	232	5	0	0	1	
+KO	UBC13-MMS2 complex	232	43	0	0	1	
+WT	UBC13-UEV1A complex	232	5	0	0	1	
+KO	UBC13-UEV1A complex	232	43	0	0	1	
+WT	nuclear outer membrane-endoplasmic reticulum membrane network	232	5	0	0	1	
+KO	nuclear outer membrane-endoplasmic reticulum membrane network	232	43	0	0	1	
+WT	podosome core	232	5	0	0	1	
+KO	podosome core	232	43	0	0	1	
+WT	manchette	232	5	0	0	1	
+KO	manchette	232	43	0	0	1	
+WT	oligosaccharyltransferase I complex	232	5	0	0	1	
+KO	oligosaccharyltransferase I complex	232	43	0	0	1	
+WT	presynaptic active zone membrane	232	5	0	0	1	
+KO	presynaptic active zone membrane	232	43	0	0	1	
+WT	proteasome activator complex	232	5	0	0	1	
+KO	proteasome activator complex	232	43	0	0	1	
+WT	Cul4-RING E3 ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul4-RING E3 ubiquitin ligase complex	232	43	0	0	1	
+WT	mitochondrial intermembrane space protein transporter complex	232	5	0	0	1	
+KO	mitochondrial intermembrane space protein transporter complex	232	43	0	0	1	
+WT	small ribosomal subunit	232	5	11	0	1	
+KO	small ribosomal subunit	232	43	11	0	1	
+WT	RNA nuclear export complex	232	5	0	0	1	
+KO	RNA nuclear export complex	232	43	0	0	1	
+WT	VCB complex	232	5	0	0	1	
+KO	VCB complex	232	43	0	0	1	
+WT	cullin-RING ubiquitin ligase complex	232	5	0	0	1	
+KO	cullin-RING ubiquitin ligase complex	232	43	0	0	1	
+WT	Cul2-RING ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul2-RING ubiquitin ligase complex	232	43	0	0	1	
+WT	Cul4B-RING E3 ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul4B-RING E3 ubiquitin ligase complex	232	43	0	0	1	
+WT	Cul7-RING ubiquitin ligase complex	232	5	0	0	1	
+KO	Cul7-RING ubiquitin ligase complex	232	43	0	0	1	
+WT	extrinsic component of organelle membrane	232	5	0	0	1	
+KO	extrinsic component of organelle membrane	232	43	0	0	1	
+WT	cytoplasmic side of membrane	232	5	0	0	1	
+KO	cytoplasmic side of membrane	232	43	0	0	1	
+WT	Grb2-EGFR complex	232	5	0	0	1	
+KO	Grb2-EGFR complex	232	43	0	0	1	
+WT	synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex	232	5	0	0	1	
+KO	synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex	232	43	0	0	1	
+WT	synaptobrevin 2-SNAP-25-syntaxin-1a complex	232	5	0	0	1	
+KO	synaptobrevin 2-SNAP-25-syntaxin-1a complex	232	43	0	0	1	
+WT	eukaryotic 80S initiation complex	232	5	1	0	1	
+KO	eukaryotic 80S initiation complex	232	43	1	0	1	
+WT	transferase complex	232	5	0	0	1	
+KO	transferase complex	232	43	0	0	1	
+WT	sumoylated E2 ligase complex	232	5	0	0	1	
+KO	sumoylated E2 ligase complex	232	43	0	0	1	
+WT	protein kinase CK2 complex	232	5	0	0	1	
+KO	protein kinase CK2 complex	232	43	0	0	1	
+WT	actomyosin, actin portion	232	5	0	0	1	
+KO	actomyosin, actin portion	232	43	0	0	1	
+WT	cytoplasmic side of lysosomal membrane	232	5	0	0	1	
+KO	cytoplasmic side of lysosomal membrane	232	43	0	0	1	
+WT	Noc4p-Nop14p complex	232	5	0	0	1	
+KO	Noc4p-Nop14p complex	232	43	0	0	1	
+WT	dense core granule membrane	232	5	0	0	1	
+KO	dense core granule membrane	232	43	0	0	1	
+WT	alpha9-beta1 integrin-ADAM8 complex	232	5	0	0	1	
+KO	alpha9-beta1 integrin-ADAM8 complex	232	43	0	0	1	
+WT	interleukin-13 receptor complex	232	5	0	0	1	
+KO	interleukin-13 receptor complex	232	43	0	0	1	
+WT	4-aminobutyrate transaminase complex	232	5	0	0	1	
+KO	4-aminobutyrate transaminase complex	232	43	0	0	1	
+WT	lateral cell cortex	232	5	0	0	1	
+KO	lateral cell cortex	232	43	0	0	1	
+WT	heteromeric SMAD protein complex	232	5	0	0	1	
+KO	heteromeric SMAD protein complex	232	43	0	0	1	
+WT	Mon1-Ccz1 complex	232	5	0	0	1	
+KO	Mon1-Ccz1 complex	232	43	0	0	1	
+WT	polycystin complex	232	5	0	0	1	
+KO	polycystin complex	232	43	0	0	1	
+WT	cation channel complex	232	5	0	0	1	
+KO	cation channel complex	232	43	0	0	1	
+WT	cyclin D2-CDK6 complex	232	5	0	0	1	
+KO	cyclin D2-CDK6 complex	232	43	0	0	1	
+WT	protein kinase 5 complex	232	5	0	0	1	
+KO	protein kinase 5 complex	232	43	0	0	1	
+WT	mitotic spindle microtubule	232	5	0	0	1	
+KO	mitotic spindle microtubule	232	43	0	0	1	
+WT	inactive sex chromosome	232	5	0	0	1	
+KO	inactive sex chromosome	232	43	0	0	1	
+WT	interchromatin granule	232	5	0	0	1	
+KO	interchromatin granule	232	43	0	0	1	
+WT	core-binding factor complex	232	5	0	0	1	
+KO	core-binding factor complex	232	43	0	0	1	
+WT	cochlear hair cell ribbon synapse	232	5	0	0	1	
+KO	cochlear hair cell ribbon synapse	232	43	0	0	1	
+WT	guanylate cyclase complex, soluble	232	5	0	0	1	
+KO	guanylate cyclase complex, soluble	232	43	0	0	1	
+WT	centralspindlin complex	232	5	0	0	1	
+KO	centralspindlin complex	232	43	0	0	1	
+WT	anchored component of postsynaptic membrane	232	5	1	0	1	
+KO	anchored component of postsynaptic membrane	232	43	1	0	1	
+WT	matrix side of mitochondrial inner membrane	232	5	0	0	1	
+KO	matrix side of mitochondrial inner membrane	232	43	0	0	1	
+WT	collagen type VII trimer	232	5	0	0	1	
+KO	collagen type VII trimer	232	43	0	0	1	
+WT	inner mucus layer	232	5	0	0	1	
+KO	inner mucus layer	232	43	0	0	1	
+WT	outer mucus layer	232	5	0	0	1	
+KO	outer mucus layer	232	43	0	0	1	
+WT	extrinsic component of Golgi membrane	232	5	0	0	1	
+KO	extrinsic component of Golgi membrane	232	43	0	0	1	
+WT	lumenal side of Golgi membrane	232	5	0	0	1	
+KO	lumenal side of Golgi membrane	232	43	0	0	1	
+WT	H zone	232	5	1	0	1	
+KO	H zone	232	43	1	1	0.185344827586207	DST
+WT	TAP complex	232	5	0	0	1	
+KO	TAP complex	232	43	0	0	1	
+WT	NF-kappaB p50/p65 complex	232	5	0	0	1	
+KO	NF-kappaB p50/p65 complex	232	43	0	0	1	
+WT	collagen type XIV trimer	232	5	0	0	1	
+KO	collagen type XIV trimer	232	43	0	0	1	
+WT	collagen type XVI trimer	232	5	0	0	1	
+KO	collagen type XVI trimer	232	43	0	0	1	
+WT	Grb2-Sos complex	232	5	0	0	1	
+KO	Grb2-Sos complex	232	43	0	0	1	
+WT	BAX complex	232	5	0	0	1	
+KO	BAX complex	232	43	0	0	1	
+WT	BAK complex	232	5	0	0	1	
+KO	BAK complex	232	43	0	0	1	
+WT	interleukin-28 receptor complex	232	5	0	0	1	
+KO	interleukin-28 receptor complex	232	43	0	0	1	
+WT	Golgi cis cisterna	232	5	0	0	1	
+KO	Golgi cis cisterna	232	43	0	0	1	
+WT	CAF-1 complex	232	5	0	0	1	
+KO	CAF-1 complex	232	43	0	0	1	
+WT	extrinsic component of neuronal dense core vesicle membrane	232	5	0	0	1	
+KO	extrinsic component of neuronal dense core vesicle membrane	232	43	0	0	1	
+WT	transcription factor TFIIIC complex	232	5	0	0	1	
+KO	transcription factor TFIIIC complex	232	43	0	0	1	
+WT	lateral loop	232	5	0	0	1	
+KO	lateral loop	232	43	0	0	1	
+WT	rhabdomere	232	5	0	0	1	
+KO	rhabdomere	232	43	0	0	1	
+WT	peptidase complex	232	5	0	0	1	
+KO	peptidase complex	232	43	0	0	1	
+WT	perivitelline space	232	5	0	0	1	
+KO	perivitelline space	232	43	0	0	1	
+WT	MPP7-DLG1-LIN7 complex	232	5	0	0	1	
+KO	MPP7-DLG1-LIN7 complex	232	43	0	0	1	
+WT	TCR signalosome	232	5	0	0	1	
+KO	TCR signalosome	232	43	0	0	1	
+WT	G protein-coupled receptor dimeric complex	232	5	0	0	1	
+KO	G protein-coupled receptor dimeric complex	232	43	0	0	1	
+WT	G protein-coupled receptor homodimeric complex	232	5	0	0	1	
+KO	G protein-coupled receptor homodimeric complex	232	43	0	0	1	
+WT	pinceau fiber	232	5	0	0	1	
+KO	pinceau fiber	232	43	0	0	1	
+WT	myosin VII complex	232	5	0	0	1	
+KO	myosin VII complex	232	43	0	0	1	
+WT	upper tip-link density	232	5	0	0	1	
+KO	upper tip-link density	232	43	0	0	1	
+WT	ubiquitin conjugating enzyme complex	232	5	0	0	1	
+KO	ubiquitin conjugating enzyme complex	232	43	0	0	1	
+WT	Hrd1p ubiquitin ligase complex	232	5	0	0	1	
+KO	Hrd1p ubiquitin ligase complex	232	43	0	0	1	
+WT	amyloid-beta complex	232	5	0	0	1	
+KO	amyloid-beta complex	232	43	0	0	1	
+WT	vacuolar proton-transporting V-type ATPase, V0 domain	232	5	0	0	1	
+KO	vacuolar proton-transporting V-type ATPase, V0 domain	232	43	0	0	1	
+WT	amphisome	232	5	0	0	1	
+KO	amphisome	232	43	0	0	1	
+WT	calcium- and calmodulin-dependent protein kinase complex	232	5	1	0	1	
+KO	calcium- and calmodulin-dependent protein kinase complex	232	43	1	0	1	
+WT	integral component of cytoplasmic side of endoplasmic reticulum membrane	232	5	0	0	1	
+KO	integral component of cytoplasmic side of endoplasmic reticulum membrane	232	43	0	0	1	
+WT	photoreceptor cell cilium	232	5	0	0	1	
+KO	photoreceptor cell cilium	232	43	0	0	1	
+WT	early phagosome membrane	232	5	0	0	1	
+KO	early phagosome membrane	232	43	0	0	1	
+WT	laminin-5 complex	232	5	0	0	1	
+KO	laminin-5 complex	232	43	0	0	1	
+WT	THO complex	232	5	0	0	1	
+KO	THO complex	232	43	0	0	1	
+WT	THO complex part of transcription export complex	232	5	0	0	1	
+KO	THO complex part of transcription export complex	232	43	0	0	1	
+WT	integrin alpha9-beta1 complex	232	5	0	0	1	
+KO	integrin alpha9-beta1 complex	232	43	0	0	1	
+WT	U6 snRNP	232	5	0	0	1	
+KO	U6 snRNP	232	43	0	0	1	
+WT	core TFIIH complex portion of holo TFIIH complex	232	5	0	0	1	
+KO	core TFIIH complex portion of holo TFIIH complex	232	43	0	0	1	
+WT	nuclear cyclin-dependent protein kinase holoenzyme complex	232	5	0	0	1	
+KO	nuclear cyclin-dependent protein kinase holoenzyme complex	232	43	0	0	1	
+WT	intracellular cyclic nucleotide activated cation channel complex	232	5	0	0	1	
+KO	intracellular cyclic nucleotide activated cation channel complex	232	43	0	0	1	
+WT	transmembrane transporter complex	232	5	0	0	1	
+KO	transmembrane transporter complex	232	43	0	0	1	
+WT	dystroglycan complex	232	5	0	0	1	
+KO	dystroglycan complex	232	43	0	0	1	
+WT	septin collar	232	5	0	0	1	
+KO	septin collar	232	43	0	0	1	
+WT	anchored component of presynaptic active zone membrane	232	5	0	0	1	
+KO	anchored component of presynaptic active zone membrane	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex, class III	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex, class III	232	43	0	0	1	
+WT	EKC/KEOPS complex	232	5	0	0	1	
+KO	EKC/KEOPS complex	232	43	0	0	1	
+WT	meiotic cohesin complex	232	5	0	0	1	
+KO	meiotic cohesin complex	232	43	0	0	1	
+WT	NatC complex	232	5	0	0	1	
+KO	NatC complex	232	43	0	0	1	
+WT	C zone	232	5	0	0	1	
+KO	C zone	232	43	0	0	1	
+WT	cortical microtubule	232	5	0	0	1	
+KO	cortical microtubule	232	43	0	0	1	
+WT	cytoplasmic microtubule bundle	232	5	0	0	1	
+KO	cytoplasmic microtubule bundle	232	43	0	0	1	
+WT	DUBm complex	232	5	0	0	1	
+KO	DUBm complex	232	43	0	0	1	
+WT	RNA N6-methyladenosine methyltransferase complex	232	5	0	0	1	
+KO	RNA N6-methyladenosine methyltransferase complex	232	43	0	0	1	
+WT	U4atac/U6atac snRNP	232	5	0	0	1	
+KO	U4atac/U6atac snRNP	232	43	0	0	1	
+WT	U6atac snRNP	232	5	0	0	1	
+KO	U6atac snRNP	232	43	0	0	1	
+WT	serine-pyruvate aminotransferase complex	232	5	0	0	1	
+KO	serine-pyruvate aminotransferase complex	232	43	0	0	1	
+WT	spot adherens junction	232	5	0	0	1	
+KO	spot adherens junction	232	43	0	0	1	
+WT	transverse filament	232	5	0	0	1	
+KO	transverse filament	232	43	0	0	1	
+WT	U2-type spliceosomal complex	232	5	1	0	1	
+KO	U2-type spliceosomal complex	232	43	1	0	1	
+WT	Ski complex	232	5	0	0	1	
+KO	Ski complex	232	43	0	0	1	
+WT	activating signal cointegrator 1 complex	232	5	0	0	1	
+KO	activating signal cointegrator 1 complex	232	43	0	0	1	
+WT	cortical microtubule cytoskeleton	232	5	0	0	1	
+KO	cortical microtubule cytoskeleton	232	43	0	0	1	
+WT	mitotic spindle astral microtubule end	232	5	0	0	1	
+KO	mitotic spindle astral microtubule end	232	43	0	0	1	
+WT	presynaptic endocytic zone	232	5	0	0	1	
+KO	presynaptic endocytic zone	232	43	0	0	1	
+WT	cerebellar Golgi cell to granule cell synapse	232	5	0	0	1	
+KO	cerebellar Golgi cell to granule cell synapse	232	43	0	0	1	
+WT	sarcoglycan complex	232	5	0	0	1	
+KO	sarcoglycan complex	232	43	0	0	1	
+WT	L-cysteine desulfurase complex	232	5	0	0	1	
+KO	L-cysteine desulfurase complex	232	43	0	0	1	
+WT	septin cytoskeleton	232	5	0	0	1	
+KO	septin cytoskeleton	232	43	0	0	1	
+WT	meprin A complex	232	5	0	0	1	
+KO	meprin A complex	232	43	0	0	1	
+WT	MICOS complex	232	5	0	0	1	
+KO	MICOS complex	232	43	0	0	1	
+WT	Shu complex	232	5	0	0	1	
+KO	Shu complex	232	43	0	0	1	
+WT	KICSTOR complex	232	5	0	0	1	
+KO	KICSTOR complex	232	43	0	0	1	
+WT	Swi5-Sfr1 complex	232	5	0	0	1	
+KO	Swi5-Sfr1 complex	232	43	0	0	1	
+WT	CST complex	232	5	0	0	1	
+KO	CST complex	232	43	0	0	1	
+WT	COPI-coated Golgi to ER transport vesicle	232	5	0	0	1	
+KO	COPI-coated Golgi to ER transport vesicle	232	43	0	0	1	
+WT	RIC1-RGP1 guanyl-nucleotide exchange factor complex	232	5	0	0	1	
+KO	RIC1-RGP1 guanyl-nucleotide exchange factor complex	232	43	0	0	1	
+WT	axonemal central pair projection	232	5	0	0	1	
+KO	axonemal central pair projection	232	43	0	0	1	
+WT	outer dynein arm	232	5	0	0	1	
+KO	outer dynein arm	232	43	0	0	1	
+WT	PAN complex	232	5	0	0	1	
+KO	PAN complex	232	43	0	0	1	
+WT	DRM complex	232	5	0	0	1	
+KO	DRM complex	232	43	0	0	1	
+WT	tRNA-splicing ligase complex	232	5	0	0	1	
+KO	tRNA-splicing ligase complex	232	43	0	0	1	
+WT	TIM22 mitochondrial import inner membrane insertion complex	232	5	0	0	1	
+KO	TIM22 mitochondrial import inner membrane insertion complex	232	43	0	0	1	
+WT	GARP complex	232	5	0	0	1	
+KO	GARP complex	232	43	0	0	1	
+WT	EARP complex	232	5	0	0	1	
+KO	EARP complex	232	43	0	0	1	
+WT	RNA polymerase I core factor complex	232	5	0	0	1	
+KO	RNA polymerase I core factor complex	232	43	0	0	1	
+WT	mitotic cohesin complex	232	5	0	0	1	
+KO	mitotic cohesin complex	232	43	0	0	1	
+WT	PET complex	232	5	0	0	1	
+KO	PET complex	232	43	0	0	1	
+WT	DBIRD complex	232	5	0	0	1	
+KO	DBIRD complex	232	43	0	0	1	
+WT	cytoplasmic side of mitochondrial outer membrane	232	5	0	0	1	
+KO	cytoplasmic side of mitochondrial outer membrane	232	43	0	0	1	
+WT	caveola neck	232	5	0	0	1	
+KO	caveola neck	232	43	0	0	1	
+WT	snRNA-activating protein complex	232	5	0	0	1	
+KO	snRNA-activating protein complex	232	43	0	0	1	
+WT	P granule	232	5	0	0	1	
+KO	P granule	232	43	0	0	1	
+WT	collagen type XIII trimer	232	5	0	0	1	
+KO	collagen type XIII trimer	232	43	0	0	1	
+WT	axonemal microtubule	232	5	0	0	1	
+KO	axonemal microtubule	232	43	0	0	1	
+WT	radial spoke	232	5	0	0	1	
+KO	radial spoke	232	43	0	0	1	
+WT	radial spoke head	232	5	0	0	1	
+KO	radial spoke head	232	43	0	0	1	
+WT	anchored component of postsynaptic density membrane	232	5	0	0	1	
+KO	anchored component of postsynaptic density membrane	232	43	0	0	1	
+WT	anchored component of postsynaptic recycling endosome membrane	232	5	0	0	1	
+KO	anchored component of postsynaptic recycling endosome membrane	232	43	0	0	1	
+WT	parallel fiber	232	5	0	0	1	
+KO	parallel fiber	232	43	0	0	1	
+WT	mitochondrial crista junction	232	5	0	0	1	
+KO	mitochondrial crista junction	232	43	0	0	1	
+WT	MSL complex	232	5	0	0	1	
+KO	MSL complex	232	43	0	0	1	
+WT	SOSS complex	232	5	0	0	1	
+KO	SOSS complex	232	43	0	0	1	
+WT	female germ cell nucleus	232	5	0	0	1	
+KO	female germ cell nucleus	232	43	0	0	1	
+WT	endoplasmic reticulum tubular network membrane	232	5	0	0	1	
+KO	endoplasmic reticulum tubular network membrane	232	43	0	0	1	
+WT	SUMO ligase complex	232	5	0	0	1	
+KO	SUMO ligase complex	232	43	0	0	1	
+WT	cortical granule	232	5	0	0	1	
+KO	cortical granule	232	43	0	0	1	
+WT	perinuclear theca	232	5	0	0	1	
+KO	perinuclear theca	232	43	0	0	1	
+WT	SMC loading complex	232	5	0	0	1	
+KO	SMC loading complex	232	43	0	0	1	
+WT	Scc2-Scc4 cohesin loading complex	232	5	0	0	1	
+KO	Scc2-Scc4 cohesin loading complex	232	43	0	0	1	
+WT	protein serine/threonine phosphatase complex	232	5	0	0	1	
+KO	protein serine/threonine phosphatase complex	232	43	0	0	1	
+WT	UDP-N-acetylglucosamine transferase complex	232	5	0	0	1	
+KO	UDP-N-acetylglucosamine transferase complex	232	43	0	0	1	
+WT	MIS12/MIND type complex	232	5	0	0	1	
+KO	MIS12/MIND type complex	232	43	0	0	1	
+WT	apical cytoplasm	232	5	0	0	1	
+KO	apical cytoplasm	232	43	0	0	1	
+WT	nuclear RNA-directed RNA polymerase complex	232	5	0	0	1	
+KO	nuclear RNA-directed RNA polymerase complex	232	43	0	0	1	
+WT	uropod membrane	232	5	0	0	1	
+KO	uropod membrane	232	43	0	0	1	
+WT	BCOR complex	232	5	0	0	1	
+KO	BCOR complex	232	43	0	0	1	
+WT	neuron projection membrane	232	5	0	0	1	
+KO	neuron projection membrane	232	43	0	0	1	
+WT	FACT complex	232	5	0	0	1	
+KO	FACT complex	232	43	0	0	1	
+WT	peripheral region of growth cone	232	5	0	0	1	
+KO	peripheral region of growth cone	232	43	0	0	1	
+WT	sweet taste receptor complex	232	5	0	0	1	
+KO	sweet taste receptor complex	232	43	0	0	1	
+WT	intracellular organelle	232	5	0	0	1	
+KO	intracellular organelle	232	43	0	0	1	
+WT	cone photoreceptor outer segment	232	5	0	0	1	
+KO	cone photoreceptor outer segment	232	43	0	0	1	
+WT	piP-body	232	5	0	0	1	
+KO	piP-body	232	43	0	0	1	
+WT	centrosomal corona	232	5	0	0	1	
+KO	centrosomal corona	232	43	0	0	1	
+WT	intraciliary transport particle A	232	5	0	0	1	
+KO	intraciliary transport particle A	232	43	0	0	1	
+WT	radial spoke stalk	232	5	0	0	1	
+KO	radial spoke stalk	232	43	0	0	1	
+WT	palmitoyltransferase complex	232	5	0	0	1	
+KO	palmitoyltransferase complex	232	43	0	0	1	
+WT	intrinsic component of Golgi membrane	232	5	0	0	1	
+KO	intrinsic component of Golgi membrane	232	43	0	0	1	
+WT	cytoplasmic chromatin	232	5	0	0	1	
+KO	cytoplasmic chromatin	232	43	0	0	1	
+WT	ciliary inversin compartment	232	5	0	0	1	
+KO	ciliary inversin compartment	232	43	0	0	1	
+WT	dehydrodolichyl diphosphate synthase complex	232	5	0	0	1	
+KO	dehydrodolichyl diphosphate synthase complex	232	43	0	0	1	
+WT	Hrd1p ubiquitin ligase ERAD-L complex	232	5	0	0	1	
+KO	Hrd1p ubiquitin ligase ERAD-L complex	232	43	0	0	1	
+WT	ESCRT II complex	232	5	0	0	1	
+KO	ESCRT II complex	232	43	0	0	1	
+WT	FHF complex	232	5	0	0	1	
+KO	FHF complex	232	43	0	0	1	
+WT	pericellular basket	232	5	0	0	1	
+KO	pericellular basket	232	43	0	0	1	
+WT	integral component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	232	5	0	0	1	
+KO	integral component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	232	43	0	0	1	
+WT	leading edge of lamellipodium	232	5	0	0	1	
+KO	leading edge of lamellipodium	232	43	0	0	1	
+WT	BLOC-2 complex	232	5	0	0	1	
+KO	BLOC-2 complex	232	43	0	0	1	
+WT	apolipoprotein B mRNA editing enzyme complex	232	5	0	0	1	
+KO	apolipoprotein B mRNA editing enzyme complex	232	43	0	0	1	
+WT	Cry-Per complex	232	5	0	0	1	
+KO	Cry-Per complex	232	43	0	0	1	
+WT	outer mitochondrial membrane protein complex	232	5	0	0	1	
+KO	outer mitochondrial membrane protein complex	232	43	0	0	1	
+WT	PR-DUB complex	232	5	0	0	1	
+KO	PR-DUB complex	232	43	0	0	1	
+WT	axonemal dynein complex	232	5	0	0	1	
+KO	axonemal dynein complex	232	43	0	0	1	
+WT	cellularization cleavage furrow	232	5	0	0	1	
+KO	cellularization cleavage furrow	232	43	0	0	1	
+WT	sex chromosome	232	5	0	0	1	
+KO	sex chromosome	232	43	0	0	1	
+WT	Smc5-Smc6 complex	232	5	0	0	1	
+KO	Smc5-Smc6 complex	232	43	0	0	1	
+WT	dendrite terminus	232	5	0	0	1	
+KO	dendrite terminus	232	43	0	0	1	
+WT	kinociliary basal body	232	5	0	0	1	
+KO	kinociliary basal body	232	43	0	0	1	
+WT	Slx1-Slx4 complex	232	5	0	0	1	
+KO	Slx1-Slx4 complex	232	43	0	0	1	
+WT	mitochondrial degradosome	232	5	0	0	1	
+KO	mitochondrial degradosome	232	43	0	0	1	
+WT	A axonemal microtubule	232	5	0	0	1	
+KO	A axonemal microtubule	232	43	0	0	1	
+WT	uniplex complex	232	5	0	0	1	
+KO	uniplex complex	232	43	0	0	1	
+WT	Atg12-Atg5-Atg16 complex	232	5	0	0	1	
+KO	Atg12-Atg5-Atg16 complex	232	43	0	0	1	
+WT	symmetric, GABA-ergic, inhibitory synapse	232	5	0	0	1	
+KO	symmetric, GABA-ergic, inhibitory synapse	232	43	0	0	1	
+WT	integral component of nuclear outer membrane	232	5	0	0	1	
+KO	integral component of nuclear outer membrane	232	43	0	0	1	
+WT	prominosome	232	5	0	0	1	
+KO	prominosome	232	43	0	0	1	
+WT	sperm cytoplasmic droplet	232	5	0	0	1	
+KO	sperm cytoplasmic droplet	232	43	0	0	1	
+WT	oxidoreductase complex	232	5	0	0	1	
+KO	oxidoreductase complex	232	43	0	0	1	
+WT	intrinsic component of organelle membrane	232	5	0	0	1	
+KO	intrinsic component of organelle membrane	232	43	0	0	1	
+WT	meiotic spindle pole	232	5	0	0	1	
+KO	meiotic spindle pole	232	43	0	0	1	
+WT	nuclear telomeric heterochromatin	232	5	0	0	1	
+KO	nuclear telomeric heterochromatin	232	43	0	0	1	
+WT	pi-body	232	5	0	0	1	
+KO	pi-body	232	43	0	0	1	
+WT	precatalytic spliceosome	232	5	0	0	1	
+KO	precatalytic spliceosome	232	43	0	0	1	
+WT	UFD1-NPL4 complex	232	5	0	0	1	
+KO	UFD1-NPL4 complex	232	43	0	0	1	
+WT	perinucleolar chromocenter	232	5	0	0	1	
+KO	perinucleolar chromocenter	232	43	0	0	1	
+WT	intraciliary transport particle	232	5	0	0	1	
+KO	intraciliary transport particle	232	43	0	0	1	
+WT	hippocampal mossy fiber expansion	232	5	0	0	1	
+KO	hippocampal mossy fiber expansion	232	43	0	0	1	
+WT	SMN-Gemin2 complex	232	5	0	0	1	
+KO	SMN-Gemin2 complex	232	43	0	0	1	
+WT	CORVET complex	232	5	0	0	1	
+KO	CORVET complex	232	43	0	0	1	
+WT	interphase microtubule organizing center	232	5	0	0	1	
+KO	interphase microtubule organizing center	232	43	0	0	1	
+WT	organelle inner membrane	232	5	0	0	1	
+KO	organelle inner membrane	232	43	0	0	1	
+WT	inner dynein arm	232	5	0	0	1	
+KO	inner dynein arm	232	43	0	0	1	
+WT	microprocessor complex	232	5	0	0	1	
+KO	microprocessor complex	232	43	0	0	1	
+WT	BLOC-3 complex	232	5	0	0	1	
+KO	BLOC-3 complex	232	43	0	0	1	
+WT	tRNA-intron endonuclease complex	232	5	0	0	1	
+KO	tRNA-intron endonuclease complex	232	43	0	0	1	
+WT	Swr1 complex	232	5	0	0	1	
+KO	Swr1 complex	232	43	0	0	1	
+WT	Piccolo NuA4 histone acetyltransferase complex	232	5	0	0	1	
+KO	Piccolo NuA4 histone acetyltransferase complex	232	43	0	0	1	
+WT	transcription factor TFIIIB complex	232	5	0	0	1	
+KO	transcription factor TFIIIB complex	232	43	0	0	1	
+WT	t-UTP complex	232	5	0	0	1	
+KO	t-UTP complex	232	43	0	0	1	
+WT	granular vesicle	232	5	0	0	1	
+KO	granular vesicle	232	43	0	0	1	
+WT	super elongation complex	232	5	0	0	1	
+KO	super elongation complex	232	43	0	0	1	
+WT	9+0 motile cilium	232	5	0	0	1	
+KO	9+0 motile cilium	232	43	0	0	1	
+WT	proximal portion of axoneme	232	5	0	0	1	
+KO	proximal portion of axoneme	232	43	0	0	1	
+WT	LUBAC complex	232	5	1	0	1	
+KO	LUBAC complex	232	43	1	1	0.185344827586207	RNF31
+WT	mitochondrial ATP-gated potassium channel complex	232	5	0	0	1	
+KO	mitochondrial ATP-gated potassium channel complex	232	43	0	0	1	
+WT	myosin V complex	232	5	1	0	1	
+KO	myosin V complex	232	43	1	0	1	
+WT	host cell viral assembly compartment	232	5	0	0	1	
+KO	host cell viral assembly compartment	232	43	0	0	1	
+WT	preribosome	232	5	0	0	1	
+KO	preribosome	232	43	0	0	1	
+WT	Mpp10 complex	232	5	0	0	1	
+KO	Mpp10 complex	232	43	0	0	1	
+WT	intrinsic component of peroxisomal membrane	232	5	0	0	1	
+KO	intrinsic component of peroxisomal membrane	232	43	0	0	1	
+WT	rod spherule	232	5	0	0	1	
+KO	rod spherule	232	43	0	0	1	
+WT	succinate-CoA ligase complex (GDP-forming)	232	5	0	0	1	
+KO	succinate-CoA ligase complex (GDP-forming)	232	43	0	0	1	
+WT	acrosomal lumen	232	5	0	0	1	
+KO	acrosomal lumen	232	43	0	0	1	
+WT	coated vesicle membrane	232	5	0	0	1	
+KO	coated vesicle membrane	232	43	0	0	1	
+WT	integrin alphaIIb-beta3 complex	232	5	0	0	1	
+KO	integrin alphaIIb-beta3 complex	232	43	0	0	1	
+WT	3-methylcrotonyl-CoA carboxylase complex, mitochondrial	232	5	0	0	1	
+KO	3-methylcrotonyl-CoA carboxylase complex, mitochondrial	232	43	0	0	1	
+WT	methylcrotonoyl-CoA carboxylase complex	232	5	0	0	1	
+KO	methylcrotonoyl-CoA carboxylase complex	232	43	0	0	1	
+WT	cytoplasmic side of dendritic spine plasma membrane	232	5	1	0	1	
+KO	cytoplasmic side of dendritic spine plasma membrane	232	43	1	0	1	
+WT	mitochondrial inner membrane peptidase complex	232	5	0	0	1	
+KO	mitochondrial inner membrane peptidase complex	232	43	0	0	1	
+WT	respiratory chain complex II	232	5	0	0	1	
+KO	respiratory chain complex II	232	43	0	0	1	
+WT	collagen type XII trimer	232	5	0	0	1	
+KO	collagen type XII trimer	232	43	0	0	1	
+WT	cytoplasmic side of late endosome membrane	232	5	0	0	1	
+KO	cytoplasmic side of late endosome membrane	232	43	0	0	1	
+WT	lamellar body membrane	232	5	0	0	1	
+KO	lamellar body membrane	232	43	0	0	1	
+WT	alveolar lamellar body membrane	232	5	0	0	1	
+KO	alveolar lamellar body membrane	232	43	0	0	1	
+WT	Derlin-1-VIMP complex	232	5	0	0	1	
+KO	Derlin-1-VIMP complex	232	43	0	0	1	
+WT	NLS-dependent protein nuclear import complex	232	5	0	0	1	
+KO	NLS-dependent protein nuclear import complex	232	43	0	0	1	
+WT	RES complex	232	5	0	0	1	
+KO	RES complex	232	43	0	0	1	
+WT	methyltransferase complex	232	5	0	0	1	
+KO	methyltransferase complex	232	43	0	0	1	
+WT	growing cell tip	232	5	0	0	1	
+KO	growing cell tip	232	43	0	0	1	
+WT	host cell presynaptic membrane	232	5	0	0	1	
+KO	host cell presynaptic membrane	232	43	0	0	1	
+WT	mucin granule	232	5	0	0	1	
+KO	mucin granule	232	43	0	0	1	
+WT	integral component of omegasome membrane	232	5	0	0	1	
+KO	integral component of omegasome membrane	232	43	0	0	1	
+WT	katanin complex	232	5	0	0	1	
+KO	katanin complex	232	43	0	0	1	
+WT	omegasome	232	5	0	0	1	
+KO	omegasome	232	43	0	0	1	
+WT	nuclear RNA export factor complex	232	5	0	0	1	
+KO	nuclear RNA export factor complex	232	43	0	0	1	
+WT	kinesin I complex	232	5	0	0	1	
+KO	kinesin I complex	232	43	0	0	1	
+WT	cone cell pedicle	232	5	0	0	1	
+KO	cone cell pedicle	232	43	0	0	1	
+WT	RNA polymerase transcription factor SL1 complex	232	5	0	0	1	
+KO	RNA polymerase transcription factor SL1 complex	232	43	0	0	1	
+WT	R2TP complex	232	5	0	0	1	
+KO	R2TP complex	232	43	0	0	1	
+WT	gamma-tubulin small complex	232	5	0	0	1	
+KO	gamma-tubulin small complex	232	43	0	0	1	
+WT	platelet dense granule	232	5	0	0	1	
+KO	platelet dense granule	232	43	0	0	1	
+WT	anchored component of the cytoplasmic side of the plasma membrane	232	5	0	0	1	
+KO	anchored component of the cytoplasmic side of the plasma membrane	232	43	0	0	1	
+WT	endolysosome	232	5	0	0	1	
+KO	endolysosome	232	43	0	0	1	
+WT	nucleolus organizer region	232	5	0	0	1	
+KO	nucleolus organizer region	232	43	0	0	1	
+WT	CHRAC	232	5	0	0	1	
+KO	CHRAC	232	43	0	0	1	
+WT	ACF complex	232	5	0	0	1	
+KO	ACF complex	232	43	0	0	1	
+WT	nuclear proteasome complex	232	5	0	0	1	
+KO	nuclear proteasome complex	232	43	0	0	1	
+WT	phenylalanine-tRNA ligase complex	232	5	0	0	1	
+KO	phenylalanine-tRNA ligase complex	232	43	0	0	1	
+WT	cytoplasmic ubiquitin ligase complex	232	5	0	0	1	
+KO	cytoplasmic ubiquitin ligase complex	232	43	0	0	1	
+WT	postsynaptic specialization of symmetric synapse	232	5	0	0	1	
+KO	postsynaptic specialization of symmetric synapse	232	43	0	0	1	
+WT	clathrin vesicle coat	232	5	0	0	1	
+KO	clathrin vesicle coat	232	43	0	0	1	
+WT	MCM8-MCM9 complex	232	5	0	0	1	
+KO	MCM8-MCM9 complex	232	43	0	0	1	
+WT	distal portion of axoneme	232	5	0	0	1	
+KO	distal portion of axoneme	232	43	0	0	1	
+WT	chromosome, centromeric core domain	232	5	0	0	1	
+KO	chromosome, centromeric core domain	232	43	0	0	1	
+WT	mannosyltransferase complex	232	5	0	0	1	
+KO	mannosyltransferase complex	232	43	0	0	1	
+WT	SUMO activating enzyme complex	232	5	0	0	1	
+KO	SUMO activating enzyme complex	232	43	0	0	1	
+WT	subsarcolemmal mitochondrion	232	5	0	0	1	
+KO	subsarcolemmal mitochondrion	232	43	0	0	1	
+WT	interfibrillar mitochondrion	232	5	0	0	1	
+KO	interfibrillar mitochondrion	232	43	0	0	1	
+WT	chiasma	232	5	0	0	1	
+KO	chiasma	232	43	0	0	1	
+WT	vacuolar proton-transporting V-type ATPase, V1 domain	232	5	0	0	1	
+KO	vacuolar proton-transporting V-type ATPase, V1 domain	232	43	0	0	1	
+WT	autophagosome lumen	232	5	0	0	1	
+KO	autophagosome lumen	232	43	0	0	1	
+WT	host cell PML body	232	5	0	0	1	
+KO	host cell PML body	232	43	0	0	1	
+WT	basal ectoplasmic specialization	232	5	0	0	1	
+KO	basal ectoplasmic specialization	232	43	0	0	1	
+WT	neuronal dense core vesicle membrane	232	5	0	0	1	
+KO	neuronal dense core vesicle membrane	232	43	0	0	1	
+WT	vesicle tethering complex	232	5	0	0	1	
+KO	vesicle tethering complex	232	43	0	0	1	
+WT	cytoskeleton of presynaptic active zone	232	5	0	0	1	
+KO	cytoskeleton of presynaptic active zone	232	43	0	0	1	
+WT	ARC complex	232	5	0	0	1	
+KO	ARC complex	232	43	0	0	1	
+WT	apical tubulobulbar complex	232	5	0	0	1	
+KO	apical tubulobulbar complex	232	43	0	0	1	
+WT	basal tubulobulbar complex	232	5	0	0	1	
+KO	basal tubulobulbar complex	232	43	0	0	1	
+WT	m-AAA complex	232	5	0	0	1	
+KO	m-AAA complex	232	43	0	0	1	
+WT	neuron projection branch point	232	5	0	0	1	
+KO	neuron projection branch point	232	43	0	0	1	
+WT	dendritic spine cytoplasm	232	5	0	0	1	
+KO	dendritic spine cytoplasm	232	43	0	0	1	
+WT	dentate gyrus mossy fiber	232	5	0	0	1	
+KO	dentate gyrus mossy fiber	232	43	0	0	1	
+WT	integral component of autophagosome membrane	232	5	0	0	1	
+KO	integral component of autophagosome membrane	232	43	0	0	1	
+WT	postsynaptic specialization	232	5	0	0	1	
+KO	postsynaptic specialization	232	43	0	0	1	
+WT	Golgi cis cisterna membrane	232	5	0	0	1	
+KO	Golgi cis cisterna membrane	232	43	0	0	1	
+WT	serine/threonine protein kinase complex	232	5	0	0	1	
+KO	serine/threonine protein kinase complex	232	43	0	0	1	
+WT	PAM complex, Tim23 associated import motor	232	5	0	0	1	
+KO	PAM complex, Tim23 associated import motor	232	43	0	0	1	
+WT	glial cytoplasmic inclusion	232	5	0	0	1	
+KO	glial cytoplasmic inclusion	232	43	0	0	1	
+WT	classical Lewy body	232	5	0	0	1	
+KO	classical Lewy body	232	43	0	0	1	
+WT	Lewy neurite	232	5	0	0	1	
+KO	Lewy neurite	232	43	0	0	1	
+WT	Lewy body corona	232	5	0	0	1	
+KO	Lewy body corona	232	43	0	0	1	
+WT	Las1 complex	232	5	0	0	1	
+KO	Las1 complex	232	43	0	0	1	
+WT	proton-transporting V-type ATPase complex	232	5	0	0	1	
+KO	proton-transporting V-type ATPase complex	232	43	0	0	1	
+WT	macropinocytic cup	232	5	0	0	1	
+KO	macropinocytic cup	232	43	0	0	1	
+WT	signal peptidase complex	232	5	0	0	1	
+KO	signal peptidase complex	232	43	0	0	1	
+WT	integrin alpha4-beta1 complex	232	5	0	0	1	
+KO	integrin alpha4-beta1 complex	232	43	0	0	1	
+WT	EMILIN complex	232	5	0	0	1	
+KO	EMILIN complex	232	43	0	0	1	
+WT	immunoglobulin complex, circulating	232	5	0	0	1	
+KO	immunoglobulin complex, circulating	232	43	0	0	1	
+WT	extrinsic component of presynaptic endocytic zone membrane	232	5	0	0	1	
+KO	extrinsic component of presynaptic endocytic zone membrane	232	43	0	0	1	
+WT	tRNA (m1A) methyltransferase complex	232	5	0	0	1	
+KO	tRNA (m1A) methyltransferase complex	232	43	0	0	1	
+WT	cell division site	232	5	0	0	1	
+KO	cell division site	232	43	0	0	1	
+WT	G-protein beta/gamma-subunit complex	232	5	0	0	1	
+KO	G-protein beta/gamma-subunit complex	232	43	0	0	1	
+WT	actin cortical patch	232	5	2	0	1	
+KO	actin cortical patch	232	43	2	0	1	
+WT	CCR4-NOT core complex	232	5	0	0	1	
+KO	CCR4-NOT core complex	232	43	0	0	1	
+WT	spliceosomal tri-snRNP complex	232	5	0	0	1	
+KO	spliceosomal tri-snRNP complex	232	43	0	0	1	
+WT	kainate selective glutamate receptor complex	232	5	0	0	1	
+KO	kainate selective glutamate receptor complex	232	43	0	0	1	
+WT	HIR complex	232	5	0	0	1	
+KO	HIR complex	232	43	0	0	1	
+WT	U2-type post-spliceosomal complex	232	5	0	0	1	
+KO	U2-type post-spliceosomal complex	232	43	0	0	1	
+WT	RNA polymerase I complex	232	5	0	0	1	
+KO	RNA polymerase I complex	232	43	0	0	1	
+WT	nuclear pore central transport channel	232	5	0	0	1	
+KO	nuclear pore central transport channel	232	43	0	0	1	
+WT	eRF1 methyltransferase complex	232	5	0	0	1	
+KO	eRF1 methyltransferase complex	232	43	0	0	1	
+WT	Gtr1-Gtr2 GTPase complex	232	5	0	0	1	
+KO	Gtr1-Gtr2 GTPase complex	232	43	0	0	1	
+WT	plasma membrane signaling receptor complex	232	5	0	0	1	
+KO	plasma membrane signaling receptor complex	232	43	0	0	1	
+WT	translation release factor complex	232	5	0	0	1	
+KO	translation release factor complex	232	43	0	0	1	
+WT	core mediator complex	232	5	0	0	1	
+KO	core mediator complex	232	43	0	0	1	
+WT	MutLalpha complex	232	5	0	0	1	
+KO	MutLalpha complex	232	43	0	0	1	
+WT	ribonuclease P complex	232	5	0	0	1	
+KO	ribonuclease P complex	232	43	0	0	1	
+WT	mismatch repair complex	232	5	0	0	1	
+KO	mismatch repair complex	232	43	0	0	1	
+WT	site of polarized growth	232	5	2	0	1	
+KO	site of polarized growth	232	43	2	0	1	
+WT	post-mRNA release spliceosomal complex	232	5	1	0	1	
+KO	post-mRNA release spliceosomal complex	232	43	1	0	1	
+WT	septin ring	232	5	0	0	1	
+KO	septin ring	232	43	0	0	1	
+WT	mitochondrial processing peptidase complex	232	5	0	0	1	
+KO	mitochondrial processing peptidase complex	232	43	0	0	1	
+WT	NSL complex	232	5	0	0	1	
+KO	NSL complex	232	43	0	0	1	
+WT	DNA recombinase complex	232	5	0	0	1	
+KO	DNA recombinase complex	232	43	0	0	1	
+WT	Sin3-type complex	232	5	0	0	1	
+KO	Sin3-type complex	232	43	0	0	1	
+WT	postsynaptic endocytic zone membrane	232	5	0	0	1	
+KO	postsynaptic endocytic zone membrane	232	43	0	0	1	
+WT	Pwp2p-containing subcomplex of 90S preribosome	232	5	0	0	1	
+KO	Pwp2p-containing subcomplex of 90S preribosome	232	43	0	0	1	
+WT	RAVE complex	232	5	0	0	1	
+KO	RAVE complex	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex, class III, type II	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex, class III, type II	232	43	0	0	1	
+WT	laminin complex	232	5	1	0	1	
+KO	laminin complex	232	43	1	0	1	
+WT	proton-transporting ATP synthase complex, catalytic core F(1)	232	5	0	0	1	
+KO	proton-transporting ATP synthase complex, catalytic core F(1)	232	43	0	0	1	
+WT	Toll-like receptor 2-Toll-like receptor 6 protein complex	232	5	0	0	1	
+KO	Toll-like receptor 2-Toll-like receptor 6 protein complex	232	43	0	0	1	
+WT	nuclear pore inner ring	232	5	0	0	1	
+KO	nuclear pore inner ring	232	43	0	0	1	
+WT	ribose phosphate diphosphokinase complex	232	5	0	0	1	
+KO	ribose phosphate diphosphokinase complex	232	43	0	0	1	
+WT	nuclear SCF ubiquitin ligase complex	232	5	0	0	1	
+KO	nuclear SCF ubiquitin ligase complex	232	43	0	0	1	
+WT	checkpoint clamp complex	232	5	0	0	1	
+KO	checkpoint clamp complex	232	43	0	0	1	
+WT	CURI complex	232	5	0	0	1	
+KO	CURI complex	232	43	0	0	1	
+WT	glycosylphosphatidylinositol-mannosyltransferase I complex	232	5	0	0	1	
+KO	glycosylphosphatidylinositol-mannosyltransferase I complex	232	43	0	0	1	
+WT	axonemal central apparatus	232	5	0	0	1	
+KO	axonemal central apparatus	232	43	0	0	1	
+WT	Sec62/Sec63 complex	232	5	0	0	1	
+KO	Sec62/Sec63 complex	232	43	0	0	1	
+WT	Lsm1-7-Pat1 complex	232	5	0	0	1	
+KO	Lsm1-7-Pat1 complex	232	43	0	0	1	
+WT	postsynaptic endocytic zone cytoplasmic component	232	5	0	0	1	
+KO	postsynaptic endocytic zone cytoplasmic component	232	43	0	0	1	
+WT	peroxisomal importomer complex	232	5	0	0	1	
+KO	peroxisomal importomer complex	232	43	0	0	1	
+WT	EGO complex	232	5	0	0	1	
+KO	EGO complex	232	43	0	0	1	
+WT	tRNA-specific adenosine-34 deaminase complex	232	5	0	0	1	
+KO	tRNA-specific adenosine-34 deaminase complex	232	43	0	0	1	
+WT	mitochondrial proton-transporting ATP synthase, stator stalk	232	5	0	0	1	
+KO	mitochondrial proton-transporting ATP synthase, stator stalk	232	43	0	0	1	
+WT	extrinsic component of vacuolar membrane	232	5	0	0	1	
+KO	extrinsic component of vacuolar membrane	232	43	0	0	1	
+WT	replication fork protection complex	232	5	1	0	1	
+KO	replication fork protection complex	232	43	1	0	1	
+WT	Cdc48p-Npl4p-Vms1p AAA ATPase complex	232	5	0	0	1	
+KO	Cdc48p-Npl4p-Vms1p AAA ATPase complex	232	43	0	0	1	
+WT	respiratory chain complex I	232	5	0	0	1	
+KO	respiratory chain complex I	232	43	0	0	1	
+WT	NatB complex	232	5	0	0	1	
+KO	NatB complex	232	43	0	0	1	
+WT	DNA replication preinitiation complex	232	5	0	0	1	
+KO	DNA replication preinitiation complex	232	43	0	0	1	
+WT	GID complex	232	5	0	0	1	
+KO	GID complex	232	43	0	0	1	
+WT	succinate-CoA ligase complex	232	5	0	0	1	
+KO	succinate-CoA ligase complex	232	43	0	0	1	
+WT	post-spliceosomal complex	232	5	0	0	1	
+KO	post-spliceosomal complex	232	43	0	0	1	
+WT	phosphatidylinositol 3-kinase complex, class III, type I	232	5	0	0	1	
+KO	phosphatidylinositol 3-kinase complex, class III, type I	232	43	0	0	1	
+WT	Mis6-Sim4 complex	232	5	0	0	1	
+KO	Mis6-Sim4 complex	232	43	0	0	1	
+WT	transcription factor TFIIK complex	232	5	0	0	1	
+KO	transcription factor TFIIK complex	232	43	0	0	1	
+WT	nuclear cohesin complex	232	5	0	0	1	
+KO	nuclear cohesin complex	232	43	0	0	1	
+WT	transcription factor TFIIE complex	232	5	0	0	1	
+KO	transcription factor TFIIE complex	232	43	0	0	1	
+WT	GINS complex	232	5	0	0	1	
+KO	GINS complex	232	43	0	0	1	
+WT	TRAPPII protein complex	232	5	0	0	1	
+KO	TRAPPII protein complex	232	43	0	0	1	
+WT	mitochondrial oxoglutarate dehydrogenase complex	232	5	0	0	1	
+KO	mitochondrial oxoglutarate dehydrogenase complex	232	43	0	0	1	
+WT	nuclear pre-replicative complex	232	5	0	0	1	
+KO	nuclear pre-replicative complex	232	43	0	0	1	
+WT	multi-eIF complex	232	5	0	0	1	
+KO	multi-eIF complex	232	43	0	0	1	
+WT	PAS complex	232	5	0	0	1	
+KO	PAS complex	232	43	0	0	1	
+WT	actin-based cell projection	232	5	0	0	1	
+KO	actin-based cell projection	232	43	0	0	1	
+WT	Rix1 complex	232	5	0	0	1	
+KO	Rix1 complex	232	43	0	0	1	
+WT	bub1-bub3 complex	232	5	0	0	1	
+KO	bub1-bub3 complex	232	43	0	0	1	
+WT	negative cofactor 2 complex	232	5	0	0	1	
+KO	negative cofactor 2 complex	232	43	0	0	1	
+WT	Dbf4-dependent protein kinase complex	232	5	0	0	1	
+KO	Dbf4-dependent protein kinase complex	232	43	0	0	1	
+WT	NADH dehydrogenase complex	232	5	0	0	1	
+KO	NADH dehydrogenase complex	232	43	0	0	1	
+WT	equatorial microtubule organizing center	232	5	0	0	1	
+KO	equatorial microtubule organizing center	232	43	0	0	1	
+WT	striated muscle dense body	232	5	0	0	1	
+KO	striated muscle dense body	232	43	0	0	1	
+WT	DNA ligase III-XRCC1 complex	232	5	0	0	1	
+KO	DNA ligase III-XRCC1 complex	232	43	0	0	1	
+WT	cytosolic tRNA wobble base thiouridylase complex	232	5	0	0	1	
+KO	cytosolic tRNA wobble base thiouridylase complex	232	43	0	0	1	
+WT	RQC complex	232	5	0	0	1	
+KO	RQC complex	232	43	0	0	1	
+WT	DNA polymerase complex	232	5	0	0	1	
+KO	DNA polymerase complex	232	43	0	0	1	
+WT	mitotic checkpoint complex	232	5	0	0	1	
+KO	mitotic checkpoint complex	232	43	0	0	1	
+WT	membrane-bounded organelle	232	5	0	0	1	
+KO	membrane-bounded organelle	232	43	0	0	1	
+WT	postsynaptic early endosome	232	5	0	0	1	
+KO	postsynaptic early endosome	232	43	0	0	1	
+WT	plasma membrane proton-transporting V-type ATPase complex	232	5	0	0	1	
+KO	plasma membrane proton-transporting V-type ATPase complex	232	43	0	0	1	
+WT	ASTRA complex	232	5	0	0	1	
+KO	ASTRA complex	232	43	0	0	1	
+WT	Rad6-Rad18 complex	232	5	0	0	1	
+KO	Rad6-Rad18 complex	232	43	0	0	1	
+WT	UTP-C complex	232	5	0	0	1	
+KO	UTP-C complex	232	43	0	0	1	
+WT	nuclear MIS12/MIND complex	232	5	0	0	1	
+KO	nuclear MIS12/MIND complex	232	43	0	0	1	
+WT	RSC-type complex	232	5	0	0	1	
+KO	RSC-type complex	232	43	0	0	1	
+WT	lytic vacuole	232	5	0	0	1	
+KO	lytic vacuole	232	43	0	0	1	
+WT	Noc1p-Noc2p complex	232	5	0	0	1	
+KO	Noc1p-Noc2p complex	232	43	0	0	1	
+WT	presynaptic endosome	232	5	0	0	1	
+KO	presynaptic endosome	232	43	0	0	1	
+WT	Noc2p-Noc3p complex	232	5	0	0	1	
+KO	Noc2p-Noc3p complex	232	43	0	0	1	
+WT	condensed nuclear chromosome inner kinetochore	232	5	0	0	1	
+KO	condensed nuclear chromosome inner kinetochore	232	43	0	0	1	
+WT	mitochondrial fatty acid beta-oxidation multienzyme complex	232	5	0	0	1	
+KO	mitochondrial fatty acid beta-oxidation multienzyme complex	232	43	0	0	1	
+WT	nucleoid	232	5	0	0	1	
+KO	nucleoid	232	43	0	0	1	
+WT	TRC complex	232	5	0	0	1	
+KO	TRC complex	232	43	0	0	1	
+WT	mitochondrial DNA-directed RNA polymerase complex	232	5	0	0	1	
+KO	mitochondrial DNA-directed RNA polymerase complex	232	43	0	0	1	
+WT	Seh1-associated complex	232	5	0	0	1	
+KO	Seh1-associated complex	232	43	0	0	1	
+WT	RecQ family helicase-topoisomerase III complex	232	5	0	0	1	
+KO	RecQ family helicase-topoisomerase III complex	232	43	0	0	1	
+WT	nuclear cap binding complex	232	5	0	0	1	
+KO	nuclear cap binding complex	232	43	0	0	1	
+WT	nucleotide-excision repair factor 3 complex	232	5	0	0	1	
+KO	nucleotide-excision repair factor 3 complex	232	43	0	0	1	
+WT	nuclear pore transmembrane ring	232	5	0	0	1	
+KO	nuclear pore transmembrane ring	232	43	0	0	1	
+WT	cone matrix sheath	232	5	0	0	1	
+KO	cone matrix sheath	232	43	0	0	1	
+WT	TRAPPIII protein complex	232	5	0	0	1	
+KO	TRAPPIII protein complex	232	43	0	0	1	
+WT	NuA3b histone acetyltransferase complex	232	5	0	0	1	
+KO	NuA3b histone acetyltransferase complex	232	43	0	0	1	
+WT	meiotic spindle midzone	232	5	0	0	1	
+KO	meiotic spindle midzone	232	43	0	0	1	
+WT	proteasome storage granule	232	5	0	0	1	
+KO	proteasome storage granule	232	43	0	0	1	
+WT	nuclear microtubule	232	5	0	0	1	
+KO	nuclear microtubule	232	43	0	0	1	
+WT	GET complex	232	5	0	0	1	
+KO	GET complex	232	43	0	0	1	
+WT	nucleotide-excision repair factor 2 complex	232	5	0	0	1	
+KO	nucleotide-excision repair factor 2 complex	232	43	0	0	1	
+WT	endodeoxyribonuclease complex	232	5	0	0	1	
+KO	endodeoxyribonuclease complex	232	43	0	0	1	
+WT	nucleus-vacuole junction	232	5	0	0	1	
+KO	nucleus-vacuole junction	232	43	0	0	1	
+WT	NuA3a histone acetyltransferase complex	232	5	0	0	1	
+KO	NuA3a histone acetyltransferase complex	232	43	0	0	1	
+WT	TRAPPI protein complex	232	5	0	0	1	
+KO	TRAPPI protein complex	232	43	0	0	1	
+WT	mRNA cleavage stimulating factor complex	232	5	0	0	1	
+KO	mRNA cleavage stimulating factor complex	232	43	0	0	1	
+WT	presynaptic cytoskeleton	232	5	0	0	1	
+KO	presynaptic cytoskeleton	232	43	0	0	1	
+WT	extrinsic component of postsynaptic early endosome membrane	232	5	0	0	1	
+KO	extrinsic component of postsynaptic early endosome membrane	232	43	0	0	1	
+WT	SWI/SNF superfamily-type complex	232	5	0	0	1	
+KO	SWI/SNF superfamily-type complex	232	43	0	0	1	

@@ -1,0 +1,54 @@
+Tissue	TissueName	TissueCategory
+Adipose_Subcutaneous	Adipose - Subcutaneous	Adipose
+Adipose_Visceral_.Omentum.	Adipose - Visceral	Adipose
+Adrenal_Gland	Adrenal gland	Other
+Artery_Aorta	Artery - Aorta	Cardiovascular
+Artery_Coronary	Artery - Coronary	Cardiovascular
+Artery_Tibial	Artery - Tibial	Cardiovascular
+Bladder	Bladder	Other
+Brain_Amygdala	Brain - Amygdala	CNS
+Brain_Anterior_cingulate_cortex_.BA24.	Brain - Anterior cingulate cortex	CNS
+Brain_Caudate_.basal_ganglia.	Brain - Caudate	CNS
+Brain_Cerebellar_Hemisphere	Brain - Cerebellar hemisphere	CNS
+Brain_Cerebellum	Brain - Cerebellum	CNS
+Brain_Cortex	Brain - Cortex	CNS
+Brain_Frontal_Cortex_.BA9.	Brain - Frontal cortex	CNS
+Brain_Hippocampus	Brain - Hippocampus	CNS
+Brain_Hypothalamus	Brain - Hypothalamus	CNS
+Brain_Nucleus_accumbens_.basal_ganglia.	Brain - Nucleus accumbens	CNS
+Brain_Putamen_.basal_ganglia.	Brain - Putamen	CNS
+Brain_Spinal_cord_.cervical_c.1.	Brain - Spinal cord	CNS
+Brain_Substantia_nigra	Brain - Substantia nigra	CNS
+Breast_Mammary_Tissue	Breast - Mammary tissue	Other
+Cells_EBV.transformed_lymphocytes	Cells - EBV-transformed lymphocytes	Blood/Immune
+Cells_Transformed_fibroblasts	Cells - Transformed fibroblasts	Musculoskeletal/Connective
+Cervix_Ectocervix	Cervix - Ectocervix	Other
+Cervix_Endocervix	Cervix - Endocervix	Other
+Colon_Sigmoid	Colon - Sigmoid	Digestive
+Colon_Transverse	Colon - Transverse	Digestive
+Esophagus_Gastroesophageal_Junction	Esophagus - Gastroesophageal junction	Digestive
+Esophagus_Mucosa	Esophagus - Mucosa	Digestive
+Esophagus_Muscularis	Esophagus - Muscularis	Digestive
+Fallopian_Tube	Fallopian tube	Other
+Heart_Atrial_Appendage	Heart - Atrial appendage	Cardiovascular
+Heart_Left_Ventricle	Heart - Left ventricle	Cardiovascular
+Kidney_Cortex	Kidney - Cortex	Other
+Liver	Liver	Liver
+Lung	Lung	Other
+Minor_Salivary_Gland	Minor salivary gland	Other
+Muscle_Skeletal	Muscle - Skeletal	Musculoskeletal/Connective
+Nerve_Tibial	Nerve - Tibial	Other
+Ovary	Ovary	Other
+Pancreas	Pancreas	Pancreas
+Pituitary	Pituitary	Other
+Prostate	Prostate	Other
+Skin_Not_Sun_Exposed_.Suprapubic.	Skin - Not sun exposed	Other
+Skin_Sun_Exposed_.Lower_leg.	Skin - Sun exposed	Other
+Small_Intestine_Terminal_Ileum	Small intestine - Terminal ileum	Digestive
+Spleen	Spleen	Blood/Immune
+Stomach	Stomach	Digestive
+Testis	Testis	Other
+Thyroid	Thyroid	Other
+Uterus	Uterus	Other
+Vagina	Vagina	Other
+Whole_Blood	Whole blood	Blood/Immune
