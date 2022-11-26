@@ -24,13 +24,13 @@ scoreDf <- rbind(scoreDf,data.frame(variable='ASD Q-value',
 	gene=asdDf$hugoGene,score=asdDf$qval_dnccPTV))
 
 # DD p-values (Kaplanis et al.; columns to use: symbol, denovoWEST_p_full)
-ddDf <- read.table('../data/Kaplanis2019_TableS2.txt',header=T,sep='\t')
+ddDf <- read.table('../data/Kaplanis2020_TableS2.txt',header=T,sep='\t')
 ddDf <- subset(ddDf,!is.na(denovoWEST_p_full))
 scoreDf <- rbind(scoreDf,data.frame(variable='DD P-value',
 	gene=ddDf$symbol,score=ddDf$denovoWEST_p_full))
         
 # SCZ/SCHEMA p-values (Singh et al.; columns to use: Gene.Symbol, P.meta, Q.meta)
-schemaDf <- read.csv('../data/SCHEMA2020_TableS5.csv')
+schemaDf <- read.csv('../data/Singh2022_SCHEMA_SuppTable5.csv')
 schemaDf <- subset(schemaDf,!is.na(P.meta))
 scoreDf <- rbind(scoreDf,data.frame(variable='SCHEMA P-value',
         gene=schemaDf$Gene.Symbol,score=schemaDf$P.meta))
